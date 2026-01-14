@@ -1236,31 +1236,59 @@ https://ornek.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",🚨🚨deneme🔴🔴
 https://ornek.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test1 android aktif
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=SEF5ygQrlOzFRuzsplKSlWg_G0T16RUQ1JQvf-97fto&s=1768390815&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://ico3c.com/
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test ios için televizo açtı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test2 android aktif
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=SEF5ygQrlOzFRuzsplKSlWg_G0T16RUQ1JQvf-97fto&s=1768390815&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test2 android ve ios açtı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test3 ios aktif
+https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=SEF5ygQrlOzFRuzsplKSlWg_G0T16RUQ1JQvf-97fto&s=1768390815&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=&User-Agent=Mozilla/5.0&Referer=https://ico3c.com/
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test4 android ve ios açtı
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=SEF5ygQrlOzFRuzsplKSlWg_G0T16RUQ1JQvf-97fto&s=1768390815&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test3 android ve ios açtı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test5 android ve ios açtı
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ico3c.com/
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=SEF5ygQrlOzFRuzsplKSlWg_G0T16RUQ1JQvf-97fto&s=1768390815&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test_deneme
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=SEF5ygQrlOzFRuzsplKSlWg_G0T16RUQ1JQvf-97fto&s=1768390815&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=&User-Agent=Mozilla/5.0&Referer=https://ico3c.com/
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",LOST - SezonlukDizi
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test6 android ve ios aktif
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sezonlukdizi8.com/
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=SEF5ygQrlOzFRuzsplKSlWg_G0T16RUQ1JQvf-97fto&s=1768390815&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",LOST - SezonlukDizi
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=SEF5ygQrlOzFRuzsplKSlWg_G0T16RUQ1JQvf-97fto&s=1768390815&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://sezonlukdizi8.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
