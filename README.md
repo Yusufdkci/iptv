@@ -12,7 +12,7 @@ m3u4: http://m3u4u.com/m3u/xe47yz7wr3hpg884n9vq
 ## 🔗 Kısa Linkler
 Aşağıdaki kısa linkler, IPTV uygulamalarında listeyi eklemek ve daha kolay kullanım sağlamak amacıyla oluşturulmuştur:
 
-#paylasimiptv #tvkanallari   -------- #m3u0001 ---------
+ #paylasimiptv #tvkanallari # -------- #m3u0001 ---------
 
 https://is.gd/canlitv01
 
