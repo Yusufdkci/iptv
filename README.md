@@ -12,15 +12,12 @@ m3u4: http://m3u4u.com/m3u/xe47yz7wr3hpg884n9vq
 ## 🔗 Kısa Linkler
 Aşağıdaki kısa linkler, IPTV uygulamalarında listeyi eklemek ve daha kolay kullanım sağlamak amacıyla oluşturulmuştur:
 
-#paylasimiptv #tvkanallari #m3u0001
+#paylasimiptv #tvkanallari           #m3u0001
 
-is.gd:
 https://is.gd/canlitv01
 
-Kısa:
 https://tinyurl.com/canlitv01
 
-Yedek:
 https://bit.ly/canlitv01
 
 https://tinu.be/canlitv01
@@ -42,10 +39,10 @@ Linkler kaybolmaması için bu dosyada tutulmaktadır.
 -------------------------------------------
 
 ## 🔗 Kısa Linkler
-Aşağıdaki kısa linkler, IPTV uygulamalarında daha kolay kullanım için oluşturulmuştur:
+Yukarıdaki kısa linkler, IPTV uygulamalarında daha kolay kullanım için oluşturulmuştur:
 
 ## 🔗 Kısa Linkler
-Aşağıdaki kısa linkler, IPTV uygulamalarında listeyi eklemek için kullanılabilir:
+Yukarıdaki kısa linkler, IPTV uygulamalarında listeyi eklemek için kullanılabilir:
 
 
 
