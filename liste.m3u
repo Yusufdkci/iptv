@@ -1142,6 +1142,8 @@ http://movies.hdfilm.workers.dev/?ID=tarzan/
 http://movies.hdfilm.workers.dev/?ID=bitirim-karinca-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karınca Z
 http://movies.hdfilm.workers.dev/?ID=karinca-z-fh1/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",zootopia
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/zootopia-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ölüm Hattı
 http://movies.hdfilm.workers.dev/?ID=olum-hatti-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tetikçi 2 Yüksek Gerilim
