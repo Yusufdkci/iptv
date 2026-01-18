@@ -1,6 +1,6 @@
 # IPTV M3U Listem
 
-Bu repo kişisel IPTV M3U listemi içerir.
+Bu repo kişisel IPTV M3U listemi içerir.Türk m3u listeleri farklı kaynaklardan birleştirilmiş ve düzenlenmiş tek liste haline getirilmiştir.
 
 ## 🔗 Ana (RAW) Link
 Aşağıdaki link IPTV uygulamaları için ana kaynaktır:
