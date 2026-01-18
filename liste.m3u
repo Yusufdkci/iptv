@@ -154,9 +154,9 @@ http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 http://116.202.238.88/TRT1_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://vimg.ipko.tv/logo/color/trt1.png" group-title="YEDEKLER",TRT1
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
-#EXTINF:-1 tvg-logo="https://vimg.ipko.tv/logo/color/trt1.png" group-title="YEDEKLER",TRT1 test
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83724_dark_360w_270h.png" group-title="YEDEKLER",TRT1 test
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
-#EXTINF:-1 tvg-logo="https://vimg.ipko.tv/logo/color/trt1.png" group-title="YEDEKLER",TRT1 test
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83724_dark_360w_270h.png" group-title="YEDEKLER",TRT1 test
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7lt9umlk1uqx&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-id="TRT BELGESEL" tvg-name="TRT BELGESEL" tvg-logo="https://yt3.googleusercontent.com/bnBf3_3Nw-sQkrjyj0U1Gb68Od0em3yzm9_VzgHqyxPvYyP069gRuRW-QdLI5qJ8QFl3m-y6Mw" group-title="YEDEKLER",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
