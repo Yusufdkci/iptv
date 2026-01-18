@@ -7,6 +7,8 @@ Aşağıdaki link IPTV uygulamaları için ana kaynaktır:
 
 https://raw.githubusercontent.com/Yusufdkci/iptv/main/liste.m3u
 
+https://yusufdkci.github.io/iptv/liste.m3u
+
 m3u4u: http://m3u4u.com/m3u/xe47yz7wr3hpg884n9vq
 
 ## 🔗 Kısa Linkler
