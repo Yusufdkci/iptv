@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_S
 #EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="GENEL",BEİN SPORTS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="GENEL",DMAX
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/dmax_ly3.png" group-title="GENEL",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?sig=af527ce6e5d69222a29b858f32df80df&token=TkQ1M21pVmhJTkxGRlFzV21QMjhJVFhnMG5HRjYrOFhZKzRLQ2RlUDJ6VT0=&sid=6t2iv0z0s1w4&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="GENEL",TLC
@@ -287,7 +287,7 @@ https://videos.pexels.com/video-files/17275616/17275616-uhd_1440_2560_30fps.mp4?
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="YEDEKLER",TRT1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6skm73ev5hwn&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="YEDEKLER",TRT1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt1_D9T.png" group-title="YEDEKLER",TRT1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?sig=015f7390da20e094a49822dbd38c8b28&sid=6s9hpg4oux50&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-logo="https://vimg.ipko.tv/logo/color/trt1.png" group-title="YEDEKLER",TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
