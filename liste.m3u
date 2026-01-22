@@ -111,10 +111,12 @@ https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://65.108.239.207/t1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="GENEL",Tivibu Spor 2
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="SPOR KANALI",Tivibu Spor 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://65.108.239.207/t2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="GENEL",Tivibu Spor 3
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="SPOR KANALI", Tivibu Spor 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://65.108.239.207/t3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",beİN Spor
