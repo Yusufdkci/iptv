@@ -115,7 +115,7 @@ http://65.108.239.207/t1/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://65.108.239.207/t2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="SPOR KANALI", Tivibu Spor 3
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="SPOR KANALI",Tivibu Spor 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://65.108.239.207/t3/index.m3u8
 
@@ -131,10 +131,10 @@ https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports 4K
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://bs.arectv31.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports FHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://bs.arectv31.sbs/static/bs1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports vpn
@@ -143,6 +143,82 @@ http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/14795.ts
 http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/111898.ts
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Rafadan Tayfa test 7/24
 https://streams.uzunmuhalefet.com/stream/e26ef489-4f69-41a7-a6e2-1b0136a9fff7.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="VPN",VPN BeINSport Haber UHD
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48894.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN BeIN Sports FEED1
+http://medotv.nl:8000/live/besho1990/mLKFJqVKKejc/14795.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN BeIN Sports+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49219.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN BeIN Sports++
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN BeIN Sport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-origin=https://bilyonersport1.com
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5zu8a0z.jpeg" group-title="VPN",VPN Selçuk-Sports1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-origin=https://bosssports294.com
+#EXTVLCOPT:http-referrer=https://bosssports294.com/
+https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/3apwt19.jpeg" group-title="VPN",VPN VARSPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz
+#EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
+http://izipizi1.info:80/live/ItcElekt90dnzR/ItcElekt90dftjc/39895.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/95fovn8.png" group-title="VPN",VPN JUSTINSPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/115033.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN: BEIN SPORTS 4K (REAL 4K)
+http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/14795
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN: BEİNSPORTS 1 FHD
+http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/115033
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN: BEINSPORTS 1 HD
+http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/111898
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: SINEMA TV HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115119
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: SINEMA TV AKSIYON HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115121
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: SINEMA AKSIYON 2 HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115122
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: SINEMA KOMEDI HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115123
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: SINEMA AILE HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115124
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: SINEMA AILE 2 HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115125
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: SINEMA 1002 HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115127
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: BEiN BOX OFFİCE 2 HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10626
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: BEiN BOX OFFİCE 1 HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10627
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: beIN MOVIES STARS HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10619
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: beIN MOVIES ACTION HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10621
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: beIN MOVIES PREMIERE HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10623
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: beIN MOVIES FAMILY HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10618
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: DIZI SMART PREMIUM HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10613
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",VPN: NAT GEO WILD HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/670
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",VPN: NAT GEO WILD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/49578
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",VPN: NAT GEO HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115164
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",VPN: DISCOVERY HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/667
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",VPN: VIASAT EXPLORE HD
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115162
+
 
 #EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN Sport SD
 https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
