@@ -144,6 +144,31 @@ http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/111898.ts
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Rafadan Tayfa test 7/24
 https://streams.uzunmuhalefet.com/stream/e26ef489-4f69-41a7-a6e2-1b0136a9fff7.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Film Test1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ok.ru/
+https://vd423.okcdn.ru/?expires=1769271529025&srcIp=88.243.193.245&pr=10&srcAg=CHROME&ch=-1610167797&ms=45.136.21.26&type=1&sig=z-wblflU7-Y&ct=6&urls=185.226.52.4&clientType=0&id=10617651464914&selected_id=5
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Film Test2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ok.ru/
+https://vd423.okcdn.ru/?expires=1769271529025&srcIp=88.243.193.245&pr=10&srcAg=CHROME&ch=-1610167797&ms=45.136.21.26&type=1&sig=z-wblflU7-Y&ct=6&urls=185.226.52.4&clientType=0&id=10617651464914&selected_id=5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Film Test3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ok.ru/
+https://vd423.okcdn.ru/expires/1769271531291/srcIp/88.243.193.245/pr/10/srcAg/CHROME/ch/-2046656626/ms/45.136.21.26/type/3/sig/DeANys9BEXo/ct/8/urls/185.226.52.4/clientType/0/id/10617651464914/video/
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Film Test4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ok.ru/
+https://vd423.okcdn.ru/video.m3u8?cmd=videoPlayerCdn&expires=1769271531291&srcIp=88.243.193.245&pr=10&srcAg=CHROME&ch=-2046656626&ms=45.136.21.26&type=2&sig=ut6pWPHdVPY&ct=8&urls=185.226.52.4&clientType=0&id=10617651464914
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Film Test5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ok.ru/
+https://vd423.okcdn.ru/expires/1769271531291/srcIp/88.243.193.245/pr/10/srcAg/CHROME/ch/-2046656626/ms/45.136.21.26/type/5/sig/vExHL-VzWag/ct/8/urls/185.226.52.4/clientType/0/id/10617651464914/video/
+
 #EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="GENEL",TrGoals Yayını1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1509.xyz/
