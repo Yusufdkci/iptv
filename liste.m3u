@@ -1530,25 +1530,11 @@ https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
 #EXTVLCOPT:http-referrer=https://www.filmmodu.ws/
 https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",arşiv1
+https://archive.org/download/filmarsivi/film1.mp4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",arşiv2
+https://ia601709.us.archive.org/2/items/filmarsivi/film1.mp4
 
 
 
