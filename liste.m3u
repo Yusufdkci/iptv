@@ -209,6 +209,34 @@ http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/14795
 http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/115033
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BEINSPORTS 1 HD
 http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/111898
+
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN Sport SD
+https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORT 1 480P
+https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN Sport 1 720P (O)
+https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 720P (V)
+https://goldvod.org/live/hpgdiscoo/123456/141.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 FEED (V)
+https://goldvod.org/live/hpgdiscoo/123456/142.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 8K FEED
+https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 720P FEED
+https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 H265
+https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 + D (V)
+https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 LIVE (V)
+https://goldvod.org/live/hpgdiscoo/123456/143.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 50FPS (V)
+https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 HD
+https://goldvod.org/live/hpgdiscoo/123456/148.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 HD TURKEY
+https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: SINEMA TV HD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115119
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: SINEMA TV AKSIYON HD
@@ -249,32 +277,6 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115162
 
 
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN Sport SD
-https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORT 1 480P
-https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN Sport 1 720P (O)
-https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 720P (V)
-https://goldvod.org/live/hpgdiscoo/123456/141.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 FEED (V)
-https://goldvod.org/live/hpgdiscoo/123456/142.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 8K FEED
-https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 720P FEED
-https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 H265
-https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 + D (V)
-https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 LIVE (V)
-https://goldvod.org/live/hpgdiscoo/123456/143.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 50FPS (V)
-https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 HD
-https://goldvod.org/live/hpgdiscoo/123456/148.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 HD TURKEY
-https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
 #EXTINF:-1 tvg-logo="https://telik.live/images/tom_and_jerry.png" group-title="VPN",Test VPN Tom and Jerry
 https://goldvod.org/live/hpgdiscoo/123456/10499.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN OSCAR ÇÖLLERDE
@@ -1185,6 +1187,10 @@ https://vidrame.pro/vr/get/5a36d5ba/1080.txt?=.mp4
 https://vidmody.com/mm/tt35156304/main_1080/index-v1-a1.gif
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhanı Nasıl Eğitirsin
 http://movies.hdfilm.workers.dev/?ID=ejderhani-nasil-egitirsin-how-to-train-your-dragon-2/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 1
+https://archive.org/download/filmarsivi/film1.mp4
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 1 yedek
+https://ia601709.us.archive.org/2/items/filmarsivi/film1.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhani nasil egitirsin 2
 https://vidrame.pro/vr/get/4713d96a/1080.txt
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 2
@@ -1375,6 +1381,15 @@ http://movies.hdfilm.workers.dev/?ID=babamin-penguenleri/
 http://movies.hdfilm.workers.dev/?ID=kartal-goz-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kimlik - Idenity
 http://movies.hdfilm.workers.dev/?ID=kimlik-fh3/
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",madagaskar 1 test1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",madagaskar 1 test2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/143.0.0.0
+#EXTVLCOPT:http-referrer=https://www.filmmodu.ws/
+https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madagaskar 2
 http://movies.hdfilm.workers.dev/?ID=madagaskar-2-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madagaskar 3
@@ -1522,20 +1537,6 @@ https://filmarsivi.yusufdkci1.workers.dev/?ID=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test amaçlı direct link
 https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",madagaskar 1 test1
-https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",madagaskar 1 test2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/143.0.0.0
-#EXTVLCOPT:http-referrer=https://www.filmmodu.ws/
-https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",arşiv1
-https://archive.org/download/filmarsivi/film1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",arşiv2
-https://ia601709.us.archive.org/2/items/filmarsivi/film1.mp4
 
 
 
