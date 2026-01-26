@@ -101,23 +101,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",minika go
 https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="GENEL",Tivibu Spor
-https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="GENEL",Tivibu Spor
-https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="SPOR KANALI",Tivibu Spor 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://65.108.239.207/t1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="SPOR KANALI",Tivibu Spor 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://65.108.239.207/t2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="SPOR KANALI",Tivibu Spor 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://65.108.239.207/t3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Rafadan Tayfa test 7/24
+https://streams.uzunmuhalefet.com/stream/e26ef489-4f69-41a7-a6e2-1b0136a9fff7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",beİN Spor
 http://65.108.239.207/bm1/index.m3u8
@@ -128,85 +113,101 @@ http://65.108.239.207/bm2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",beİN Spor
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="GENEL",Tivibu Spor
+https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="GENEL",Tivibu Spor
+https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="GENEL",Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+http://65.108.239.207/t1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="GENEL",Tivibu Spor 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+http://65.108.239.207/t2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="GENEL",Tivibu Spor 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+http://65.108.239.207/t3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",Bein Sports
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports 4K
+#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR",TrGoals Yayını1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1514.xyz
+https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR",TrGoals Yayını off
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
+https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",Spor Kanalı off
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1514.xyz
+https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",Spor Kanalı off
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
+https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",Spor Kanalı off
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1514.xyz
+https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",BeIN Sports 4K vpn
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://bs.arectv31.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports FHD 1
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",BeIN Sports FHD 1 vpn
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://bs.arectv31.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports vpn
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",Bein Sports vpn
 http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/14795.ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports vpn
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",Bein Sports vpn
 http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/111898.ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Rafadan Tayfa test 7/24
-https://streams.uzunmuhalefet.com/stream/e26ef489-4f69-41a7-a6e2-1b0136a9fff7.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="GENEL",TrGoals Yayını1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="GENEL",TrGoals Yayını2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="GENEL",Spor Kanalı test1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="GENEL",Spor Kanalı test2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="GENEL",Spor Kanalı test3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="VPN",VPN BeINSport Haber UHD
+#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR",VPN BeINSport Haber UHD
 http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48894.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN BeIN Sports FEED1
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BeIN Sports FEED1
 http://medotv.nl:8000/live/besho1990/mLKFJqVKKejc/14795.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN BeIN Sports+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BeIN Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49219.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN BeIN Sports++
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BeIN Sports++
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN BeIN Sport 1
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BeIN Sport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-origin=https://bilyonersport1.com
 #EXTVLCOPT:http-referrer=https://bilyonersport1.com/
 https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5zu8a0z.jpeg" group-title="VPN",VPN Selçuk-Sports1 HD
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5zu8a0z.jpeg" group-title="SPOR",VPN Selçuk-Sports1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-origin=https://bosssports294.com
 #EXTVLCOPT:http-referrer=https://bosssports294.com/
 https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/3apwt19.jpeg" group-title="VPN",VPN VARSPORTS
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/3apwt19.jpeg" group-title="SPOR",VPN VARSPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz
 #EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
 http://izipizi1.info:80/live/ItcElekt90dnzR/ItcElekt90dftjc/39895.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/95fovn8.png" group-title="VPN",VPN JUSTINSPORTS
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/95fovn8.png" group-title="SPOR",VPN JUSTINSPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/115033.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN: BEIN SPORTS 4K (REAL 4K)
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BEIN SPORTS 4K (REAL 4K)
 http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/14795
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN: BEİNSPORTS 1 FHD
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BEİNSPORTS 1 FHD
 http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/115033
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="VPN",VPN: BEINSPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BEINSPORTS 1 HD
 http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/111898
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: SINEMA TV HD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115119
