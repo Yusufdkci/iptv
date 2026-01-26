@@ -1538,9 +1538,23 @@ https://filmarsivi.yusufdkci1.workers.dev/?ID=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test amaçlı direct link
 https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",transformers 3 test1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.fullhdfilmizlesene.tv/
+#EXTVLCOPT:http-origin=https://rapidvid.net
+https://filmarsivi.yusufdkci1.workers.dev/?ID=transformers3
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",transformers 3 test2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.fullhdfilmizlesene.tv/
+#EXTVLCOPT:http-origin=https://rapidvid.net
+https://filmarsivi.yusufdkci1.workers.dev/?ID=transformers3
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",evde tek başına 2 
+https://filmarsivi.yusufdkci1.workers.dev/?ID=homealone2
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ydk evde tek başına 2 
+https://filmarsivi.yusufdkci1.workers.dev/?ID=ydkhomealone2
 
 
 
