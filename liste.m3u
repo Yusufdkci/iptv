@@ -1542,27 +1542,32 @@ https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 #EXTVLCOPT:http-origin=https://rapidvid.net
 https://filmarsivi.yusufdkci1.workers.dev/?ID=transformers3
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler" sub-track="https://www.filmmodu.ws/uploads/subs/tt0892791/0.vtt",shrek 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler" sub-url="https://www.filmmodu.ws/uploads/subs/tt0892791/0.vtt",shrek 3 v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filmmodu.ws/
 #EXTVLCOPT:sub-file=https://www.filmmodu.ws/uploads/subs/tt0892791/0.vtt
 https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler" sub-url="https://www.filmmodu.ws/uploads/subs/tt0892791/0.vtt",shrek 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler" sub-url="https://www.filmmodu.ws/uploads/subs/tt0892791/0.vtt",shrek 3 v2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filmmodu.ws/
 https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler" sub-url="https://www.filmmodu.ws/uploads/subs/tt0892791/0.vtt",shrek 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler" sub-track="https://www.filmmodu.ws/uploads/subs/tt0892791/0.vtt",shrek 3 v3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filmmodu.ws/
 #EXTVLCOPT:sub-file=https://www.filmmodu.ws/uploads/subs/tt0892791/0.vtt
 https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",evde tek başına 2 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler" sub-track="https://www.filmmodu.ws/uploads/subs/tt0892791/0.vtt",shrek 3 v4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filmmodu.ws/
+https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",evde tek başına 2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=homealone2
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ydk evde tek başına 2 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ydk evde tek başına 2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=ydkhomealone2
 
 
