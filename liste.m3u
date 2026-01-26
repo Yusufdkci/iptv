@@ -1499,10 +1499,10 @@ https://ornek.m3u8
 https://ornek.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",☢️☢️deneme⚠️⚠️
-https://ornek.m3u8
+https://drive.google.com/uc?export=download&id=
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",🚨🚨deneme🔴🔴
-https://ornek.m3u8
+https://drive.google.com/uc?id=
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test1 android aktif
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://ico3c.com/
@@ -1542,12 +1542,10 @@ https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 #EXTVLCOPT:http-origin=https://rapidvid.net
 https://filmarsivi.yusufdkci1.workers.dev/?ID=transformers3
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",shrek 3 v1
-#EXTVLCOPT:sub-file=https://drive.google.com/uc?id=12UtoM-hm-k-ACvrV1kDERfDEjY6Wklqn
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler" sub-url="https://drive.google.com/uc?id=12UtoM-hm-k-ACvrV1kDERfDEjY6Wklqn",shrek 3 v1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",shrek 3 v4
-#EXTVLCOPT:sub-file=https://drive.google.com/uc?id=12UtoM-hm-k-ACvrV1kDERfDEjY6Wklqn
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler" sub-track="https://drive.google.com/uc?id=12UtoM-hm-k-ACvrV1kDERfDEjY6Wklqn",shrek 3 v4
 https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",evde tek başına 2
