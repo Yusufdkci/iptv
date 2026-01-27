@@ -1572,5 +1572,21 @@ https://patr0n.denek1544.workers.dev/izle/lovenature.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test Viasat History (Rec)
 https://patr0n.denek1544.workers.dev/izle/viasathistory.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",spor test1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://restmacizle16.cfd/
+#EXTVLCOPT:http-origin=https://restmacizle16.cfd
+https://0vy.d72577a9dd0ec19.sbs/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",spor test2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronspor24.xyz/
+#EXTVLCOPT:http-origin=https://patronspor24.xyz
+https://0vy.d72577a9dd0ec19.sbs/yayinzirve.m3u8
+
+
+
+
+
 
 
