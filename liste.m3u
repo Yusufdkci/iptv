@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml,https://epghub.xyz/epg/EPG-TR.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml,https://epghub.xyz/epg/EPG-TR.xml,https://www.open-epg.com/files/turkey3.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",🌿GENEL🌿
 https://ornek.m3u8
 
@@ -263,11 +263,11 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10618
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",VPN: DIZI SMART PREMIUM HD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10613
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",VPN: NAT GEO WILD HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgeseller",VPN: NAT GEO WILD HD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/670
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",VPN: NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgeseller",VPN: NAT GEO WILD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/49578
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",VPN: NAT GEO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgeseller",VPN: NAT GEO HD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115164
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",VPN: DISCOVERY HD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/667
@@ -459,13 +459,15 @@ https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="https://yt3.ggpht.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g" group-title="YEDEKLER",BEİN SPORTS HABER
 http://live.tv-youtube.workers.dev/?ID=UCPe9vNjHF1kEExT5kHwc7aw
-#EXTINF:-1 tvg-id="BEİN HABER Kapalı" tvg-name="BEİN HABER Kapalı" tvg-logo="https://bit.ly/302Lfmo" group-title="YEDEKLER",BEİN HABER Kapalı
+#EXTINF:-1 tvg-id="BEİN HABER Kapalı" tvg-name="BEİN HABER Kapalı" tvg-logo="https://bit.ly/302Lfmo" group-title="YEDEKLER",BEİN HABER ydk
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
 #EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="https://i.hizliresim.com/4jlqmv0.png" group-title="YEDEKLER",Dmax
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s160-c-k-c0x00ffffff-no-rj" group-title="YEDEKLER",Dmax ydk
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.hizliresim.com/o6w42nk.png" group-title="YEDEKLER",TLC
 http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="YEDEKLER",Tlc
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w" group-title="YEDEKLER",Tlc
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:-1 tvg-id="ATV Yedek" tvg-name="ATV Yedek" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="YEDEKLER",ATV Yedek
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
@@ -549,16 +551,16 @@ https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",🍀☘️Belgeseller🍀☘️
 https://videos.pexels.com/video-files/31091800/13285423_1920_1080_30fps.mp4?=.mpg
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",NatGeowild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgeseller",NatGeowild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",National Geographic Wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgeseller",National Geographic Wild
 https://cablew.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvIFdJTEQ=
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgeseller",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgeseller",National Geographic
 https://cablew.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvZ3JhcGhpYw==
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Discovery test
