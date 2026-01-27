@@ -1041,16 +1041,18 @@ https://vidmody.com/vs/tt3829266
 https://p2.photostack.net/v/71mqqncq3z2k/1080.m3u8?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Robin Hood 2009 (test)
 https://pixeldrain.com/api/file/CQ1XtrmW?=.mp4
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı Son Hız 
+http://movies.hdfilm.workers.dev/?ID=tasiyici-son-hiz/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 1 2002 [JS] (test)
 https://pixeldrain.com/api/file/gCX8vGqZ?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 1 yedek
 http://movies.hdfilm.workers.dev/?ID=tasiyici-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı Son Hız 
-http://movies.hdfilm.workers.dev/?ID=tasiyici-son-hiz/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 2 2005 [JS] (test)
 https://pixeldrain.com/api/file/aYC3hY5Y?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 2 yedek 
 http://movies.hdfilm.workers.dev/?ID=tasiyici-2-nefes-nefese-fh1/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",taşıyıcı 3
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tasiyici-3
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 4 2015 (test)
 https://pixeldrain.com/api/file/2D9iza35?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tatil Zamanı - Vacation 2015 (archive)
@@ -1119,6 +1121,8 @@ https://pixeldrain.com/api/file/irMUHe7b?=.mp4
 https://ia802801.us.archive.org/2/items/yenilmez3undisputed3turkcedublajyabanciaksiyondramfilmifullfilmizlehd/Yenilmez%203%20%28Undisputed%203%29%20-%20T%C3%BCrk%C3%A7e%20Dublaj%20Yabanc%C4%B1%20Aksiyon_Dram%20Filmi%20-%20Full%20Film%20%C4%B0zle%20%28HD%29.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeraltı Canavarı 2: Artçı Şok (1996) (vidrame)
 https://vidrame.pro/vr/get/a28ee9e3/1080.txt?=.mp4
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",yeraltı canavarı 1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=yeralti-canavari-1
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Yol 1999 test (test)
 https://pixeldrain.com/api/file/LbzUFJYF?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",The Green Mile
@@ -1225,9 +1229,13 @@ http://movies.hdfilm.workers.dev/?ID=deniz-canavari-fh1/
 http://movie.okru.workers.dev/?ID=7163505682824
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Demir Yumruk test
 http://movies.hdfilm.workers.dev/?ID=demir-yumruk-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Sirinler Kayıp Köy 2017
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",şirinler 1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=sirinler-1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",şirinler 2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=sirinler-2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Sirinler 3 Kayıp Köy 2017
 http://movie.okru.workers.dev/?ID=7467268974984
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şirinler yedek
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şirinler 3 yedek
 http://movies.hdfilm.workers.dev/?ID=sirinler-3-kayip-koy-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madalyon
 http://movie.okru.workers.dev/?ID=7384911194504
@@ -1263,6 +1271,18 @@ http://movies.hdfilm.workers.dev/?ID=asteriks-sihirli-iksirin-sirri/
 http://movies.hdfilm.workers.dev/?ID=asteriks-roma-sitesi-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Ve Oburiks Sezara Karşı
 http://movies.hdfilm.workers.dev/?ID=asteriks-ve-oburiks-sezara-karsi-fh1/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",asteriks ve oburiks 2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=asteriks-ve-oburiks-2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",v1asteriks ve oburiks 2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=v1asteriks-ve-oburiks-2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",v2asteriks ve oburiks 2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=v2asteriks-ve-oburiks-2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",asteriks ve oburiks 3
+https://filmarsivi.yusufdkci1.workers.dev/?ID=asteriks-ve-oburiks-3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",v1asteriks ve oburiks 3
+https://filmarsivi.yusufdkci1.workers.dev/?ID=v1asteriks-ve-oburiks-3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",v2asteriks ve oburiks 3
+https://filmarsivi.yusufdkci1.workers.dev/?ID=v2asteriks-ve-oburiks-3
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Diş Perisi
 http://movies.hdfilm.workers.dev/?ID=dis-perisi-darkness-falls/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 5 Son Şövalye
@@ -1295,10 +1315,12 @@ http://movies.hdfilm.workers.dev/?ID=buz-devri-1-izle-hd-fh1/
 http://movies.hdfilm.workers.dev/?ID=buz-devri-2-erime-basliyor-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri 3
 http://movies.hdfilm.workers.dev/?ID=buz-devri-3-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri Bir Yılbaşı Macerası
-http://movies.hdfilm.workers.dev/?ID=buz-devri-bir-yilbasi-macerasi/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",buz devri 4
+https://filmarsivi.yusufdkci1.workers.dev/?ID=buz-devri-4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri 5
 http://movies.hdfilm.workers.dev/?ID=buz-devri-5-buyuk-carpisma-fh2/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri Bir Yılbaşı Macerası
+http://movies.hdfilm.workers.dev/?ID=buz-devri-bir-yilbasi-macerasi/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Çin Seddi
 http://movies.hdfilm.workers.dev/?ID=cin-seddi-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yıldız Savaşları 2
@@ -1321,12 +1343,18 @@ http://movies.hdfilm.workers.dev/?ID=zor-olum-olmek-icin-guzel-bir-gun-fh1/
 http://movies.hdfilm.workers.dev/?ID=buyuk-hazine-2-sirlar-kitabi-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Büyük Hazine 1
 http://movies.hdfilm.workers.dev/?ID=buyuk-hazine-1-fh2/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",noel günlükleri 1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=noel-gunlukleri-1
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Noel Günlükleri 2
 http://movies.hdfilm.workers.dev/?ID=noel-gunlukleri-2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Mumya 3
 http://movies.hdfilm.workers.dev/?ID=mumya-3-ejder-imparatorunun-mezari-fh2/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",mumya 2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=mumya-2
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Mumya 1
 http://movies.hdfilm.workers.dev/?ID=mumya-1-fh2/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",inanılmaz aile 1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=inanilmaz-aile-1
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",İnanılmaz Aile 2
 http://movies.hdfilm.workers.dev/?ID=inanilmaz-aile-2-fh-izle-1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Parker
@@ -1379,7 +1407,7 @@ http://movies.hdfilm.workers.dev/?ID=babamin-penguenleri/
 http://movies.hdfilm.workers.dev/?ID=kartal-goz-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kimlik - Idenity
 http://movies.hdfilm.workers.dev/?ID=kimlik-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",madagaskar 1 test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",madagaskar 1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madagaskar 2
 http://movies.hdfilm.workers.dev/?ID=madagaskar-2-fh2/
@@ -1411,6 +1439,8 @@ http://movies.hdfilm.workers.dev/?ID=tetikci-2-yuksek-gerilim-fh2/
 http://movies.hdfilm.workers.dev/?ID=tetikci-crank-fh-izle/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hızlı ve Emekli 2 Red 2
 http://movies.hdfilm.workers.dev/?ID=hizli-ve-emekli-2-fh5/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve emekli 1 red 1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=hizli-ve-emekli-1
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Telefon Kulübesi 
 http://movies.hdfilm.workers.dev/?ID=telefon-kulubesi/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Fener Zümrüt Şövalyeleri
@@ -1427,6 +1457,8 @@ http://movies.hdfilm.workers.dev/?ID=hiz-tuzagi-fh2/
 http://movies.hdfilm.workers.dev/?ID=smokin-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Cehennem Melekleri 2
 http://movies.hdfilm.workers.dev/?ID=cehennem-melekleri-2-fh1/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",cehennem melekleri 1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=cehennem-melekleri1
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Lara Croft Tomb Raider Yaşamın Kaynağı
 http://movies.hdfilm.workers.dev/?ID=lara-croft-tomb-raider-yasamin-kaynagi-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Çin Falı
@@ -1481,6 +1513,8 @@ http://movies.hdfilm.workers.dev/?ID=zamana-karsi-fh2/
 http://movies.hdfilm.workers.dev/?ID=truva-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Gün Batarken 
 http://movies.hdfilm.workers.dev/?ID=gun-batarken/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı
+https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",###deneme### 
 https://ornek.m3u8
@@ -1537,61 +1571,6 @@ https://cablew.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
 https://patr0n.denek1544.workers.dev/izle/lovenature.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test Viasat History (Rec)
 https://patr0n.denek1544.workers.dev/izle/viasathistory.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",cehennem-melekleri1
-https://filmarsivi.yusufdkci1.workers.dev/?ID=cehennem-melekleri1
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",hizli-ve-emekli-1
-https://filmarsivi.yusufdkci1.workers.dev/?ID=hizli-ve-emekli-1
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",inanilmaz-aile-1
-https://filmarsivi.yusufdkci1.workers.dev/?ID=inanilmaz-aile-1
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",ailem-robotlara-karsi
-https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",buz-devri-4
-https://filmarsivi.yusufdkci1.workers.dev/?ID=buz-devri-4
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",mumya-2
-https://filmarsivi.yusufdkci1.workers.dev/?ID=mumya-2
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",noel-gunlukleri-1
-https://filmarsivi.yusufdkci1.workers.dev/?ID=noel-gunlukleri-1
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",yeralti-canavari-1
-https://filmarsivi.yusufdkci1.workers.dev/?ID=yeralti-canavari-1
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",tasiyici-3
-https://filmarsivi.yusufdkci1.workers.dev/?ID=tasiyici-3
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",sirinler-1
-https://filmarsivi.yusufdkci1.workers.dev/?ID=sirinler-1
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",sirinler-2
-https://filmarsivi.yusufdkci1.workers.dev/?ID=sirinler-2
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",asteriks-ve-oburiks-2
-https://filmarsivi.yusufdkci1.workers.dev/?ID=asteriks-ve-oburiks-2
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",v1asteriks-ve-oburiks-2
-https://filmarsivi.yusufdkci1.workers.dev/?ID=v1asteriks-ve-oburiks-2
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",v2asteriks-ve-oburiks-2
-https://filmarsivi.yusufdkci1.workers.dev/?ID=v2asteriks-ve-oburiks-2
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",asteriks-ve-oburiks-3
-https://filmarsivi.yusufdkci1.workers.dev/?ID=asteriks-ve-oburiks-3
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",v1asteriks-ve-oburiks-3
-https://filmarsivi.yusufdkci1.workers.dev/?ID=v1asteriks-ve-oburiks-3
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",v2asteriks-ve-oburiks-3
-https://filmarsivi.yusufdkci1.workers.dev/?ID=v2asteriks-ve-oburiks-3
-
-
-
-
 
 
 
