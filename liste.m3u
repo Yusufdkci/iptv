@@ -563,30 +563,16 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgeseller",National Geographic
 https://cablew.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvZ3JhcGhpYw==
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Discovery test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Discovery
 http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Discovery test
-https://cablew.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Discovery Science
-https://cablew.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Love Nature (Rec)
-https://patr0n.denek1544.workers.dev/izle/lovenature.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Viasat History (Rec)
-https://patr0n.denek1544.workers.dev/izle/viasathistory.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Military History
-https://fl1.moveonjoy.com/Military_History/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Nature Time Türkçe
 http://87.121.104.29:145/naturetimetr/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Nature Time Türkçe
-https://streams.uzunmuhalefet.com/stream/ec36d9c3-9cc2-4d79-ad94-16af00c95bf4.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",SDM Belgesel Keyfi
-https://streams.uzunmuhalefet.com/stream/28ff2020-af46-4155-9546-06e432a8380c.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",BBC EARTH HD
 https://ds.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",BBC EARTH HD
 http://109.61.81.147:1935/cdn7/4011/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",BBC EARTH
-https://patr0n.denek1544.workers.dev/izle/bbcearthhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Military History
+https://fl1.moveonjoy.com/Military_History/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SİNEMALAR 🎥 🌟⚡️✨
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
@@ -1205,6 +1191,8 @@ https://vidrame.pro/vr/get/45ba91a9/1080.txt
 https://vidmody.com/vs/tt0298148
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Shrek_2 2004
 http://movie.okru.workers.dev/?ID=7467240597896
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Shrek 3 test
+https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Shrek 4
 https://vidrame.pro/vr/get/cc6feded/1080.txt
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",WALL·E
@@ -1259,8 +1247,12 @@ http://movies.hdfilm.workers.dev/?ID=oyuncak-hikayesi-3-fh4/
 http://movies.hdfilm.workers.dev/?ID=oyuncak-hikayesi-4-izle-hd-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Er Ryanı Kurtarmak
 http://movies.hdfilm.workers.dev/?ID=er-ryani-kurtarmak-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Evde Tek Başına 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Evde Tek Başına 1
 http://movies.hdfilm.workers.dev/?ID=evde-tek-basina-fh3/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",evde tek başına 2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=homealone2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ydk evde tek başına 2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=ydkhomealone2
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Sihirli İksirin Sırrı animasyon 
 http://movies.hdfilm.workers.dev/?ID=asteriks-sihirli-iksirin-sirri/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Roma Sitesi animasyon 
@@ -1273,6 +1265,8 @@ http://movies.hdfilm.workers.dev/?ID=dis-perisi-darkness-falls/
 http://movies.hdfilm.workers.dev/?ID=transformers-5-son-sovalye-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 4
 http://movies.hdfilm.workers.dev/?ID=transformers-4-kayip-cag-fh3/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 3
+https://filmarsivi.yusufdkci1.workers.dev/?ID=transformers3
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 2
 http://movies.hdfilm.workers.dev/?ID=transformers-2-yenilenlerin-intikami-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 1
@@ -1381,15 +1375,8 @@ http://movies.hdfilm.workers.dev/?ID=babamin-penguenleri/
 http://movies.hdfilm.workers.dev/?ID=kartal-goz-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kimlik - Idenity
 http://movies.hdfilm.workers.dev/?ID=kimlik-fh3/
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",madagaskar 1 test1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",madagaskar 1 test
 https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",madagaskar 1 test2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/143.0.0.0
-#EXTVLCOPT:http-referrer=https://www.filmmodu.ws/
-https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madagaskar 2
 http://movies.hdfilm.workers.dev/?ID=madagaskar-2-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madagaskar 3
@@ -1501,62 +1488,50 @@ https://ornek.m3u8
 https://ornek.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",☢️☢️deneme⚠️⚠️
-https://drive.google.com/uc?export=download&id=
+https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",🚨🚨deneme🔴🔴
-https://drive.google.com/uc?id=
+https://drive.google.com/uc?id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test1 android aktif
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test1 android
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://ico3c.com/
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test2 android aktif
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test2 android
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test3 ios aktif
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test3 ios
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=&User-Agent=Mozilla/5.0&Referer=https://ico3c.com/
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test4 android ve ios açtı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test4 android ve ios
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test5 android ve ios açtı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test5 android ve ios
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ico3c.com/
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test6 android ve ios aktif
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test6 android ve ios
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sezonlukdizi8.com/
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test7
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test7
 https://filmarsivi.yusufdkci1.workers.dev/?ID=https%3A%2F%2Fprx-1328-ant.vmwesa.online%2Fhls2%2F01%2F02153%2Fk6w3g562i00e_n%2Findex-v1-a1.m3u8%3Ft%3D5AmNmknkK3kOF6aQPJkm-nIkGX4M7X53FYTdGjeX5Kg%26s%3D1768572466%26e%3D43200%26v%3D%26srv%3Dbck-1356-ant-o%26i%3D0.4%26sp%3D0%26asn%3D9121
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test worker1
-https://filmarsivi.yusufdkci1.workers.dev/?ID=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test amaçlı direct link
-https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.filmmodu.ws/
-#EXTVLCOPT:http-origin=https://www.filmmodu.ws
-https://filmarsivi.yusufdkci1.workers.dev/?ID=transformers3
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 3 v1
-https://filmarsivi.yusufdkci1.workers.dev/?ID=transformers3
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",shrek 3
-https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",evde tek başına 2
-https://filmarsivi.yusufdkci1.workers.dev/?ID=homealone2
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ydk evde tek başına 2
-https://filmarsivi.yusufdkci1.workers.dev/?ID=ydkhomealone2
-
-
-
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test BBC EARTH
+https://patr0n.denek1544.workers.dev/izle/bbcearthhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Test SDM Belgesel Keyfi
+https://streams.uzunmuhalefet.com/stream/28ff2020-af46-4155-9546-06e432a8380c.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test Nature Time Türkçe
+https://streams.uzunmuhalefet.com/stream/ec36d9c3-9cc2-4d79-ad94-16af00c95bf4.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Discovery test
+https://cablew.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Discovery Science test
+https://cablew.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test Love Nature (Rec)
+https://patr0n.denek1544.workers.dev/izle/lovenature.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test Viasat History (Rec)
+https://patr0n.denek1544.workers.dev/izle/viasathistory.m3u8
 
 
