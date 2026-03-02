@@ -1584,6 +1584,20 @@ https://0vy.d72577a9dd0ec19.sbs/yayinzirve.m3u8
 #EXTVLCOPT:http-origin=https://patronspor24.xyz
 https://0vy.d72577a9dd0ec19.sbs/yayinzirve.m3u8
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="test",test BeIN Sports UHD 1
+http://uro-levene-1012.mywire.org/index.php?id=10698&token=DeaTHLesS
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="test",Web BeIN Sports+++
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/mqo9m8b.jpeg" group-title="test",Web XYZSPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-origin=https://xyzsports238.xyz
+#EXTVLCOPT:http-referrer=https://xyzsports238.xyz/
+https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
+
 
 
 
