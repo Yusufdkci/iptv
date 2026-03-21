@@ -1515,6 +1515,8 @@ http://movies.hdfilm.workers.dev/?ID=truva-fh2/
 http://movies.hdfilm.workers.dev/?ID=gun-batarken/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı
 https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk
+http://movie.okru.workers.dev/?ID=7469897427336
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",###deneme### 
 https://ornek.m3u8
