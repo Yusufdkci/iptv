@@ -554,25 +554,8 @@ https://videos.pexels.com/video-files/31091800/13285423_1920_1080_30fps.mp4?=.mp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgeseller",NatGeowild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgeseller",National Geographic Wild
-https://cablew.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvIFdJTEQ=
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgeseller",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgeseller",National Geographic
-https://cablew.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvZ3JhcGhpYw==
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Discovery
-http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Nature Time Türkçe
-http://87.121.104.29:145/naturetimetr/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",BBC EARTH HD
-https://ds.ayakkabiparti.lol/bbc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",BBC EARTH HD
-http://109.61.81.147:1935/cdn7/4011/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",Military History
-https://fl1.moveonjoy.com/Military_History/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SİNEMALAR 🎥 🌟⚡️✨
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
@@ -581,8 +564,6 @@ https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mp
 https://channels01.denek1544.workers.dev/channel/Rlg=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="SİNEMALAR",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",test SDM Çizgi Film Keyfi
-https://streams.uzunmuhalefet.com/stream/c72d3696-1e93-41b9-bada-65faffacbc1b.m3u8
 #EXTINF:-1 tvg-id="SDM Sinema Keyfi" tvg-name="SDM Sinema Keyfi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png" group-title="SİNEMALAR",SDM Sinema Keyfi
 https://streams.uzunmuhalefet.com/stream/e3d3b3f7-7276-4768-9673-388e462401e2.m3u8
 #EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SİNEMALAR",Sinema 1
