@@ -21,7 +21,7 @@ https://proxy.canlitvplayer.com/cartoonnetwork.blutv.com/blutv_cartoonnetwork/li
 https://trt.daioncdn.net/trtspor/master_480p.m3u8?platform=trtspor&sid=6sknaoigvegn&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 
 #EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="GENEL",A Spor
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
+https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
 
 #EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="GENEL",BEİN SPORTS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
@@ -54,25 +54,17 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?sig=3e1e7e77bd21da485aa2c59
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8 
 
 #EXTINF:-1 tvg-id="CİNE1" tvg-name="CİNE1" tvg-logo="https://cine1.com.tr/images/cine1tvas.png" group-title="GENEL",CİNE1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 
 #EXTINF:-1 tvg-id="CNBC-E" tvg-name="CNBC-E" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="GENEL",CNBC-E
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
-
-#EXTINF:-1 tvg-id="CNBC-E YEDEK" tvg-name="CNBC-E YEDEK" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="GENEL",CNBC-E YEDEK
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="GENEL",cnbc
 https://streams.uzunmuhalefet.com/stream/41cde2c5-8f3c-405f-b5a2-fd6242d1d0a4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="GENEL",cnbc
-http://live.tv-youtube.workers.dev/?ID=UCaO-M1dXacMwtyg0Pvovk4w
-
 #EXTINF:-1 tvg-id="A2" tvg-name="A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="GENEL",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-id="A2 | B" tvg-name="A2 | B" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="GENEL",A2 | B
-http://116.202.238.88/A2_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="A2 | C" tvg-name="A2 | C" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="GENEL",A2 | C
+#EXTINF:-1 tvg-id="A2 | C" tvg-name="A2 | C" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="GENEL",A2 | B
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="A2 Yedek" tvg-name="A2 Yedek" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="GENEL",A2 Yedek
 https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3u8
@@ -83,11 +75,11 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://tv.canlitvme.com/poster/ntv-canli-yayin.png" group-title="GENEL",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?sig=12e805494df807d580a4aae395a17c64&token=NTNpSGo5RFc3anhWYjVWZXN4QndvZXkzdm9CZXJLek5meEJOajNMbldvZz0=&sid=7umf8gmx7sxg&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=3
 
-#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-logo="https://tv.canlitvme.com/poster/cnn-turk-canli-yayin.png" group-title="GENEL",CNN TÜRK
+#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-logo="https://tv.canlitvme.com/poster/cnn-turk-canli-yayin.png" group-title="GENEL",CNN TÜRK çalışmıyor
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
 
 #EXTINF:-1 tvg-id="A HABER" tvg-name="A HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="GENEL",A HABER
-https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3u8
 
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20091218163738%21Kanal_24.png" group-title="GENEL",24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
@@ -396,8 +388,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="YEDEKLER",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="YEDEKLER",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
 #EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="https://i.hizliresim.com/4jlqmv0.png" group-title="YEDEKLER",Dmax
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s160-c-k-c0x00ffffff-no-rj" group-title="YEDEKLER",Dmax ydk
@@ -440,8 +430,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?sig=3ad73b092a22ec5c3b7c71a79ff49cd7&token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=7umf0dkeejjq&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://yt3.ggpht.com/PUOG4AugF5attdcdO6O1sOIkFykoEJBTKF0d6hLlzAj_VCPD3MUyMOZTiwyfs-NbqL7qLNJuRw" group-title="YEDEKLER",NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="YEDEKLER",A Haber
-https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="YEDEKLER",24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://cdn.technettv.com/channel/29534/logo_256_1733832490.jpg" group-title="YEDEKLER",24
