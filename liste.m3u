@@ -560,8 +560,6 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SİNEMALAR 🎥 🌟⚡️✨
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png" group-title="SİNEMALAR",FX
-https://channels01.denek1544.workers.dev/channel/Rlg=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="SİNEMALAR",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="SDM Sinema Keyfi" tvg-name="SDM Sinema Keyfi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png" group-title="SİNEMALAR",SDM Sinema Keyfi
@@ -572,82 +570,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://streams.uzunmuhalefet.com/stream/5e98fbc1-ddd0-4c55-a6fa-f2e2dec6687c.m3u8
 #EXTINF:-1 tvg-id="Play Sinema" tvg-name="Play Sinema" tvg-logo="https://r.resimlink.com/JhZ4a.png" group-title="SİNEMALAR",Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 tvg-id="sinema tv test" tvg-name="sinema tv test" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SİNEMALAR",sinema tv test
-https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRW
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Sinema TV 2
-https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIDI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Sinema Aile
-https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIEFpbGU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Sinema Aile 2
-https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIEFpbGUgMg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Sinema Aksiyon
-https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Sinema Aksiyon 2
-https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24gMg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Sinema Tv 1001
-https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIDEwMDE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Sinema Tv 1002
-https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIDEwMDI=
-#EXTINF:-1 tvg-id="Yansıma Sinema" tvg-name="Yansıma Sinema" tvg-logo="https://r.resimlink.com/9NO6M.png" group-title="SİNEMALAR",Yansıma Sinema
-http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
-#EXTINF:-1 tvg-id="Yansıma Sinema" tvg-name="Yansıma Sinema" tvg-logo="https://r.resimlink.com/9NO6M.png" group-title="SİNEMALAR",Yansıma Sinema
-https://streams.uzunmuhalefet.com/stream/53925bf1-48ce-46e1-894b-d0fceb2ffea4.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Dizi Smart Premium
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591438&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",DIZI SMART MAX HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591440&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",EPIC DRAMA
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591437&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV 1002 FHD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591425&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV 1002 HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591424&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV 1001 HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591426&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV 1001 FHD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591427&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV AKSIYON 2 FHD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591419&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV AKSIYON 2 HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591418&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV AKSIYON FHD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591417&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV AKSIYON HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591416&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Sinema Aksiyon
-http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV KOMEDI 2 HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591412&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV KOMEDI 2 FHD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591413&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV KOMEDI HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591411&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV KOMEDI HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591410&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV AILE 2 HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591423&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV AILE 2 HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591422&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV AILE HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591421&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV AILE HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591420&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Sinema Aile
-http://65.108.239.207/sinemaaile/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV 2 HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591429&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV 2 HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591428&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591414&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SINEMA TV HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591415&extension=ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Sinema TV
-http://65.108.239.207/sinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Dizi TDC
-https://streams.uzunmuhalefet.com/stream/3b4817d9-f8d4-439f-a4ae-53f16b72089a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="7/24 Yayın",❄️🦋7/24 Yayın❄️🦋
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
