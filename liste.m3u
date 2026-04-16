@@ -745,9 +745,9 @@ http://iptv.prosto.tv:7000/ch347/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",🍿🎬Filmler🍿🎬
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
 
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Karate Kid
+#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Karate Kid 2010 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=karateci-cocuk-fh2/
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Karate Kid yeni
+#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Karate Kid 2025 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=karate-kid-efsane-dovusculer-karate-kid-legends-2/
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",esaretin bedeli
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-shawshank-redemption-hd-film-izle
@@ -759,106 +759,78 @@ https://ia601707.us.archive.org/24/items/yol-arkadasim/Yol%20Arkada%C5%9F%C4%B1m
 https://filmarsivi.yusufdkci1.workers.dev/?ID=yol-arkadasim-2
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Avatar 2009
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt0499549-film-izle
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Avatar yedek
-http://movies.hdfilm.workers.dev/?ID=avatar-fh4/
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",The Lord Of The Rings 1
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-lord-of-the-rings-the-fellowship-of-the-ring-hd-film-izle
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",The Lord Of The Rings 2
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-lord-of-the-rings-the-two-towers-film-izle
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Yüzüklerin Efendisi İki Kule 
+#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Yüzüklerin Efendisi İki Kule çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=yuzuklerin-efendisi-iki-kule-fh2/
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Yüzüklerin Efendisi Kralın Dönüşü
+#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Yüzüklerin Efendisi Kralın Dönüşü çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=yuzuklerin-efendisi-kralin-donusu-fh3/
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Yüzüklerin Efendisi Yüzük Kardeşliği yedek
+#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Yüzüklerin Efendisi Yüzük Kardeşliği çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=yuzuklerin-efendisi-yuzuk-kardesligi-fh2/
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Yüzüklerin Efendisi: Rohirrim'in Savaşı yedek
+#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",Yüzüklerin Efendisi: Rohirrim'in Savaşı çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=the-lord-of-the-rings-the-war-of-the-rohirrim-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hobbit 1
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-hobbit-an-unexpected-journey-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hobbit 1 yedek 
 https://s11.imageshub.pro/mi/FT9vLzy0YwRhDzIeoTIhoJIxnJfhJJ9fL3IfqJfhITuyYxuiLzWcqP4kYxShYyIhMKujMJA0MJDhFz91pz5yrF4lZQRlYwRjBQOjYxE1LJjd0zxnJ1uM2ImnUIvYaOlojs0xi11vr1b480
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hobbit 1 yedek 
-http://movies.hdfilm.workers.dev/?ID=hobbit-1-beklenmedik-yolculuk-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hobbit 2
 https://vidmody.com/vs/tt1170358
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hobbit 2 yedek 
-http://movies.hdfilm.workers.dev/?ID=hobbit-2-smaugun-corak-topraklari-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hobbit 3
 https://vidmody.com/vs/tt2310332
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hobbit 3 yedek
-http://movies.hdfilm.workers.dev/?ID=hobbit-3-bes-ordunun-savasi-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Dev - Hulk test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Dev - Hulk çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=yesil-dev-fh-izle-1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Dev - Hulk 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Dev - Hulk 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=yesil-dev-fh3/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWBhWG3k/MG-7224.jpg" group-title="Filmler",ıron man 1
 https://vidrame.pro/vr/get/ef7709d0/1080.txt
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWBhWG3k/MG-7224.jpg" group-title="Filmler",ıron man 1 yedek 
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/demir-a-film-izle
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WWBhWG3k/MG-7224.jpg" group-title="Filmler",Demir Adam 1 yedek 
-http://movies.hdfilm.workers.dev/?ID=demir-adam-1-fh4/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHQ8d29k/MG-7225.jpg" group-title="Filmler",ıron man 2
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/i-2-film-izle
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHQ8d29k/MG-7225.jpg" group-title="Filmler",Demir Adam 2 yedek 
-http://movies.hdfilm.workers.dev/?ID=demir-adam-2-fh9/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ıron man 3
 https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ıron man 3 yedek 
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/iman3-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Demir Adam 3 yedek 
-http://movies.hdfilm.workers.dev/?ID=dmir-ad-3-fh11/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kaptan Amerika İlk Yenilmez 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kaptan Amerika İlk Yenilmez çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kaptan-amerika-ilk-yenilmez-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kaptan Amerika 2014 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kaptan Amerika 2 2014 
 https://pixeldrain.com/api/file/j7qWCCiF?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kaptan Amerika
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kaptan Amerika 2
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/cap-am-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kaptan Amerika 2
 https://vidrame.pro/vr/get/08b02408/1080.txt
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kaptan Amerika: Cesur Yeni Dünya
-http://movies.hdfilm.workers.dev/?ID=kaptan-amerika-cesur-yeni-dunya-filmi-izle-fh5/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",avengers 1
 https://vidrame.pro/vr/get/9de3d24b/1080.txt
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yenilmezler1
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/yenilmezler1-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",The Avengers 2012
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-avengers-2012-hd-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yenilmezler 1 yedek
-http://movies.hdfilm.workers.dev/?ID=yenilmezler-1-fh4/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMkZm49V/MG-7221.jpg" group-title="Filmler",Avengers: Age of Ultron
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMkZm49V/MG-7221.jpg" group-title="Filmler",Avengers 2 Age of Ultron
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt2395427-film-izle
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMkZm49V/MG-7221.jpg" group-title="Filmler",Yenilmezler 2 Ultron Çağı
-http://movies.hdfilm.workers.dev/?ID=yenilmezler-2-ultron-cagi-fh7/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Avengers 3
 https://s9.photogrids.site/m1/DKMyozqypaZhFJ5znJ5cqUxhI2SlYwVjZGthZGN4ZUNhEUIuoNd0zxpTuiqT9apzyxpl5mnKEys0xi9vr1b2160
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yenilmezler 3 Sonsuzluk Savaşı
-http://movies.hdfilm.workers.dev/?ID=yenilmezler-3-sonsuzluk-savasi-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Avengers: Endgame
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Avengers 4 Endgame
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt4154796-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Batman 3 Kara Şövalye Yükseliyor
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Batman 3 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=batman-3-kara-sovalye-yukseliyor-fh4/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Batman The Dark Knight
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Batman 2 The Dark Knight
 https://vidrame.pro/vr/get/503b6fee/1080.txt
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",batman The Dark Knight
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",batman 2 The Dark Knight
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-dark-knight-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Batman 2 Kara Şövalye
-http://movies.hdfilm.workers.dev/?ID=batman-2-kara-sovalye-fh3/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSFJF5S1/MG-7228.jpg" group-title="Filmler",batman 1 başlıyor 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSFJF5S1/MG-7228.jpg" group-title="Filmler",batman 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=batman-1-basliyor-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",karınca adam 1
 https://s2.imageshub.pro/m0/DJ50YH1uov4lZQR1YxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1uM2ImnUIvYaOlojs0xi2vr1
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",karınca adam 3
 https://s18.photogrids.site/md/DJ50Yx1uov5uozDhqTuyYyqup3NhHKIuoaE1oJShnJRhZwNlZl5WI0IPYHEZYwRjBQOjYxEIDHjd0zxpTuiqT9apzyxpl5mnKEys0xi18vr1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Thor 
-http://movies.hdfilm.workers.dev/?ID=ben-thor/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",thor yedek 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Thor
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tor-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Thor: The Dark World
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt1981115-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Thor 3
 https://vidrame.pro/vr/get/f950d292/1080.txt
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Thor 3 Ragnarok 
-http://movies.hdfilm.workers.dev/?ID=thor-3-ragnarok-fh7/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",thor 4 2
 https://vidrame.pro/vr/get/5cac84cf/1080.txt
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",venom zehirli öfke
@@ -869,7 +841,7 @@ https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/venom-2018-h
 https://vidrame.pro/vr/get/2e79093d/1080.txt
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Spider Man 1
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/spider-man-hd-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Örümcek Adam 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Örümcek Adam 3 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=orumcek-adam-3-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Spiderman No way Home
 https://s26.imglink.pro/mv/H3OcMTIlYH1uov5Bol5KLKxhFT9gMF4lZQVkYxWfqKWurF4kZQtjpP5RIHRd0zxnJ1aoTyhnl5jpz8s0xi26vr1b2160
@@ -877,7 +849,7 @@ https://s26.imglink.pro/mv/H3OcMTIlYH1uov5Bol5KLKxhFT9gMF4lZQVkYxWfqKWurF4kZQtjp
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/spider-man-no-way-home-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Spiderman Far from Home eve dönüş
 https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Örümcek Adam Eve Dönüş
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Örümcek Adam Eve Dönüş çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=orumcek-adam-eve-donus-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Spider Man Homecoming
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/spider-man-homecoming-hd-full-film-izle
@@ -887,147 +859,101 @@ https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQO
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/spider-man-far-from-home-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",spiderman far from home
 https://vidrame.pro/vr/get/7c802b5c/720.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",spiderman homecoming
-https://vidrame.pro/vr/get/189e48ab/720.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Örümcek Adam Evden Uzakta yedek
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Örümcek Adam Evden Uzakta çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=orumcek-adam-evden-uzakta-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Örümcek Adam Örümcek Evreninde yedek
-http://movies.hdfilm.workers.dev/?ID=orumcek-adam-orumcek-evreninde-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Örümcek Adam: Örümcek Evrenine Geçiş
-http://movies.hdfilm.workers.dev/?ID=orumcek-adam-orumcek-evrenine-gecis-fh4/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",spiderman
 https://vidrame.pro/vr/get/6bc60fee/720.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",spiderman
 https://vidrame.pro/vr/get/b550b4ac/720.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",spiderman
-https://vidrame.pro/vr/get/6229c3cc/480.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",black widow
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",black widow çalışmıyor
 https://vidrame.pro/vr/get/226fe687/1080.txt
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 10
 https://s24.seeshare.pics/mv/EzSmqP5LYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi24vr1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 10 yedek
-http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-10-fh5/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hizli ve Ofkeli 9
 https://s9.imagehub.pics/mg/EwxhZwNlZF5PoUIlLKxhZGN4ZUNhESIOGNd0zxnJ1uM2IbqJVhpTywpjs0xi9vr1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hizli ve Ofkeli 9 yedek
-http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-9-fh4/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 8 test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 8 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-8-fh-film-izle-1-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 7
 https://vidrame.pro/vr/get/66988bb7/1080.txt
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 7 yedek 
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/furious-7-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 7 yedek 
-http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-7-fh4/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 6
 https://vidrame.pro/vr/get/25624c87/1080.txt
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 6 yedek 
-http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-6-fh4/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 5
 https://vidrame.pro/vr/get/03790982/1080.txt
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 5 yedek 
-http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-5-rio-soygunu-fh4/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 4
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 4 çalışmıyor
 https://vidrame.pro/vr/get/63bc9250/1080.txt
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 4 yedek 
-http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-4-fh4/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hizli ve Ofkeli 3
 https://s7.imagebin.pics/mr/EzSmqP5uozDhqTuyYxM1pzyiqKZhIT9erJ8hEUWcMaDhZwNjAv5PoUIlLKxhZGN4ZUNhESIOGNd0zxnJ1uM2IvnJ4hpTywpjs0xi7vr1b1080
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hizli ve Ofkeli 3 yedek 
-http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-3-tokyo-yarisi-fh4/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hizli ve Ofkeli 2 Daha Hızlı Daha Öfkeli
-http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-2-daha-hizli-daha-ofkeli-fh4/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hizli ve Ofkeli 2
 https://s1.seeshare.pics/m0/EzSmqP4lYxM1pzyiqKZhZwNjZl5PoUIlLKxhZGN4ZUNhESIOGNd0zxp2Iyp2uupzHhpTywpjs0xi1vr1b2160
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hızlı ve Öfkeli 2 2003 (vidrame)
 https://vidrame.pro/vr/get/b46a2451/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve öfkeli 1
 https://vidrame.pro/vr/get/2ab5b9a3/1080.txt
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hızlı ve Öfkeli 1 yedek 
-http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-1-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Need for Speed Hız Tutkusu
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Need for Speed Hız Tutkusu çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=need-for-speed-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hobbs ve Shaw 2019 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hobbs ve Shaw 2019
 https://pixeldrain.com/api/file/vBcXCfbR?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hobbs ve Shaw 2019 (test)
-http://movies.hdfilm.workers.dev/?ID=hizli-ve-ofkeli-hobbs-ve-shaw-fh3/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7S13zv/MG-7226.jpg" group-title="Filmler",yukarı bak
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/up-film-izle
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLxd7GCP/MG-7223.jpg" group-title="Filmler",Inside Out
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/inside-out-hd-film-izle
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLxd7GCP/MG-7223.jpg" group-title="Filmler",Ters Yuz
 https://s25.imglink.info/mk/ITIlpl5MqKbhFJ5mnJEyYx91qP4lZQR1YwRjBQOjYxE1LJjd0zxnJ1aoTyhnl5cozMis0xi25vr1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxd7GCP/MG-7223.jpg" group-title="Filmler",Ters Yüz yedek
-http://movies.hdfilm.workers.dev/?ID=ters-yuz-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ters Yuz 2
 https://vidrame.pro/vr/get/968e8cf1/1080.txt
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ters Yüz 2 yedek 
-http://movies.hdfilm.workers.dev/?ID=ters-yuz-2-fh4/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",(CY) AROG (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",(CY) AROG
 https://pixeldrain.com/api/file/njiPhX85?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",(CY) GORA (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",(CY) GORA
 https://pixeldrain.com/api/file/RA34BkX8?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Açlık Oyunları 2012 (vidrame)
 https://vidrame.pro/vr/get/df2e21c8/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Açlık Oyunları 2013 (vidrame)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Açlık Oyunları 2013 çalışmıyor
 https://vidrame.pro/vr/get/55d84cad/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Açlık Oyunları 2014 (test)
-https://pixeldrain.com/api/file/SJzRRUas?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Açlık Oyunları AK 1 2014 (vidrame)
 https://vidrame.pro/vr/get/3d250007/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Açlık Oyunları AK 2 2015 (test)
-https://pixeldrain.com/api/file/KnCQd7aF?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Açlık Oyunları AK 2 2015 (vidrame)
 https://vidrame.pro/vr/get/9296b3f9/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Açlık Oyunları 2
 https://vidmody.com/vs/tt1951264
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",AVM Polisi 2015 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",AVM Polisi 2015 çalışmıyor
 https://pixeldrain.com/api/file/oeJepZek?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Görevimiz Tehlike 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Görevimiz Tehlike 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=gorevimiz-tehlike-2-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Görevimiz Tehlike 3 2006 (vidrame)
-https://vidrame.pro/vr/get/c42c540d/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Görevimiz Tehlike 3 yedek 
-http://movies.hdfilm.workers.dev/?ID=gorevimiz-tehlike-3-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Görevimiz Tehlike 7 2023 (ÖH1) (vidrame)
+https://vidrame.pro/vr/get/c42c540d/1080.txt?=.mp4 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Görevimiz Tehlike 7 2023 (ÖH1) (vidrame) çalışmıyor
 https://vidrame.pro/vr/get/d4222a08/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Görevimiz Tehlike 8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Görevimiz Tehlike 8 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=gorevimiz-tehlike-8-son-hesaplasma-izle/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Avcıları: Ürperti (2024) (vidr test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Avcıları: Ürperti (2024)
 https://vidrame.pro/vr/get/b036c3ce/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Avcıları: Öteki Dünya (2021) (vidr test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Avcıları: Öteki Dünya (2021) çalışmıyor
 https://vidrame.pro/vr/get/5aaa7e90/master.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Avcıları (2016) (vidr)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Avcıları (2016) çalışmıyor
 https://vidrame.pro/vr/get/973b4995/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Sürücü 2007 (vidrame)
 https://vidrame.pro/vr/get/65b254d7/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Sürücü 1 yedek 
-http://movies.hdfilm.workers.dev/?ID=hayalet-surucu-1-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Sürücü 2007 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Sürücü 2007
 https://pixeldrain.com/api/file/cq8SnRbV?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Sürücü 2: İntikam Ateşi 2011 (vidrame)
 https://vidrame.pro/vr/get/a92c1548/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayalet Sürücü 2: İntikam Ateşi 2011 (test)
 https://pixeldrain.com/api/file/fw32X4Ec?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kapımdaki Casus 2010 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kapımdaki Casus 2010
 https://pixeldrain.com/api/file/FTG4PuXq?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",John Carter İki Dünya Arasında 2012 (vidrame)
 https://vidrame.pro/vr/get/0f51c8de/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karayip Korsanları 1 2003 (vidrame)
 https://vidrame.pro/vr/get/b6ed49b9/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karayip Korsanları 1 yedek
-http://movies.hdfilm.workers.dev/?ID=karayip-korsanlari-1-siyah-incinin-laneti-fh4/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karayip Korsanları 2 2006 (vidrame)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karayip Korsanları 2 2006
 https://vidrame.pro/vr/get/8102109e/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karayip Korsanları 2 yedek
-http://movies.hdfilm.workers.dev/?ID=karayip-korsanlari-2-olu-adamin-sandigi-fh4/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karayip Korsanları 3 2007 (vidrame)
 https://vidrame.pro/vr/get/2fa88aae/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karayip Korsanları 3 yedek
-http://movies.hdfilm.workers.dev/?ID=karayip-korsanlari-3-dunyanin-sonu-fh4/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karayip Korsanları 4 2011 (vidrame)
 https://vidrame.pro/vr/get/8c0ccc91/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karayip Korsanları 5
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karayip Korsanları 5 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=karayip-korsanlari-5-salazarin-intikami-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ölümcül Çarpışma 2023 (vidrame)
 https://vidrame.pro/vr/get/e6b17b00/1080.txt?=.mp4
@@ -1037,59 +963,47 @@ https://s21.pixtures.art/mw/E2kuMUyuqT9lYxqfLJEcLKEipv4lZQNjYwRjBQOjYxE1LJjd0zxp
 https://vidmody.com/vs/tt1424381
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Predator 3
 https://vidmody.com/vs/tt3829266
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Predator 4 2007
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Predator 4 2007 çalışmıyor
 https://p2.photostack.net/v/71mqqncq3z2k/1080.m3u8?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Robin Hood 2009 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Robin Hood 2009 çalışmıyor
 https://pixeldrain.com/api/file/CQ1XtrmW?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı Son Hız 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı Son Hız çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=tasiyici-son-hiz/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 1 2002 [JS] (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 1 2002 [JS]
 https://pixeldrain.com/api/file/gCX8vGqZ?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 1 yedek
-http://movies.hdfilm.workers.dev/?ID=tasiyici-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 2 2005 [JS] (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 2 2005 [JS]
 https://pixeldrain.com/api/file/aYC3hY5Y?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 2 yedek 
-http://movies.hdfilm.workers.dev/?ID=tasiyici-2-nefes-nefese-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",taşıyıcı 3
 https://filmarsivi.yusufdkci1.workers.dev/?ID=tasiyici-3
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 4 2015 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Taşıyıcı 4 2015
 https://pixeldrain.com/api/file/2D9iza35?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tatil Zamanı - Vacation 2015 (archive)
 https://archive.org/download/turkcefilmler/Tatil%20Zaman%C4%B1%20-%20Vacation%20%282015%29%20T%C3%BCrk%C3%A7e%20Dublaj.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 1 1984 (vidrame)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 1 1984
 https://vidrame.pro/vr/get/8df11dc7/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 1 yedek 
-http://movies.hdfilm.workers.dev/?ID=terminator-1-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 2 1991 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 2 1991
 https://pixeldrain.com/api/file/4KPdi8JT?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 2 yedek 
-http://movies.hdfilm.workers.dev/?ID=terminator-2-mahser-gunu-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 3 test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 3 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=terminator-3-makinelerin-yukselisi-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 4 test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 4 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=terminator-4-kurtulus-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminatör 5 (vidrame)
 https://vidrame.pro/vr/get/d3ea6fb5/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminator 5 Genisys yedek
-http://movies.hdfilm.workers.dev/?ID=terminator-5-genisys-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminatör 6
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Terminatör 6 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=terminator-6-kara-kader-fh4/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Titanların Öfkesi 2012 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Titanların Öfkesi 2012
 https://pixeldrain.com/api/file/ry6xFEeD?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Titanların Öfkesi 2012 (vidrame)
 https://vidrame.pro/vr/get/3cd64027/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Titanların Savaşı 2010 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Titanların Savaşı 2010
 https://pixeldrain.com/api/file/TjxUYpn1?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Titanların Savaşı 2010 (vidrame)
-https://vidrame.pro/vr/get/6605f7eb/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2000 (vidrame)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2000 çalışmıyor
 https://vidrame.pro/vr/get/bb05c416/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2003 (vidrame)
 https://vidrame.pro/vr/get/190177f3/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2006 (vidrame)
 https://vidrame.pro/vr/get/9ed0c7fe/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2009 (vidrame)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2009 çalışmıyor
 https://vidrame.pro/vr/get/c1c5b200/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2011 (vidrame)
 https://vidrame.pro/vr/get/59699579/1080.txt?=.mp4
@@ -1099,19 +1013,19 @@ https://vidrame.pro/vr/get/4650dc81/1080.txt?=.mp4
 https://vidrame.pro/vr/get/3ee1b2e9/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2016 (vidrame)
 https://vidrame.pro/vr/get/dd54c86d/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2019 (vidrame)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2019 çalışmıyor
 https://vidrame.pro/vr/get/07d3a4ff/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",X men 2020 (vidrame)
 https://vidrame.pro/vr/get/365b1234/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yarından Sonra 2004 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yarından Sonra 2004
 https://pixeldrain.com/api/file/hMZVgdKB?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yarından Sonra 2004 (vidrame)
 https://vidrame.pro/vr/get/6a985c36/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yarının Sınırında 2014 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yarının Sınırında 2014 çalışmıyor
 https://pixeldrain.com/api/file/QmdrqHbq?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yarının Savaşı - The Tomorrow War 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yarının Savaşı - The Tomorrow War çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=yarinin-savasi-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yaşam Şifresi 2011 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yaşam Şifresi 2011
 https://pixeldrain.com/api/file/AUCr98uW?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yaşam Şifresi 2011 (vidrame)
 https://vidrame.pro/vr/get/cefac072/1080.txt?=.mp4
@@ -1123,21 +1037,21 @@ https://ia802801.us.archive.org/2/items/yenilmez3undisputed3turkcedublajyabancia
 https://vidrame.pro/vr/get/a28ee9e3/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",yeraltı canavarı 1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=yeralti-canavari-1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Yol 1999 test (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Yol 1999
 https://pixeldrain.com/api/file/LbzUFJYF?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",The Green Mile
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-green-mile-hd-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yıldızlararası 2014 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yıldızlararası 2014
 https://pixeldrain.com/api/file/qzxq3YYn?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zorro 1998 Maskeli Kahraman (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zorro 1998 Maskeli Kahraman
 https://pixeldrain.com/api/file/vEpdeBom?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zorro 2005 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zorro 2005
 https://pixeldrain.com/api/file/wdnoXJcW?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zorro 2005 (vidrame)
 https://vidrame.pro/vr/get/af81093f/1080.txt?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test Noelle 2019 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test Noelle 2019 (test) çalışmıyor
 https://pixeldrain.com/api/file/sghhqBKR?=.mp4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Derin Kargaşa Havoc 2025 (test)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Derin Kargaşa Havoc 2025 (test) çalışmıyor
 https://pixeldrain.com/api/file/nUUutx8i?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test Araba Hırsızları 2025 (vidrame)
 https://vidrame.pro/vr/get/ff237c85/1080.txt?=.mp4
@@ -1147,7 +1061,7 @@ https://pixeldrain.com/api/file/r5NveXJ5?=.mp4
 https://filmarsivi.yusufdkci1.workers.dev/?ID=adalet-1
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",The Equalizer 2
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt3766354-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yenilmezler test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yenilmezler test çalışmıyor
 https://movie.okru.workers.dev/?ID=7468776892808
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",World War Z
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/world-war-z-hd-film-izle
@@ -1155,8 +1069,6 @@ https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/world-war-z-
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/shutter-island-hd-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Çelik Yumruklar
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/real-steel-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Çelik Yumruklar yedek
-http://movies.hdfilm.workers.dev/?ID=celik-yumruklar-fh2/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6Ph2Mdb/MG-7222.jpg" group-title="Filmler",Ratatouille
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/ratatouille-hd-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Malefiz
@@ -1179,27 +1091,19 @@ https://vidrame.pro/vr/get/2019ae99/1080.txt?=.mp4
 https://vidrame.pro/vr/get/5a36d5ba/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Rafadan Tayfa Kapadokya
 https://vidmody.com/mm/tt35156304/main_1080/index-v1-a1.gif
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhanı Nasıl Eğitirsin
-http://movies.hdfilm.workers.dev/?ID=ejderhani-nasil-egitirsin-how-to-train-your-dragon-2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 1
 https://archive.org/download/filmarsivi/film1.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 1 yedek
 https://ia601709.us.archive.org/2/items/filmarsivi/film1.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhani nasil egitirsin 2
 https://vidrame.pro/vr/get/4713d96a/1080.txt
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 2
-http://movies.hdfilm.workers.dev/?ID=ejderhani-nasil-egitirsin-2-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhani nasil egitirsin 3
 https://s3.imagebin.pics/mm/FT93YaEiYyElLJyhYyyiqKVhEUWuM29hYwZhZwNkBF4kZQtjYzE1LJjd0zxnJ1uM2IvnJ4hpTywpjs0xi3vr1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 3
-http://movies.hdfilm.workers.dev/?ID=ejderhani-nasil-egitirsin-3-gizli-dunya-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Shrek 1
 https://vidrame.pro/vr/get/45ba91a9/1080.txt
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Shrek 2
 https://vidmody.com/vs/tt0298148
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Shrek_2 2004
-http://movie.okru.workers.dev/?ID=7467240597896
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Shrek 3 test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Shrek 3
 https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Shrek 4
 https://vidrame.pro/vr/get/cc6feded/1080.txt
@@ -1207,69 +1111,61 @@ https://vidrame.pro/vr/get/cc6feded/1080.txt
 https://vidrame.pro/vr/get/58390cad/1080.txt
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Jumanji 1
 https://vidmody.com/vs/tt0113497
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Jumanji 1 yedek
-http://movies.hdfilm.workers.dev/?ID=jumanji-1-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Jumanji 2
 https://vidmody.com/vs/tt2283362
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Jumanji 2 yedek
 https://vidmody.com/vs/tt7975244
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Jumanji 2 ydk
-http://movies.hdfilm.workers.dev/?ID=jumanji-vahsi-orman-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Jumanji 3 Yeni Seviye
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Jumanji 3 Yeni Seviye çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=jumanji-3-yeni-seviye-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Son Samuray Last Samurai
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Son Samuray Last Samurai çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=son-samuray-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Son Samuray Last Samurai
-http://movie.okru.workers.dev/?ID=7163345906056
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Deniz Canavarı 2022
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Deniz Canavarı 2022 çalışmıyor
 http://movie.okru.workers.dev/?ID=7467888224648
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Deniz Canavarı yedek
-http://movies.hdfilm.workers.dev/?ID=deniz-canavari-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Demiryolu Kaplanları 2016
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Demiryolu Kaplanları 2016 çalışmıyor
 http://movie.okru.workers.dev/?ID=7163505682824
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Demir Yumruk test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Demir Yumruk test çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=demir-yumruk-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",şirinler 1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=sirinler-1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",şirinler 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",şirinler 2 çalışmıyor
 https://filmarsivi.yusufdkci1.workers.dev/?ID=sirinler-2
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Sirinler 3 Kayıp Köy 2017
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Sirinler 3 Kayıp Köy 2017 çalışmıyor
 http://movie.okru.workers.dev/?ID=7467268974984
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şirinler 3 yedek
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şirinler 3 yedek çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=sirinler-3-kayip-koy-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madalyon
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madalyon çalışmıyor
 http://movie.okru.workers.dev/?ID=7384911194504
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kutup - Arctic
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kutup - Arctic çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kutup-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=muzede-bir-gece-film-izle-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=muzede-bir-gece-2-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece 3 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=muzede-bir-gece-3-lahitteki-sir-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=muzede-bir-gece-kahmunrahin-yukselisi/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Oyuncak Hikayesi 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Oyuncak Hikayesi 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=oyuncak-hikayesi-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Oyuncak Hikayesi 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Oyuncak Hikayesi 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=oyuncak-hikayesi-2-izle-hd-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Oyuncak Hikayesi 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Oyuncak Hikayesi 3 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=oyuncak-hikayesi-3-fh4/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Oyuncak Hikayesi 4
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Oyuncak Hikayesi 4 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=oyuncak-hikayesi-4-izle-hd-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Er Ryanı Kurtarmak
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Er Ryanı Kurtarmak çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=er-ryani-kurtarmak-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Evde Tek Başına 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Evde Tek Başına 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=evde-tek-basina-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",evde tek başına 2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=homealone2
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ydk evde tek başına 2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=ydkhomealone2
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Sihirli İksirin Sırrı animasyon 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Sihirli İksirin Sırrı animasyon çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=asteriks-sihirli-iksirin-sirri/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Roma Sitesi animasyon 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Roma Sitesi animasyon çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=asteriks-roma-sitesi-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Ve Oburiks Sezara Karşı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Ve Oburiks Sezara Karşı çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=asteriks-ve-oburiks-sezara-karsi-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",asteriks ve oburiks 2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=asteriks-ve-oburiks-2
@@ -1277,257 +1173,255 @@ https://filmarsivi.yusufdkci1.workers.dev/?ID=asteriks-ve-oburiks-2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=v1asteriks-ve-oburiks-2
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",v2asteriks ve oburiks 2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=v2asteriks-ve-oburiks-2
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",asteriks ve oburiks 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",asteriks ve oburiks 3 çalışmıyor
 https://filmarsivi.yusufdkci1.workers.dev/?ID=asteriks-ve-oburiks-3
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",v1asteriks ve oburiks 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",v1asteriks ve oburiks 3 çalışmıyor
 https://filmarsivi.yusufdkci1.workers.dev/?ID=v1asteriks-ve-oburiks-3
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",v2asteriks ve oburiks 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",v2asteriks ve oburiks 3 çalışmıyor
 https://filmarsivi.yusufdkci1.workers.dev/?ID=v2asteriks-ve-oburiks-3
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Diş Perisi
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Diş Perisi çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=dis-perisi-darkness-falls/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 5 Son Şövalye
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 5 Son Şövalye çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=transformers-5-son-sovalye-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 4
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 4 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=transformers-4-kayip-cag-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 3
 https://filmarsivi.yusufdkci1.workers.dev/?ID=transformers3
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=transformers-2-yenilenlerin-intikami-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Transformers 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=transformers-1-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kung-fu-panda-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kung-fu-panda-2-izle-hd-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda 3 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kung-fu-panda-3-izlehd-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda 4
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda 4 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kung-fu-panda-4-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda: Öfkeli Beşli'nin Sırları
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda: Öfkeli Beşli'nin Sırları çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kung-fu-panda-ofkeli-beslinin-sirlari-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda: Ustanın Sırları test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda: Ustanın Sırları çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kung-fu-panda-ustanin-sirlari/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kung Fu Panda: Ustanın Sırları test
-http://movies.hdfilm.workers.dev/?ID=kung-fu-panda-ustalarin-sirri/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=buz-devri-1-izle-hd-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=buz-devri-2-erime-basliyor-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri 3 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=buz-devri-3-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",buz devri 4
 https://filmarsivi.yusufdkci1.workers.dev/?ID=buz-devri-4
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri 5
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri 5 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=buz-devri-5-buyuk-carpisma-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri Bir Yılbaşı Macerası
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Buz Devri Bir Yılbaşı Macerası çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=buz-devri-bir-yilbasi-macerasi/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Çin Seddi
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Çin Seddi çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=cin-seddi-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yıldız Savaşları 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yıldız Savaşları 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=yildiz-savaslari-2-fh-izle-1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Star Wars: Klon Savaşları
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Star Wars: Klon Savaşları çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=star-wars-klon-savaslari/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Rambo 5
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Rambo 5 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=rambo-5-son-kan-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Dostumun Yolculuğu - A Dog's Journey
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Dostumun Yolculuğu - A Dog's Journey çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=dostumun-yolculugu/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Can Dostum - A Dog's Purpose
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Can Dostum - A Dog's Purpose çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=can-dostum-a-dogs-purpose-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",can dostum 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",can dostum çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=can-dostum-intouchables/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Gece ve Gündüz
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Gece ve Gündüz çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=gece-ve-gunduz-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zor Ölüm Ölmek İçin Güzel Bir Gün
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zor Ölüm Ölmek İçin Güzel Bir Gün çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=zor-olum-olmek-icin-guzel-bir-gun-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Büyük Hazine 2 Sırlar Kitabı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Büyük Hazine 2 Sırlar Kitabı çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=buyuk-hazine-2-sirlar-kitabi-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Büyük Hazine 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Büyük Hazine 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=buyuk-hazine-1-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",noel günlükleri 1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=noel-gunlukleri-1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Noel Günlükleri 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Noel Günlükleri 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=noel-gunlukleri-2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Mumya 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Mumya 3 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=mumya-3-ejder-imparatorunun-mezari-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",mumya 2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=mumya-2
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Mumya 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Mumya 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=mumya-1-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",inanılmaz aile 1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=inanilmaz-aile-1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",İnanılmaz Aile 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",İnanılmaz Aile 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=inanilmaz-aile-2-fh-izle-1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Parker
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Parker çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=parker-izle-hd-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Soğuk Ölüm
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Soğuk Ölüm çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=soguk-olum-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Bitirim ikili 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Bitirim ikili 3 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=bitirim-ikili-3-izle-hd-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Bitirim ikili 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Bitirim ikili 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=bitirim-ikili-2-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Bitirim ikili 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Bitirim ikili 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=bitirim-ikili-1-izle-hd-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ölüm Yarışı 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ölüm Yarışı 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=olum-yarisi-1-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Öldürme Arzusu 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Öldürme Arzusu çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=oldurme-arzusu-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Sihirli Dağ
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Sihirli Dağ çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=sihirli-dag-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",İnce Kırmızı Hat
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",İnce Kırmızı Hat çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=ince-kirmizi-hat/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Jack Reacher 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Jack Reacher 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=jack-reacher-1-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hancock
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hancock çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=hancock-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Gerçeğin Peşinde
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Gerçeğin Peşinde çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=gercegin-pesinde-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",6 Süper Kahraman 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",6 Süper Kahraman çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=6-super-kahraman-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ninja Kaplumbağalar
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ninja Kaplumbağalar çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=ninja-kaplumbagalar-fh-izle-1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Suç Ortağı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Suç Ortağı çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=suc-ortagi-fh-izle/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",İşaretler
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",İşaretler çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=isaretler-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Vatansever 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Vatansever çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=vatansever-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Alvin ve Sincaplar 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Alvin ve Sincaplar 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=alvin-ve-sincaplar-2-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Alvin ve Sincaplar 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Alvin ve Sincaplar 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=alvin-ve-sincaplar-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şüphe
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şüphe çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=suphe-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zafer Glory
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zafer Glory çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=zafer/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayatım Yalan
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hayatım Yalan çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=hayatim-yalan-izle-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Babamın Penguenleri
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Babamın Penguenleri çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=babamin-penguenleri/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kartal Göz
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kartal Göz çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kartal-goz-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kimlik - Idenity
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kimlik - Idenity çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kimlik-fh3/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",madagaskar 1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madagaskar 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madagaskar 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=madagaskar-2-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madagaskar 3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Madagaskar 3 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=madagaskar-3-avrupanin-en-cok-arananlari-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Küçük Dev Asker
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Küçük Dev Asker çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kucuk-dev-asker-izle-hd/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şangay Şövalyeleri
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şangay Şövalyeleri çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=sangay-sovalyeleri-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şangaylı Kovboy
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şangaylı Kovboy çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=sangayli-kovboy/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Rio 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Rio 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=rio-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tarzan
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tarzan çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=tarzan-f2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tarzan
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tarzan çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=tarzan/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Bitirim Karınca
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Bitirim Karınca çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=bitirim-karinca-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karınca Z
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karınca Z çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=karinca-z-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",zootopia
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/zootopia-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ölüm Hattı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ölüm Hattı çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=olum-hatti-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tetikçi 2 Yüksek Gerilim
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tetikçi 2 Yüksek Gerilim çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=tetikci-2-yuksek-gerilim-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tetikçi
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Tetikçi çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=tetikci-crank-fh-izle/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hızlı ve Emekli 2 Red 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hızlı ve Emekli 2 Red 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=hizli-ve-emekli-2-fh5/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",hızlı ve emekli 1 red 1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=hizli-ve-emekli-1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Telefon Kulübesi 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Telefon Kulübesi çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=telefon-kulubesi/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Fener Zümrüt Şövalyeleri
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Fener Zümrüt Şövalyeleri çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=yesil-fener-zumrut-sovalyeleri-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Fener - Green Lantern
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Fener - Green Lantern çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=yesil-fener-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Fener: Korkun Benden 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Yeşil Fener: Korkun Benden çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=yesil-fener-korkun-benden/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şaşkın Hırsızlar 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Şaşkın Hırsızlar çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=saskin-hirsizlar-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hız Tuzağı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Hız Tuzağı çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=hiz-tuzagi-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Smokin
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Smokin çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=smokin-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Cehennem Melekleri 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Cehennem Melekleri 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=cehennem-melekleri-2-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",cehennem melekleri 1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=cehennem-melekleri1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Lara Croft Tomb Raider Yaşamın Kaynağı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Lara Croft Tomb Raider Yaşamın Kaynağı çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=lara-croft-tomb-raider-yasamin-kaynagi-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Çin Falı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Çin Falı çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=cin-fali-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Büyük Macera 3: Çılgın Dostlar
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Büyük Macera 3: Çılgın Dostlar çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=buyuk-macera-3-cilgin-dostlar-bolshoe-puteshestvie-vokrug-sveta/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ip Man: Son Dövüş 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ip Man: Son Dövüş çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=ip-man-son-dovus-yip-man-jung-gik-yat-zin/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ip Man: Son Dövüş yedek 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ip Man: Son Dövüş yedek çalışmıyor
 http://movie.okru.workers.dev/?ID=7278288447880
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ip Man 3 Efsane Doğuyor
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ip Man 3 Efsane Doğuyor çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=ip-man-3-efsane-doguyor-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ip Man: Kung Fu Ustası
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ip Man: Kung Fu Ustası çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=ip-man-kung-fu-ustasi-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ip Man: Son Usta
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ip Man: Son Usta çalışmıyor
 http://movie.okru.workers.dev/?ID=7281396820360
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kızıl Hare
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kızıl Hare çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kizil-hare-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pamuk Prenses - Snow White
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pamuk Prenses - Snow White çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=pamuk-prenses-snow-white-fh3/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kıyamet Günü
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kıyamet Günü çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kiyamet-gunu-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",The Old Way
 http://movies.hdfilm.workers.dev/?ID=the-old-way-izlehd-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",The Old Ways test
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",The Old Ways test çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=the-old-ways-fh-izle/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",test Pasifik Canavarı - 3-Headed Shark Attack
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pasifik Canavarı - 3-Headed Shark Attack çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=pasifik-canavari-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pasifik Savaşı 2 isyan 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pasifik Savaşı 2 isyan çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=pasifik-savasi-2-isyan-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pasifik Savaşı 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pasifik Savaşı çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=pasifik-savasi-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Uyumsuz
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Uyumsuz çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=uyumsuz-divergent-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kuralsız
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kuralsız çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kuralsiz-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Uyumsuz 3 Yandaş
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Uyumsuz 3 Yandaş çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=uyumsuz-3-yandas-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Mekanik - The Mechanic 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Mekanik - The Mechanic çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=mekanik-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ölümcül Labirent: Şampiyonlar Turnuvası
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ölümcül Labirent: Şampiyonlar Turnuvası çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=olumcul-labirent-sampiyonlar-turnuvasi-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Vanguard
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Vanguard çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=vanguard-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Belalı Tanık 2 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Belalı Tanık 2 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=belali-tanik-2-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Clifford Büyük Kırmızı Köpek
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Clifford Büyük Kırmızı Köpek çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=clifford-buyuk-kirmizi-kopek-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zamana Karşı - In Time
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zamana Karşı - In Time çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=zamana-karsi-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Truva
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Truva çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=truva-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Gün Batarken 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Gün Batarken çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=gun-batarken/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı çalışmıyor
 https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk çalışmıyor
 http://movie.okru.workers.dev/?ID=7469897427336
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Fetih 1453 - 2012
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Fetih 1453 - 2012 çalışmıyor
 http://movie.okru.workers.dev/?ID=8274873100623
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pi'nin Yaşamı 2012
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pi'nin Yaşamı 2012 çalışmıyor
 http://movie.okru.workers.dev/?ID=7381439949192
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Gerçeğe Çağrı 2012
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Gerçeğe Çağrı 2012 çalışmıyor
 http://movie.okru.workers.dev/?ID=7486375537032
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Beyazlar İçinde 2012
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Beyazlar İçinde 2012 çalışmıyor
 http://movie.okru.workers.dev/?ID=7396610484616
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Akrep Kral_1 2002
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Akrep Kral_1 2002 çalışmıyor
 http://movie.okru.workers.dev/?ID=7396441860488
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Altın şans 2008
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Altın şans 2008 çalışmıyor
 http://movie.okru.workers.dev/?ID=7560499308936
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yW0YQt1/MG-7220.jpg" group-title="Filmler",Cesur Yürek Braveheart 1995
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt0112573-film-izle
