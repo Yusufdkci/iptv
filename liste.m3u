@@ -1199,15 +1199,17 @@ http://movies.hdfilm.workers.dev/?ID=gun-batarken/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı yabancifilmizle
 https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk yabancifilmizle
-http://movie.okru.workers.dev/?ID=7469897427336
+https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi-ydk
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk2 webteizle
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk3 webteizle
-
+https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi-ydk2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk3 filmmodu
+https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi-ydk3
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk4 webteizle
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk5 filmmodu
-
+https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi-ydk4
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk5 hdfilmizle
+https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi-ydk5
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk6 hdfilmizle
+https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi-ydk6
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Fetih 1453 - 2012 çalışmıyor
 http://movie.okru.workers.dev/?ID=8274873100623
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pi'nin Yaşamı 2012 çalışmıyor
