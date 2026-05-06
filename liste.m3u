@@ -1196,10 +1196,18 @@ http://movies.hdfilm.workers.dev/?ID=zamana-karsi-fh2/
 http://movies.hdfilm.workers.dev/?ID=truva-fh2/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Gün Batarken çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=gun-batarken/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı çalışmıyor
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı yabancifilmizle
 https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk çalışmıyor
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk yabancifilmizle
 http://movie.okru.workers.dev/?ID=7469897427336
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk2 webteizle
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk3 webteizle
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk4 webteizle
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",ailem robotlara karşı ydk5 filmmodu
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Fetih 1453 - 2012 çalışmıyor
 http://movie.okru.workers.dev/?ID=8274873100623
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Pi'nin Yaşamı 2012 çalışmıyor
