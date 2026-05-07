@@ -123,31 +123,29 @@ http://65.108.239.207/t3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",Bein Sports
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR",TrGoals Yayını1
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",Web BeIN Sports+++
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR",TrGoals Yayını1 (Windows/Chrome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1514.xyz
 https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR",TrGoals Yayını2 off
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test1 Spor Kanalı
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test2 Spor Kanalı
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test3 Spor Kanalı
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test3 Spor Kanalı (Android/Samsung)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1514.xyz
 https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test1 Spor Kanalı (Macintosh/Safari)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1514.xyz
+https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",BeIN Sports 4K vpn
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -1246,72 +1244,8 @@ https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",🚨🚨deneme🔴🔴
 https://drive.google.com/uc?id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test1 android
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://ico3c.com/
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test2 android
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test3 ios
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=&User-Agent=Mozilla/5.0&Referer=https://ico3c.com/
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test4 android ve ios
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test5 android ve ios
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ico3c.com/
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test6 android ve ios
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sezonlukdizi8.com/
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/03793/c2oaycskrw9z_h/master.m3u8?t=UY5Ax6omN6kJLHfzQIRbJxwI2hd8PC81WbM7hFDc4UY&s=1768403929&e=10800&f=18967619&srv=1075&asn=9121&sp=5000&p=
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test7
-https://filmarsivi.yusufdkci1.workers.dev/?ID=https%3A%2F%2Fprx-1328-ant.vmwesa.online%2Fhls2%2F01%2F02153%2Fk6w3g562i00e_n%2Findex-v1-a1.m3u8%3Ft%3D5AmNmknkK3kOF6aQPJkm-nIkGX4M7X53FYTdGjeX5Kg%26s%3D1768572466%26e%3D43200%26v%3D%26srv%3Dbck-1356-ant-o%26i%3D0.4%26sp%3D0%26asn%3D9121
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test BBC EARTH
-https://patr0n.denek1544.workers.dev/izle/bbcearthhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Test SDM Belgesel Keyfi
-https://streams.uzunmuhalefet.com/stream/28ff2020-af46-4155-9546-06e432a8380c.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test Nature Time Türkçe
-https://streams.uzunmuhalefet.com/stream/ec36d9c3-9cc2-4d79-ad94-16af00c95bf4.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Discovery test
-https://cablew.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Discovery Science test
-https://cablew.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test Love Nature (Rec)
-https://patr0n.denek1544.workers.dev/izle/lovenature.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",test Viasat History (Rec)
-https://patr0n.denek1544.workers.dev/izle/viasathistory.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",spor test1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://restmacizle16.cfd/
-#EXTVLCOPT:http-origin=https://restmacizle16.cfd
-https://0vy.d72577a9dd0ec19.sbs/yayinzirve.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",spor test2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronspor24.xyz/
-#EXTVLCOPT:http-origin=https://patronspor24.xyz
-https://0vy.d72577a9dd0ec19.sbs/yayinzirve.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="test",test BeIN Sports UHD 1
-http://uro-levene-1012.mywire.org/index.php?id=10698&token=DeaTHLesS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="test",Web BeIN Sports+++
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/mqo9m8b.jpeg" group-title="test",Web XYZSPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://xyzsports238.xyz
-#EXTVLCOPT:http-referrer=https://xyzsports238.xyz/
-https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
 
 
 
