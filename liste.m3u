@@ -1,11 +1,11 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml,https://epghub.xyz/epg/EPG-TR.xml,https://www.open-epg.com/files/turkey3.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz"
+#EXTM3U 
+x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml,https://epghub.xyz/epg/EPG-TR.xml,https://www.open-epg.com/files/turkey3.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",🌿GENEL🌿
 https://ornek.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="GENEL",deneme
 #EXTGRP:GENEL
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
-
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="GENEL",TRT1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
