@@ -14,7 +14,7 @@ m3u4u: http://m3u4u.com/m3u/xe47yz7wr3hpg884n9vq
 ## 🔗 Kısa Linkler
 Aşağıdaki kısa linkler, IPTV uygulamalarında listeyi eklemek ve daha kolay kullanım sağlamak amacıyla oluşturulmuştur:
 
-#paylasimiptv #tvkanallari #m3u0001
+#paylasimiptv #tvkanallari #m3u0001  iptv3464, tv3464, tv1010, iptv1010, canlitv2026, canlitvpro, canlitvhd
 
 https://is.gd/canlitv01
 
