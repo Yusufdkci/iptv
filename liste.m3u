@@ -920,14 +920,14 @@ http://movies.hdfilm.workers.dev/?ID=sirinler-3-kayip-koy-fh3/
 http://movie.okru.workers.dev/?ID=7384911194504
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Kutup - Arctic çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=kutup-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece 1 çalışmıyor
-http://movies.hdfilm.workers.dev/?ID=muzede-bir-gece-film-izle-fh2/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece 2 çalışmıyor
-http://movies.hdfilm.workers.dev/?ID=muzede-bir-gece-2-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece 3 çalışmıyor
-http://movies.hdfilm.workers.dev/?ID=muzede-bir-gece-3-lahitteki-sir-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Müzede Bir Gece çalışmıyor
-http://movies.hdfilm.workers.dev/?ID=muzede-bir-gece-kahmunrahin-yukselisi/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Filmler",Müzede Bir Gece 1 2006
+https://vidmody.com/vs/tt0477347
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cCQ1YfFhnxP0zJ3IoaAw4j0FeMr.jpg" group-title="Filmler",Müzede Bir Gece 2 2009
+https://vidmody.com/vs/tt1078912
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7y1qzrTpVh72oEA1CHOrpe5J8is.jpg" group-title="Filmler",Müzede Bir Gece 3 2014
+https://vidmody.com/vs/tt2692250
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qm1BZxpc35Xope13bdzaLegKHYN.jpg" group-title="Filmler",Müzede Bir Gece 2022
+https://vidmody.com/vs/tt13623880
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Oyuncak Hikayesi 1 çalışmıyor
 http://movies.hdfilm.workers.dev/?ID=oyuncak-hikayesi-fh1/
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Oyuncak Hikayesi 2 çalışmıyor
@@ -956,12 +956,13 @@ https://vidmody.com/vs/tt0119303
 https://vidmody.com/vs/tt0329200
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8yUo8CTJlSAPHgxM2iA6dCgaMRy.jpg" group-title="Filmler",Evde Tek Başına 5 2012
 https://vidmody.com/vs/tt2308733
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Sihirli İksirin Sırrı animasyon çalışmıyor
-http://movies.hdfilm.workers.dev/?ID=asteriks-sihirli-iksirin-sirri/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Roma Sitesi animasyon çalışmıyor
-http://movies.hdfilm.workers.dev/?ID=asteriks-roma-sitesi-fh1/
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Asteriks Ve Oburiks Sezara Karşı çalışmıyor
-http://movies.hdfilm.workers.dev/?ID=asteriks-ve-oburiks-sezara-karsi-fh1/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rjr7YX263jcprPcNCXNg1B1b2gj.jpg" group-title="Filmler",Asteriks Sihirli İksirin Sırrı animasyon
+https://vidmody.com/vs/tt8001346
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lhB8cU7sHMy4ibKHVn67YcP4dI.jpg" group-title="Filmler",Asteriks Roma Sitesi animasyon
+https://vidmody.com/vs/tt3759416
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/auwSYFvMylPaxd0bPnlbPuNcXkI.jpg" group-title="Filmler",Asteriks Ve Oburiks Sezara Karşı 1999
+https://vidmody.com/vs/tt0133385
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",asteriks ve oburiks 2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=asteriks-ve-oburiks-2
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",v1asteriks ve oburiks 2
