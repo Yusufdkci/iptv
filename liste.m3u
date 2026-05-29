@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml,https://epghub.xyz/epg/EPG-TR.xml,https://www.open-epg.com/files/turkey3.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml,https://goldvod.org/xmltv.php?username=hpgdisco&password=123456,https://epghub.xyz/epg/EPG-TR.xml,https://www.open-epg.com/files/turkey3.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",🌿GENEL🌿
 https://ornek.m3u8
 
@@ -119,6 +119,102 @@ http://65.108.239.207/t2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="GENEL",Tivibu Spor 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://65.108.239.207/t3/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Bein Sports 17/24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor",Bein Sports 17/24
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1873.xyz/
+https://dga1op10s1u3leo.09ae0c131a1d8b.click/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 27/24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="Spor",Bein Sports 27/24
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1873.xyz/
+https://dga1op10s1u3leo.09ae0c131a1d8b.click/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 37/24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="Spor",Bein Sports 37/24
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1873.xyz/
+https://dga1op10s1u3leo.09ae0c131a1d8b.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 47/24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BeIN_Sports_4_HD.svg/200px-BeIN_Sports_4_HD.svg.png" group-title="Spor",Bein Sports 47/24
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1873.xyz/
+https://dga1op10s1u3leo.09ae0c131a1d8b.click/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 57/24" tvg-logo="https://patronsports1.cfd/img/beinsports5.png" group-title="Spor",Bein Sports 57/24
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1873.xyz/
+https://dga1op10s1u3leo.09ae0c131a1d8b.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Haber7/24" tvg-logo="" group-title="Spor",Bein Sports Haber7/24
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1873.xyz/
+https://dga1op10s1u3leo.09ae0c131a1d8b.click/live/selcukbeinsportshaber/playlist.m3u8
+#EXTINF:-1 tvg-name="A Spor7/24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor",A Spor7/24
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1873.xyz/
+https://dga1op10s1u3leo.09ae0c131a1d8b.click/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor",BeIN Sports 1
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="Spor",BeIN Sports 2
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="Spor",BeIN Sports 3
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor",A Spor
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor",BeIN Sports 1
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="Spor",BeIN Sports 2
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor",A Spor
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
+#EXTINF:-1 tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor",A Spor
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
+#EXTINF:-1 tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor",A Spor
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor",BeIN Sports 1
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor",BeIN Sports 1
+#EXT-X-KANAL-TIPI:AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="beIN Sport 1 HD" tvg-name="beIN Sport 1 HD" tvg-logo="https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp" group-title="PLAY SPOR | Telegram @playtvmedya",beIN Sport 1 HD
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.1386503.xyz/checklist/androstreamlivebs1.m3u
+
+
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",Bein Sports
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
@@ -443,14 +539,24 @@ https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://yt3.ggpht.com/gWxG3v8R74BMB5GWgX0v9HoFKmKLtTl533CgLfoHcRfRXQPTTcAYgvrnplkwqOmq4GZnmOLkbw" group-title="YEDEKLER",24
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgeseller",🍀☘️Belgeseller🍀☘️
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",🍀☘️Belgeseller🍀☘️
 https://videos.pexels.com/video-files/31091800/13285423_1920_1080_30fps.mp4?=.mpg
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgeseller",NatGeowild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgesel",NatGeowild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgeseller",National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgesel",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="Belgesel",BBC EARTH HD
+#EXT-X-KANAL-TIPI:AUTO
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3H98G67KZ9HAS9/6854/index.m3u8
+
+#EXTINF:-1 tvg-name="Dıscovery Channel" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838478.png" group-title="Belgesel",Dıscovery Channel
+#EXT-X-KANAL-TIPI:AUTO
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3H98G67KZ9HAS9/6861/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SİNEMALAR 🎥 🌟⚡️✨
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
