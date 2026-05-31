@@ -841,8 +841,6 @@ https://pixeldrain.com/api/file/r5NveXJ5?=.mp4
 https://filmarsivi.yusufdkci1.workers.dev/?ID=adalet-1
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",The Equalizer 2
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt3766354-film-izle
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",World War Z
-https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/world-war-z-hd-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Zindan Adası
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/shutter-island-hd-film-izle
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Çelik Yumruklar
@@ -1346,7 +1344,9 @@ https://vidmody.com/vs/tt0373051
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v7E7JfySEUtPM6b2EDANZGB3ZmG.jpg" group-title="Filmler",Dünyalar Savaşı 2005
 https://vidmody.com/vs/tt0407304 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zfrtFsgX9xkgQuQBoBu92wP89VB.jpg" group-title="Filmler",Dünya Savaşı Z 2013
-https://vidmody.com/vs/tt0816711 
+https://vidmody.com/vs/tt0816711
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",World War Z 2013
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/world-war-z-hd-film-izle
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/djYbNGLcCJ4p6Uk4k7o2Pl4D6xG.jpg" group-title="Filmler",Dünya: Yeni Bir Başlangıç 2013
 https://vidmody.com/vs/tt1815862 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pcotbTq3rUYlSdq6qRJNOXIcmAP.jpg" group-title="Filmler",Dünya istilası los angeles savaşı 2011
