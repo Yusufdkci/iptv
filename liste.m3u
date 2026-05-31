@@ -1577,62 +1577,65 @@ https://drive.google.com/uc?id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 https://601a43eea2819.streamlock.net/hls/471.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",istanbul ataşehir
 https://601a43eea2819.streamlock.net/hls/471.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",fethiye
-https://lon.rtsp.me/yCuxcW6tQx46RNe7wNwr0Q/1780247325/hls/4dNZ96T8.m3u8?ip=88.243.194.181
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",fethiye
-https://lon.rtsp.me/puPb-yYcbBcnT-jrXOS34w/1780247200/hls/4dNZ96T8.m3u8?ip=88.243.194.181
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",fethiye
-https://lon.rtsp.me/9TZZjt8_84w0QGJDVbzjlQ/1780247362/hls/4dNZ96T8.m3u8?ip=88.243.194.181
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",fethiye
-https://videos-3.earthcam.com/fecnetwork/20204.flv/chunklist_w1513085176.m3u8?t=02o1dmlP2IC%2FWTnNzbfIFHv2s%2FXVZ1n5No5gVudiu2jA%2BcIZxZgoTNrRkbe64YFd&td=202605311205
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",fethiye
-https://videos-3.earthcam.com/fecnetwork/20204.flv/playlist.m3u8?t=02o1dmlP2IC%2FWTnNzbfIFHv2s%2FXVZ1n5No5gVudiu2jA%2BcIZxZgoTNrRkbe64YFd&td=202605311205
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",fethiye
-https://videos-3.earthcam.com/fecnetwork/24322.flv/chunklist_w1154994837.m3u8?t=qAP3aum0UbcBtTuO%2Fx%2F7Lz9UytxcCWnrPDJyjgaIxereI5xI%2BjzwVz18HsJZUMDh&td=202605311222
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",fethiye
-https://videos-3.earthcam.com/fecnetwork/40604.flv/chunklist_w1717270838.m3u8?t=iy62%2BobDnYmGN81bEMbiaMTtY5varBaofYE%2BtLjOQd%2FxzjVjb6Rmh3tSlR9qYLZi&td=202605311224
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",fethiye
-https://videos-3.earthcam.com/fecnetwork/4559.flv/chunklist_w389533863.m3u8?t=xJQl7iwAcfm6GVsfOnGduziM%2FgBvXWX3%2FOmpgAY0lyUThdwFMQy1YreTgu9FJ4tp&td=202605311225
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",fethiye
-https://videos-3.earthcam.com/fecnetwork/4559.flv/playlist.m3u8?t=xJQl7iwAcfm6GVsfOnGduziM%2FgBvXWX3%2FOmpgAY0lyUThdwFMQy1YreTgu9FJ4tp&td=202605311225
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",beyazıt meydanı 
 https://livestream.ibb.gov.tr/cam_turistik/b_beyazitmeydani.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",beyazıt meydanı 
 https://livestream.ibb.gov.tr/cam_turistik/b_beyazitmeydani.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",BÜYÜK ÇAMLICA
 https://livestream.ibb.gov.tr/cam_turistik/b_buyukcaml%C4%B1ca.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",BÜYÜK ÇAMLICA
 https://livestream.ibb.gov.tr/cam_turistik/b_buyukcaml%C4%B1ca.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",KIZ KULESİ
 https://livestream.ibb.gov.tr/cam_turistik/new_K%C4%B1zkulesi.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",KIZ KULESİ
 https://livestream.ibb.gov.tr/cam_turistik/new_K%C4%B1zkulesi.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SALACAK
 https://livestream.ibb.gov.tr/cam_turistik/b_salacak.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SALACAK
 https://livestream.ibb.gov.tr/cam_turistik/b_salacak.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",PİERRE LOTTİ
 https://livestream.ibb.gov.tr/cam_turistik/b_pierreloti.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",PİERRE LOTTİ
 https://livestream.ibb.gov.tr/cam_turistik/b_pierreloti.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",MİNİATÜRK
 https://livestream.ibb.gov.tr/cam_turistik/b_miniat%C3%BCrk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",MİNİATÜRK
 https://livestream.ibb.gov.tr/cam_turistik/b_miniat%C3%BCrk.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SULTANAHMET
 https://livestream.ibb.gov.tr/cam_turistik/b_sultanahmet.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SULTANAHMET
 https://livestream.ibb.gov.tr/cam_turistik/b_sultanahmet.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SARAÇHANE
 https://livestream.ibb.gov.tr/cam_turistik/b_sarachane.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SARAÇHANE
 https://livestream.ibb.gov.tr/cam_turistik/b_sarachane.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",KÜÇÜKÇEKMECE
 https://livestream.ibb.gov.tr/cam_turistik/b_kucukcekmece.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",KÜÇÜKÇEKMECE
 https://livestream.ibb.gov.tr/cam_turistik/b_kucukcekmece.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",alanya mahmutlar sahil
-https://cdn.yayin.tr/148-feneriskele.m3u8?token=_NbreIDmGlXrRAN5r_-j0g.1780330482
+
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",beyazıt meydanı 1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",beyazıt meydanı 2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",BÜYÜK ÇAMLICA3
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",BÜYÜK ÇAMLICA4
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme4
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",KIZ KULESİ5
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme5
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",KIZ KULESİ6
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme6
 
 
 
