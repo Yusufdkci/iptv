@@ -1579,80 +1579,95 @@ https://601a43eea2819.streamlock.net/hls/471.stream/chunklist.m3u8
 https://601a43eea2819.streamlock.net/hls/471.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",beyazıt meydanı 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://livestream.ibb.gov.tr/cam_turistik/b_beyazitmeydani.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",beyazıt meydanı 
 https://livestream.ibb.gov.tr/cam_turistik/b_beyazitmeydani.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",BÜYÜK ÇAMLICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://livestream.ibb.gov.tr/cam_turistik/b_buyukcaml%C4%B1ca.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",BÜYÜK ÇAMLICA
 https://livestream.ibb.gov.tr/cam_turistik/b_buyukcaml%C4%B1ca.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",KIZ KULESİ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://livestream.ibb.gov.tr/cam_turistik/new_K%C4%B1zkulesi.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",KIZ KULESİ
 https://livestream.ibb.gov.tr/cam_turistik/new_K%C4%B1zkulesi.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SALACAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://livestream.ibb.gov.tr/cam_turistik/b_salacak.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SALACAK
 https://livestream.ibb.gov.tr/cam_turistik/b_salacak.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",PİERRE LOTTİ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://livestream.ibb.gov.tr/cam_turistik/b_pierreloti.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",PİERRE LOTTİ
 https://livestream.ibb.gov.tr/cam_turistik/b_pierreloti.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",MİNİATÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://livestream.ibb.gov.tr/cam_turistik/b_miniat%C3%BCrk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",MİNİATÜRK
 https://livestream.ibb.gov.tr/cam_turistik/b_miniat%C3%BCrk.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SULTANAHMET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://livestream.ibb.gov.tr/cam_turistik/b_sultanahmet.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SULTANAHMET
 https://livestream.ibb.gov.tr/cam_turistik/b_sultanahmet.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SARAÇHANE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://livestream.ibb.gov.tr/cam_turistik/b_sarachane.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",SARAÇHANE
 https://livestream.ibb.gov.tr/cam_turistik/b_sarachane.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",KÜÇÜKÇEKMECE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://livestream.ibb.gov.tr/cam_turistik/b_kucukcekmece.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",KÜÇÜKÇEKMECE
 https://livestream.ibb.gov.tr/cam_turistik/b_kucukcekmece.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://videos-3.earthcam.com/fecnetwork/20204.flv/playlist.m3u8?t=02o1dmlP2IC%2FWTnNzbfIFHv2s%2FXVZ1n5No5gVudiu2i5Xy6Pf7eFR4rodyWS20ND&td=202605311109
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://videos-3.earthcam.com/fecnetwork/20204.flv/chunklist_w1600088588.m3u8?t=02o1dmlP2IC%2FWTnNzbfIFHv2s%2FXVZ1n5No5gVudiu2i5Xy6Pf7eFR4rodyWS20ND&td=202605311109
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://videos-3.earthcam.com/fecnetwork/20204.flv/chunklist_w1852947547.m3u8?t=02o1dmlP2IC%2FWTnNzbfIFHv2s%2FXVZ1n5No5gVudiu2i5Xy6Pf7eFR4rodyWS20ND&td=202605311109
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://videos-3.earthcam.com/fecnetwork/20204.flv/chunklist_w1046561149.m3u8?t=02o1dmlP2IC%2FWTnNzbfIFHv2s%2FXVZ1n5No5gVudiu2i5Xy6Pf7eFR4rodyWS20ND&td=202605311109
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://videos-3.earthcam.com/fecnetwork/42647.flv/playlist.m3u8?t=pg0jHHCepc%2FIu%2Bdf0LJWD79sF0RkEPl0u4e3I1zJgagbabHK9%2BM57WHb8Jp7oklG&td=202605311132
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://videos-3.earthcam.com/fecnetwork/42647.flv/chunklist_w1852402616.m3u8?t=pg0jHHCepc%2FIu%2Bdf0LJWD79sF0RkEPl0u4e3I1zJgagbabHK9%2BM57WHb8Jp7oklG&td=202605311132
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://videos-3.earthcam.com/fecnetwork/20204.flv/chunklist_w1426306955.m3u8?t=02o1dmlP2IC%2FWTnNzbfIFHv2s%2FXVZ1n5No5gVudiu2i5Xy6Pf7eFR4rodyWS20ND&td=202605311109
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://videos-3.earthcam.com/fecnetwork/47723.flv/playlist.m3u8?t=Pt34vHcDChEu3E%2Bi34e8vMu%2FFe9FVob0kEVotGihRfljCVk4gH%2FjZpv4VXK%2BOVrN&td=202605311133
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://videos-3.earthcam.com/fecnetwork/47723.flv/chunklist_w522394789.m3u8?t=Pt34vHcDChEu3E%2Bi34e8vMu%2FFe9FVob0kEVotGihRfljCVk4gH%2FjZpv4VXK%2BOVrN&td=202605311133
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 10
-https://ectvradio.earthcam.com/earthcamradio/holidays/chunklist_w1770573231.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 11
 https://videos-3.earthcam.com/fecnetwork/42647.flv/chunklist_w1852402616.m3u8?t=pg0jHHCepc%2FIu%2Bdf0LJWD79sF0RkEPl0u4e3I1zJgagbabHK9%2BM57WHb8Jp7oklG&td=202605311132
@@ -1671,9 +1686,6 @@ https://videos-3.earthcam.com/fecnetwork/7132.flv/chunklist_w1648958281.m3u8?t=s
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 16
 https://ectvradio.earthcam.com/earthcamradio/meditation/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 17
-https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w2116834558.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOBESE KAMERA",dene 18
 https://videos-3.earthcam.com/fecnetwork/10729.flv/playlist.m3u8?t=dMEHoK9MZNdyzkladH76mOy8XvRs6QgBwzBd38C4dt8%2BCLcAI4T%2Bf3T7L6pXizVW&td=202605311119
