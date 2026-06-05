@@ -56,6 +56,9 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="CİNE1" tvg-name="CİNE1" tvg-logo="https://cine1.com.tr/images/cine1tvas.png" group-title="GENEL",CİNE1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 
+#EXTINF:-1 tvg-id="CİNE1" tvg-name="CİNE1" tvg-logo="https://cine1.com.tr/images/cine1tvas.png" group-title="GENEL",CİNE1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?autoplay=1
+
 #EXTINF:-1 tvg-id="CNBC-E" tvg-name="CNBC-E" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="GENEL",CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
@@ -77,8 +80,14 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdzKYB1c/MG-6446.jpg" group-title="GENEL",CNN TÜRK ydk
 https://yt3.ggpht.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdzKYB1c/MG-6446.jpg" group-title="GENEL",CNN TÜRK ydk
+http://46.32.176.50/cnnturk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="A HABER" tvg-name="A HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="GENEL",A HABER
 https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="GENEL",A HABER
+http://46.32.176.50/ahaber/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20091218163738%21Kanal_24.png" group-title="GENEL",24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
@@ -146,6 +155,8 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="YEDEKLER",A Spor ydk
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="YEDEKLER",A Spor
+http://46.32.176.50/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4jlqmv0.png" group-title="YEDEKLER",bein haber test
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4jlqmv0.png" group-title="YEDEKLER",tivibu test
@@ -213,26 +224,54 @@ https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",🍀☘️Belgeseller🍀☘️
 https://videos.pexels.com/video-files/31091800/13285423_1920_1080_30fps.mp4?=.mpg
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgesel",NatGeowild
-https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgesel",NatGeowild NAT GEO WILD
+http://umperisn.mywire.org/index.php?id=594678&token=DeaTHLesS
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgesel",National Geographic
-https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgesel",National Geographic NAT GEO
+http://umperisn.mywire.org/index.php?id=594676&token=DeaTHLesS
 
 #EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="Belgesel",BBC EARTH HD
 #EXT-X-KANAL-TIPI:AUTO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3H98G67KZ9HAS9/6854/index.m3u8
 
-#EXTINF:-1 tvg-name="Dıscovery Channel" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838478.png" group-title="Belgesel",Dıscovery Channel
+#EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="Belgesel",BBC EARTH HD
+http://umperisn.mywire.org/index.php?id=594660&token=DeaTHLesS
+
+#EXTINF:-1 tvg-name="Dıscovery Channel" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838478.png" group-title="Belgesel",Dıscovery Channel DISCOVERY
 #EXT-X-KANAL-TIPI:AUTO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3H98G67KZ9HAS9/6861/index.m3u8
 
+#EXTINF:-1 tvg-name="Dıscovery Channel" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838478.png" group-title="Belgesel",Dıscovery Channel DISCOVERY
+http://umperisn.mywire.org/index.php?id=594674&token=DeaTHLesS
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT EXPLORE
+http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
+http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",ID
+http://umperisn.mywire.org/index.php?id=594672&token=DeaTHLesS
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",id 
+http://umperisn.mywire.org/index.php?id=594672&token=DeaTHLesS
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",Ed Stafford
+https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SİNEMALAR 🎥 🌟⚡️✨
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="SİNEMALAR",FX
 https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="SİNEMALAR",FX
+http://umperisn.mywire.org/index.php?id=591435&token=DeaTHLesS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="SİNEMALAR",FX
+http://umperisn.mywire.org/index.php?id=591434&token=DeaTHLesS
+#EXTINF:-1 tvg-logo="https://www.sinematv.com.tr/content/logo/SINEMATV.png" group-title="SİNEMALAR",SINEMA TV
+http://umperisn.mywire.org/index.php?id=591429&token=DeaTHLesS
+#EXTINF:-1 tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" group-title="SİNEMALAR",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
 #EXTINF:-1 tvg-id="SDM Sinema Keyfi" tvg-name="SDM Sinema Keyfi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png" group-title="SİNEMALAR",SDM Sinema Keyfi
 https://streams.uzunmuhalefet.com/stream/e3d3b3f7-7276-4768-9673-388e462401e2.m3u8
 #EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SİNEMALAR",Sinema 1
@@ -253,6 +292,14 @@ https://catcast.ismailturret.workers.dev/50659.m3u8
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SALON PREMIUM 1
+https://catcast.ismailturret.workers.dev/playercinema-premium 1.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SALON PREMIUM 2
+https://catcast.ismailturret.workers.dev/playercinema-premium2.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",TELEON
+http://teleontvstreams.supersatadmin.workers.dev/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",EURO 90 CH
+http://euro90ch.streams-supersatforum.workers.dev/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",SPOR
@@ -2029,6 +2076,12 @@ https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mp
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="7/24 Yayın",❄️🦋7/24 Yayın❄️🦋
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="7/24 Yayın",CAILLOU
+https://catcast.ismailturret.workers.dev/fanatikkidscaillou.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="7/24 Yayın",TOM & JERRY
+https://catcast.ismailturret.workers.dev/tomandjerry.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="7/24 Yayın",TOM & JERRY
+https://catcast.ismailturret.workers.dev/playercizgifilm-tomvejerry.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="7/24 Yayın",ŞÖMİNE
 http://iptv.prosto.tv:7000/ch331/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="7/24 Yayın",Stream City
@@ -2092,5 +2145,90 @@ https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 https://drive.google.com/uc?id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
 
+
+
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV ?
+http://umperisn.mywire.org/index.php?id=591410&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Komedi
+http://umperisn.mywire.org/index.php?id=591411&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Komedi 2
+http://umperisn.mywire.org/index.php?id=591412&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Komedi 2
+http://umperisn.mywire.org/index.php?id=591413&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV
+http://umperisn.mywire.org/index.php?id=591414&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV
+http://umperisn.mywire.org/index.php?id=591415&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aksion 2
+http://umperisn.mywire.org/index.php?id=591416&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aksiyon
+http://umperisn.mywire.org/index.php?id=591417&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV
+http://umperisn.mywire.org/index.php?id=591418&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aksiyon 2
+http://umperisn.mywire.org/index.php?id=591419&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aile
+http://umperisn.mywire.org/index.php?id=591420&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aile
+http://umperisn.mywire.org/index.php?id=591421&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,sinema TV aile 2
+http://umperisn.mywire.org/index.php?id=591422&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aile 2
+http://umperisn.mywire.org/index.php?id=591423&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV 1002
+http://umperisn.mywire.org/index.php?id=591424&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV 1002
+http://umperisn.mywire.org/index.php?id=591425&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV 1001
+http://umperisn.mywire.org/index.php?id=591426&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV 1001
+http://umperisn.mywire.org/index.php?id=591427&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV 2
+http://umperisn.mywire.org/index.php?id=591428&token=DeaTHLesS
+
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Minika Go
+http://umperisn.mywire.org/index.php?id=591397&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Smart BOX Action
+http://umperisn.mywire.org/index.php?id=591398&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 3
+http://umperisn.mywire.org/index.php?id=591400&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 3
+http://umperisn.mywire.org/index.php?id=591401&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 2
+http://umperisn.mywire.org/index.php?id=591402&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 2
+http://umperisn.mywire.org/index.php?id=591403&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 1
+http://umperisn.mywire.org/index.php?id=591404&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 1
+http://umperisn.mywire.org/index.php?id=591405&token=DeaTHLesS
+
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies star
+http://umperisn.mywire.org/index.php?id=591390&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies Star
+http://umperisn.mywire.org/index.php?id=591391&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies 
+http://umperisn.mywire.org/index.php?id=591392&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies Premiere
+http://umperisn.mywire.org/index.php?id=591393&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies Premiere 2
+http://umperisn.mywire.org/index.php?id=591394&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies Premiere 2
+http://umperisn.mywire.org/index.php?id=591395&token=DeaTHLesS
+
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 4
+http://umperisn.mywire.org/index.php?id=591380&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 4
+http://umperisn.mywire.org/index.php?id=591381&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 3
+http://umperisn.mywire.org/index.php?id=591382&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 3
+http://umperisn.mywire.org/index.php?id=591383&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 2
+http://umperisn.mywire.org/index.php?id=591384&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 2
+http://umperisn.mywire.org/index.php?id=591385&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 1
+http://umperisn.mywire.org/index.php?id=591386&token=DeaTHLesS
 
 
