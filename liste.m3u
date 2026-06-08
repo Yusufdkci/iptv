@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml,https://goldvod.org/xmltv.php?username=hpgdisco&password=123456,https://epghub.xyz/epg/EPG-TR.xml,https://www.open-epg.com/files/turkey3.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml,https://goldvod.org/xmltv.php?username=hpgdisco&password=123456,https://epghub.xyz/epg/EPG-TR.xml,https://www.open-epg.com/files/turkey3.xml"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",🌿GENEL🌿
 https://ornek.m3u8
 
