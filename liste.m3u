@@ -224,10 +224,10 @@ https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",🍀☘️Belgeseller🍀☘️
 https://videos.pexels.com/video-files/31091800/13285423_1920_1080_30fps.mp4?=.mpg
 
-#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Belgesel",NatGeowild NAT GEO WILD
+#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/xLsaQyz.png" group-title="Belgesel",NatGeowild NAT GEO WILD
 http://umperisn.mywire.org/index.php?id=594678&token=DeaTHLesS
 
-#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.tr" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Belgesel",National Geographic NAT GEO
+#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.tr" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/GSxkmki.jpeg" group-title="Belgesel",National Geographic NAT GEO
 http://umperisn.mywire.org/index.php?id=594676&token=DeaTHLesS
 
 #EXTINF:-1 tvg-id="BBC.EARTH.tr" tvg-name="BBC EARTH" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="Belgesel",BBC EARTH HD
@@ -262,11 +262,11 @@ https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SİNEMALAR 🎥 🌟⚡️✨
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="SİNEMALAR",FX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYqzTQf.png" group-title="SİNEMALAR",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="SİNEMALAR",FX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYqzTQf.png" group-title="SİNEMALAR",FX
 http://umperisn.mywire.org/index.php?id=591435&token=DeaTHLesS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="SİNEMALAR",FX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYqzTQf.png" group-title="SİNEMALAR",FX
 http://umperisn.mywire.org/index.php?id=591434&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="https://www.sinematv.com.tr/content/logo/SINEMATV.png" group-title="SİNEMALAR",SINEMA TV
 http://umperisn.mywire.org/index.php?id=591429&token=DeaTHLesS
