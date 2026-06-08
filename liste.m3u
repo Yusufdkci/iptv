@@ -2033,6 +2033,8 @@ https://vidmody.com/vs/tt2194499
 https://vidmody.com/vs/tt1192628
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mn4Uc3HRnQNL8AiQTVZ6R9EPwri.jpg" group-title="Filmler",Arabalar Cars 2006
 https://vidmody.com/vs/tt0317219
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nv1l1k6Yjddeor8IIRhMlKxIyXn.jpg" group-title="Filmler",Frozen (2010)
+https://vidmody.com/vs/tt1323045
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pONyvBJwHNg5CWu7mtsv4qaq75C.jpg" group-title="Filmler",Denizci 1 The Marine 2006
 https://vidmody.com/vs/tt0419946
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z1PayLY6vlMeCrL6Xz8biuuVkLq.jpg" group-title="Filmler",Denizci 2 2009 The Marine
@@ -2130,10 +2132,10 @@ http://iptv.prosto.tv:7000/ch347/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",###deneme### 
-https://ornek.m3u8
+https://p3.photomag.biz/v/cs2mjom2vf0t/1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",---deneme---
-https://ornek.m3u8
+https://imgsapi.pro/eDxFljgFxjeFfkA1piWGRhgXn4jePxcZGF2gQD0ZX4cXnbkfGNNNN
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",•••deneme•••
 https://ornek.m3u8
@@ -2143,7 +2145,6 @@ https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",🚨🚨deneme🔴🔴
 https://drive.google.com/uc?id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
-
 
 
 
@@ -2230,5 +2231,9 @@ http://umperisn.mywire.org/index.php?id=591384&token=DeaTHLesS
 http://umperisn.mywire.org/index.php?id=591385&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 1
 http://umperisn.mywire.org/index.php?id=591386&token=DeaTHLesS
+
+
+
+
 
 
