@@ -75,19 +75,10 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?sig=12e805494df807d580a4aae395a17c64&token=NTNpSGo5RFc3anhWYjVWZXN4QndvZXkzdm9CZXJLek5meEJOajNMbldvZz0=&sid=7umf8gmx7sxg&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=3
 
 #EXTINF:-1 tvg-id="CNN.TÜRK.tr" tvg-name="CNN TÜRK" tvg-logo="https://i.ibb.co/LdzKYB1c/MG-6446.jpg" group-title="GENEL",CNN TÜRK
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdzKYB1c/MG-6446.jpg" group-title="GENEL",CNN TÜRK ydk
-https://yt3.ggpht.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdzKYB1c/MG-6446.jpg" group-title="GENEL",CNN TÜRK ydk
 http://46.32.176.50/cnnturk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A.HABER.tr" tvg-name="A HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="GENEL",A HABER
 https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="GENEL",A HABER
-http://46.32.176.50/ahaber/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24.TV.tr" tvg-name="24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20091218163738%21Kanal_24.png" group-title="GENEL",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
@@ -213,6 +204,12 @@ https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?sig=3ad73b092a22ec5c3b7c71a79ff49cd7&token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=7umf0dkeejjq&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://yt3.ggpht.com/PUOG4AugF5attdcdO6O1sOIkFykoEJBTKF0d6hLlzAj_VCPD3MUyMOZTiwyfs-NbqL7qLNJuRw" group-title="YEDEKLER",NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdzKYB1c/MG-6446.jpg" group-title="YEDEKLER",CNN TÜRK ydk
+https://yt3.ggpht.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdzKYB1c/MG-6446.jpg" group-title="YEDEKLER",CNN TÜRK ydk
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="YEDEKLER",A HABER
+http://46.32.176.50/ahaber/playlist.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="YEDEKLER",24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://cdn.technettv.com/channel/29534/logo_256_1733832490.jpg" group-title="YEDEKLER",24
@@ -593,6 +590,68 @@ https://vidmody.com/vs/tt1674782
 https://vidmody.com/vs/tt0111161
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7T2SDS5efuJiK45oyKoEzf9RKjw.jpg" group-title="Filmler",Esaretin Bedeli 1994 (PIXEL)
 https://pixeldrain.com/api/file/Spn3UReP?=.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6ZNnKbdDRQm0ftkq3OKiDrwZkIN.jpg" group-title="Filmler",Yeşil Yol 1999
+https://pixeldrain.com/api/file/LbzUFJYF?=.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6ZNnKbdDRQm0ftkq3OKiDrwZkIN.jpg" group-title="Filmler",Yeşil Yol 1999 - The Green Mile
+https://vidmody.com/vs/tt0120689
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/47wgelJLKEtGMvi0W8GPTW6R7Lh.jpg" group-title="Filmler",Son Kale 2001 
+https://vidmody.com/vs/tt0272020
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5FGW46MSMZJ50cIfErFRWKaCMJD.jpg" group-title="Filmler",Şüphe 2007 
+https://vidmody.com/vs/tt0486822
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c5aEuJfVMoTzqdyz1gykBxEMlqt.jpg" group-title="Filmler",Kimlik - Idenity 2003 
+https://vidmody.com/vs/tt0309698
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3PFAwjZEys8QYbENNMWjCIhWsF9.jpg" group-title="Filmler",The Equalizer 1 2014
+https://filmarsivi.yusufdkci1.workers.dev/?ID=adalet-1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xNcm0kmMOmE5lxRiDaA6bmx4unH.jpg" group-title="Filmler",The Equalizer 2 2018
+https://vidmody.com/vs/tt3766354
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g0S29nH9G40rGognyqDawc3W1Ql.jpg" group-title="Filmler",Son Samuray Last Samurai 2003
+https://vidmody.com/vs/tt0325710
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/epp8lnSQEWe9cYQACEhBDZTY18L.jpg" group-title="Filmler",Zindan Adası 2010
+https://vidmody.com/vs/tt1130884
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fWvUNtKwj8t9X71oXNiQGMVXZSM.jpg" group-title="Filmler",Müfreze 1986
+https://vidmody.com/vs/tt0091763
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6gn9OrxZ94LuoxY9u3xZaFVzzC8.jpg" group-title="Filmler",Zafer Glory 1989 
+https://vidmody.com/vs/tt0097441
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h98Ml18umVRDuS9nLoJoLK7qIm8.jpg" group-title="Filmler",Cesur Yürek Braveheart 1995
+https://vidmody.com/vs/tt0112573
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zD8AV1aA5aCKxvHMeSn7w3Ch0UP.jpg" group-title="Filmler",Vatansever 2000 
+https://vidmody.com/vs/tt0187393
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gyIGxZu7l8cZ6JXpyzNQ74nX34h.jpg" group-title="Filmler",İşaretler 2002 
+https://vidmody.com/vs/tt0286106
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b9QqS5Hz1CqT16ZxwxJqwzCfIgr.jpg" group-title="Filmler",Er Ryanı Kurtarmak 1998
+https://vidmody.com/vs/tt0120815
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg" group-title="Filmler",İnce Kırmızı Hat 1998
+https://vidmody.com/vs/tt0120863
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c9HfIyBGUxhItJcsBp8HYdXGOLD.jpg" group-title="Filmler",Rüzgarla Konuşanlar 2002
+https://vidmody.com/vs/tt0245562 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rpAMFrHHqpRCPbrBvYV9HHaVNB8.jpg" group-title="Filmler",Bir Zamanlar Askerdik 2002
+https://vidmody.com/vs/tt0277434
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg" group-title="Filmler",Fury 2014
+https://vidmody.com/vs/tt2713180
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lrL2ZptoYDpSSqI4fWs7OSRYKcy.jpg" group-title="Filmler",Midway 2019
+https://vidmody.com/vs/tt6924650
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/udySr2TNzk5W7Q7pvWSwCNLSv2u.jpg" group-title="Filmler",Korkusuzlar: Midway Savaşı (2019) 
+https://vidmody.com/vs/tt8685520
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jjzjM9tkfBnq8hu3IxaMXjTojaR.jpg" group-title="Filmler",Yakın Tehlike Danger Close 2019
+https://vidmody.com/vs/tt0441881 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8yzQPRWlZndo7npFaicsZ3GCazc.jpg" group-title="Filmler",Yakın Tehdit trespass 2011
+https://vidmody.com/vs/tt1674784 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6XKK3auj2D3y1SqeHq5wld9PUe6.jpg" group-title="Filmler",Zor Saatler 2016
+https://vidmody.com/vs/tt2025690 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/peYpB3eRyrmVVvBCGOPr5Wdxx03.jpg" group-title="Filmler",Shazam 1 2019
+https://vidmody.com/vs/tt0448115
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sPJ561hs7GcV2Ebi3vgE9dtiMSQ.jpg" group-title="Filmler",Shazam 2 2023
+https://vidmody.com/vs/tt10151854
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nuBHGAMC61h9tb2pg6UGjn11svM.jpg" group-title="Filmler",Rampage: Büyük Yıkım (2018) 
+https://vidmody.com/vs/tt2231461
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg" group-title="Filmler",King Kong 2005
+https://vidmody.com/vs/tt0360717
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fnyjn9kGiaxgmHtGvTvXnCMxd6p.jpg" group-title="Filmler",King Kong: Kafatası Adası (2017) 
+https://vidmody.com/vs/tt3731562
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vYLyIZMj2mklDGDgutIm5dvML0X.jpg" group-title="Filmler",Koca Bebek Joe 1998
+https://vidmody.com/vs/tt0120751
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bn9e6EfQfNEUl15rPY6otvrvHnr.jpg" group-title="Filmler",Kovboylar ve Uzaylılar (2011)
+https://vidmody.com/vs/tt0409847
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjsvHSLW/MG-7007.jpg" group-title="Filmler",Yol Arkadaşım 1 2016
 https://ia601707.us.archive.org/24/items/yol-arkadasim/Yol%20Arkada%C5%9F%C4%B1m.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mAaT4gqrvwGpvZ29dvpgkb8esTf.jpg" group-title="Filmler",Yol Arkadaşım 2 2018
@@ -785,14 +844,6 @@ https://vidmody.com/vs/tt2369135
 https://vidmody.com/vs/tt6806448
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/16Fj974zSVcKXxJq9fWsH7R8khe.jpg" group-title="Filmler",Hobbs ve Shaw 2019
 https://pixeldrain.com/api/file/vBcXCfbR?=.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c9QLSX3qEW8FO7UgT2pyfC1LDzb.jpg" group-title="Filmler",Yukarı Bak 2009
-https://vidmody.com/vs/tt1049413
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1EPfG2nVMhF5CDcAK0IeSsnBsVw.jpg" group-title="Filmler",Inside Out 2015
-https://vidmody.com/vs/tt2096673
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxd7GCP/MG-7223.jpg" group-title="Filmler",Ters Yüz 1 2015
-https://s25.imglink.info/mk/ITIlpl5MqKbhFJ5mnJEyYx91qP4lZQR1YwRjBQOjYxE1LJjd0zxnJ1aoTyhnl5cozMis0xi25vr1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xYqeUheNCep7ll9AotOcclGhP0X.jpg" group-title="Filmler",Ters Yüz 2 2024
-https://vidrame.pro/vr/get/968e8cf1/1080.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5v3xYyHyJJKIyraRyR64szqCTkO.jpg" group-title="Filmler",AROG 2008
 https://pixeldrain.com/api/file/njiPhX85?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5v3xYyHyJJKIyraRyR64szqCTkO.jpg" group-title="Filmler",AROG 2008 ydk
@@ -849,18 +900,20 @@ https://pixeldrain.com/api/file/cq8SnRbV?=.mp4
 https://vidrame.pro/vr/get/a92c1548/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iq29YyxcoZQEBZz3chpHmEmgSC3.jpg" group-title="Filmler",Hayalet Sürücü 2: İntikam Ateşi 2011 (test)
 https://pixeldrain.com/api/file/fw32X4Ec?=.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b1aEHyDJLmByN1MBYmqRJfqUemn.jpg" group-title="Filmler",Cadılar Zamanı 2011
+https://vidmody.com/vs/tt0479997
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1PF1Zuqv0qKkp5fIjJ4JOZlUdR4.jpg" group-title="Filmler",Lanetli Ada The Wicker Man 2006
 https://vidmody.com/vs/tt0450345
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Oku9EaRwH89jyn8cxFd2QoEkgR.jpg" group-title="Filmler",Outcast Sürgün 2014
 https://vidmody.com/vs/tt1552224
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1DrVQuAGTnrWeyZOjYw9BW3BJ8J.jpg" group-title="Filmler",Next 2007
+https://vidmody.com/vs/tt0435705
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8rTcpPiet2Lt2uZXBFIH5U7ylBY.jpg" group-title="Filmler",Suç Ortağı Stolen 2012
 https://vidmody.com/vs/tt1656186
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kzg290c0G1MwRL5n3MWGizwNcSg.jpg" group-title="Filmler",Sihirbazın Çırağı 2010 
 https://vidmody.com/vs/tt0963966
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ckSZ4abvBGfg386Z6jSdIrOK23I.jpg" group-title="Filmler",Sihirli Dağ 2009 
 https://vidmody.com/vs/tt1075417
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg" group-title="Filmler",İnce Kırmızı Hat 1998
-https://vidmody.com/vs/tt0120863
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ulaH62H0BYPuF3Llo2yrP8HcJIO.jpg" group-title="Filmler",Pers Prensi zamanın kumları 2010
 https://vidmody.com/vs/tt0473075
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cQnW68MIq6ZU1Yz03FhCOVHm9YL.jpg" group-title="Filmler",John Carter İki Dünya Arasında 2012 (vidrame)
@@ -979,28 +1032,10 @@ https://ia802801.us.archive.org/2/items/yenilmez3undisputed3turkcedublajyabancia
 https://vidmody.com/vs/tt3344680
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yM2bXInHW0CQdRDgM5GiJjAV1QQ.jpg" group-title="Filmler",El Gringo Yabancı 2012
 https://vidmody.com/vs/tt1990216
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b1aEHyDJLmByN1MBYmqRJfqUemn.jpg" group-title="Filmler",Cadılar Zamanı 2011
-https://vidmody.com/vs/tt0479997
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg" group-title="Filmler",Av Mevsimi 2013
-https://vidmody.com/vs/tt1480295
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/orVp8956YsSBqFSxwxLtK0UbLly.jpg" group-title="Filmler",Büyük Oyun 2014
-https://vidmody.com/vs/tt2088003
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xSJ841Kctj93gO1y25jBhQHayHg.jpg" group-title="Filmler",M.Ö. 10.000 (2008)
 https://vidmody.com/vs/tt0443649
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3PzmeohZ7EmXWx4SVDJFBxhJG7t.jpg" group-title="Filmler",Son Savaşçı Centurion 2010
-https://vidmody.com/vs/tt1020558
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lrL2ZptoYDpSSqI4fWs7OSRYKcy.jpg" group-title="Filmler",Midway 2019
-https://vidmody.com/vs/tt6924650
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/udySr2TNzk5W7Q7pvWSwCNLSv2u.jpg" group-title="Filmler",Korkusuzlar: Midway Savaşı (2019) 
-https://vidmody.com/vs/tt8685520
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6QDeHwBXDHbCbuzStgUpuUAqnap.jpg" group-title="Filmler",Hanna 2011
 https://vidmody.com/vs/tt0993842
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hgcAwLWEHIoTyKbi9NkouPBijZc.jpg" group-title="Filmler",Kartal 2011
-https://vidmody.com/vs/tt1034389
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7uxLx4Ec8RqVBoyBMFcm6PYpsWw.jpg" group-title="Filmler",Herkül: Efsane Başlıyor (2014) 
-https://vidmody.com/vs/tt1043726
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mIgUDBkAewVJXYjQLa15BJbBEJk.jpg" group-title="Filmler",Herkül: Özgürlük Savaşçısı (2014) 
-https://vidmody.com/vs/tt1267297
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ncuGG0hIlA03dQBJmdoT2LWgodG.jpg" group-title="Filmler",Mükemmel Bir Kaçış A Perfect Getway 2009 
 https://vidmody.com/vs/tt0971209
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oIUpS670wQptYtEV907CHrtkNXB.jpg" group-title="Filmler",Yeraltı Canavarı tremors 3 2001
@@ -1013,10 +1048,6 @@ https://vidrame.pro/vr/get/a28ee9e3/1080.txt?=.mp4
 https://vidmody.com/vs/tt0100814
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sFZTLiwFiaVwGW4weBbw7b1h058.jpg" group-title="Filmler",Yeraltı Canavarı 1 ydk 1990
 https://filmarsivi.yusufdkci1.workers.dev/?ID=yeralti-canavari-1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6ZNnKbdDRQm0ftkq3OKiDrwZkIN.jpg" group-title="Filmler",Yeşil Yol 1999
-https://pixeldrain.com/api/file/LbzUFJYF?=.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6ZNnKbdDRQm0ftkq3OKiDrwZkIN.jpg" group-title="Filmler",Yeşil Yol 1999 - The Green Mile
-https://vidmody.com/vs/tt0120689
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xbiycuc84TrieEWwkkuH2hoEa9S.jpg" group-title="Filmler",Yıldızlararası 2014
 https://pixeldrain.com/api/file/qzxq3YYn?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vCFoSJPF6fEFHKTfyWYAX05OIwK.jpg" group-title="Filmler",Zorro 1998
@@ -1031,6 +1062,8 @@ https://pixeldrain.com/api/file/wdnoXJcW?=.mp4
 https://vidrame.pro/vr/get/af81093f/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg" group-title="Filmler",Desperado 1995
 https://vidmody.com/vs/tt0112851
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9FN5n8wGYrfSJaKGF9uObdKimIh.jpg" group-title="Filmler",Güvenlik 2017
+https://vidmody.com/vs/tt3501112
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y7T9CoH0XYlfuxN23yNXNkbCaDk.jpg" group-title="Filmler",Noelle 2019 
 https://vidmody.com/vs/tt5097410
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qSM9Kx66ryoveFIGt2sw5nNlbf9.jpg" group-title="Filmler",Derin Kargaşa Havoc 2025 
@@ -1041,16 +1074,8 @@ https://vidmody.com/vs/tt35683795
 https://vidrame.pro/vr/get/ff237c85/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hO7gnOL4MoqJYyrJtE8tfcb5aZV.jpg" group-title="Filmler",test Araba Hırsızları (test)
 https://pixeldrain.com/api/file/r5NveXJ5?=.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3PFAwjZEys8QYbENNMWjCIhWsF9.jpg" group-title="Filmler",The Equalizer 1 2014
-https://filmarsivi.yusufdkci1.workers.dev/?ID=adalet-1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xNcm0kmMOmE5lxRiDaA6bmx4unH.jpg" group-title="Filmler",The Equalizer 2 2018
-https://vidmody.com/vs/tt3766354
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/epp8lnSQEWe9cYQACEhBDZTY18L.jpg" group-title="Filmler",Zindan Adası 2010
-https://vidmody.com/vs/tt1130884
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zicjRCEM7xqFgPLqO0fU7IgaAp.jpg" group-title="Filmler",Çelik Yumruklar 2011
 https://vidmody.com/vs/tt0433035
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a7hjVvftDqdgqZidGyoDkpXWjtK.jpg" group-title="Filmler",Ratatuy 2007 - Ratatouille
-https://vidmody.com/vs/tt0382932
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7uyP5XIKFoESDx13736ioQ8ROWe.jpg" group-title="Filmler",Malefiz 1 2014
 https://vidmody.com/vs/tt1587310
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2R4uitaA3uq98uIHJqzsPPWyeLC.jpg" group-title="Filmler",Malefiz 2 2019
@@ -1061,6 +1086,8 @@ https://vidmody.com/vs/tt0480249
 https://vidmody.com/vs/tt0343818
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3ycOzpclrnYkFgKutcNsuFZYm4I.jpg" group-title="Filmler",Deha 2017
 https://vidmody.com/vs/tt4481414
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg" group-title="Filmler",Şafak Harekatı 2006
+https://vidmody.com/vs/tt0462504
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tFV8sdzithtgqjabGiPPAGz1fNi.jpg" group-title="Filmler",Cast Away Yeni Hayat 2000
 https://vidmody.com/vs/tt0162222
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nifqM5VkblSttwwqGXoDXmXwrHA.jpg" group-title="Filmler",Doktor Str 2016
@@ -1073,30 +1100,6 @@ https://s26.pixtures.art/m5/ET9wqT9lYyA0pzShM2HhnJ4hqTuyYx11oUEcqzIlp2Hho2LhGJSx
 https://vidrame.pro/vr/get/5a36d5ba/1080.txt?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFxPaejnEprW5H8QdU8Aj0plA1F.jpg" group-title="Filmler",Metrodan Kaçış 2009
 https://vidmody.com/vs/tt1111422
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Rafadan Tayfa Kapadokya
-https://vidmody.com/mm/tt35156304/main_1080/index-v1-a1.gif
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vurfC4fEqOw2lp6AESkbkIRcz9m.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 1 2010
-https://archive.org/download/filmarsivi/film1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vurfC4fEqOw2lp6AESkbkIRcz9m.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 1 2010 yedek
-https://ia601709.us.archive.org/2/items/filmarsivi/film1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xU92bgrpkTPuQ9A4C4vYSLVnOzj.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 2 2014
-https://vidrame.pro/vr/get/4713d96a/1080.txt
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9NCUFk0EucrVY7alet8rjjCEkN5.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 3 2019
-https://s3.imagebin.pics/mm/FT93YaEiYyElLJyhYyyiqKVhEUWuM29hYwZhZwNkBF4kZQtjYzE1LJjd0zxnJ1uM2IvnJ4hpTywpjs0xi3vr1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7boG6uqhMHNuAyYIiLCUgxFzZGJ.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 2025
-https://vidmody.com/vs/tt26743210
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tieHyFlHwnU4gdKY9vBNCW7U5iw.jpg" group-title="Filmler",Dragons: Gift of the Night Fury (2011) 
-https://vidmody.com/vs/tt2065968
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cVeJ2kQ9qZmpud57iSKsANyAsNp.jpg" group-title="Filmler",Shrek 1 2001
-https://vidrame.pro/vr/get/45ba91a9/1080.txt
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/s1ET30p6cf02yNvFcEYHqxKVwoA.jpg" group-title="Filmler",Shrek 2 2004
-https://vidmody.com/vs/tt0298148
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/757zlPtYNARFlEkQ7xGhP8CYzmN.jpg" group-title="Filmler",Shrek 3 2007
-https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r51o1rUyPvR2bQFy09uItJrlNmd.jpg" group-title="Filmler",Shrek 4 2010
-https://vidrame.pro/vr/get/cc6feded/1080.txt
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/WALL-E_poster.jpg" group-title="Filmler",WALL·E
-https://vidrame.pro/vr/get/58390cad/1080.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z46R8oShx61gXMrAmd7ptpVqNI0.jpg" group-title="Filmler",Jumanji 1
 https://vidmody.com/vs/tt0113497
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hDmrv2Ac65QNHxFu8ZcePwlDgc0.jpg" group-title="Filmler",Jumanji 2
@@ -1105,20 +1108,6 @@ https://vidmody.com/vs/tt2283362
 https://vidmody.com/vs/tt7975244
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gLuYVgSbYpM92u7CRvn6a1MzQSI.jpg" group-title="Filmler",Zathura Bir Uzay Macerası 2005
 https://vidmody.com/vs/tt0406375
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g0S29nH9G40rGognyqDawc3W1Ql.jpg" group-title="Filmler",Son Samuray Last Samurai 
-https://vidmody.com/vs/tt0325710
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lZWkv9hYJaxpo6OIAGb3SKY6L9w.jpg" group-title="Filmler",Deniz Canavarı 2022 
-https://vidmody.com/vs/tt9288046
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jfIzTv8mw5unW2znKbsHhMkueVu.jpg" group-title="Filmler",şirinler 1 2011
-https://filmarsivi.yusufdkci1.workers.dev/?ID=sirinler-1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sKqcPLFE9laozZvmsKMsUlNbMn5.jpg" group-title="Filmler",Şirinler 2 2013
-https://vidmody.com/vs/tt2017020
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o4cRCahieCvFFy5ROulqnPgGK3K.jpg" group-title="Filmler",Şirinler 3 Kayıp Köy 2017 
-https://vidmody.com/vs/tt2398241
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xKD6XFc83xLMRVUMPOyd4DEhABU.jpg" group-title="Filmler",Şirinler: Yeni Yıl Şarkısı (2011)
-https://vidmody.com/vs/tt2062677
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AgFkdZawIUFY20rLRX9ejQtn0q2.jpg" group-title="Filmler",Şirinler: Hayalet Şirin Efsanesi (2013)
-https://vidmody.com/vs/tt2958484
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2iPkmn32arkXXQhNh32N0Y9tUMk.jpg" group-title="Filmler",Kutup - Arctic 
 https://vidmody.com/vs/tt6820256
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Filmler",Müzede Bir Gece 1 2006
@@ -1129,6 +1118,8 @@ https://vidmody.com/vs/tt1078912
 https://vidmody.com/vs/tt2692250
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qm1BZxpc35Xope13bdzaLegKHYN.jpg" group-title="Filmler",Müzede Bir Gece 2022
 https://vidmody.com/vs/tt13623880
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hkmz9rxgcweizXNElozGeKwmAJE.jpg" group-title="Filmler",Vahşiler Firarda 2016
+https://vidmody.com/vs/tt4698684
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pv8Whxtaw53cVhlfXA22HLKky67.jpg" group-title="Filmler",Vahşi Vahşi Batı
 https://vidmody.com/vs/tt0120891
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lvWCJvI8xVM7hbpaXtXXG4clKFm.jpg" group-title="Filmler",Vahşetin Çağrısı 2020
@@ -1247,12 +1238,6 @@ https://vidmody.com/vs/tt0120363
 https://vidmody.com/vs/tt0435761
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zNjnFuKoltaqo1FYxkcVvEFHbME.jpg" group-title="Filmler",Oyuncak Hikayesi 4 
 https://vidmody.com/vs/tt1979376
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8HrGy5aPcOwqpykEFyDGegT4gsR.jpg" group-title="Filmler",Çizmeli Kedi: Son Dilek 2022
-https://vidmody.com/vs/tt3915174
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wIPEakWqEBfpqtw7dXaVUQ5Qz8E.jpg" group-title="Filmler",Vahşi Robot The Wild Robot 2024
-https://vidmody.com/vs/tt29623480
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b9QqS5Hz1CqT16ZxwxJqwzCfIgr.jpg" group-title="Filmler",Er Ryanı Kurtarmak 
-https://vidmody.com/vs/tt0120815
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5JprqmdmcQlbgmNLH4bTXyywj5P.jpg" group-title="Filmler",Bebek Firarda 1994
 https://vidmody.com/vs/tt0109190
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eW5LQO6pyd3WyFUvyeL5WAffZmL.jpg" group-title="Filmler",Evde Tek Başına 1 1990
@@ -1297,34 +1282,12 @@ https://vidmody.com/vs/tt2109248
 https://vidmody.com/vs/tt3371366
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zmgeNe6SliWbJZwWbLoTOgo1top.jpg" group-title="Filmler",Bumblebee 2018 
 https://vidmody.com/vs/tt4701182
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ni4z0DOBm6padSbnqbps4hVYehK.jpg" group-title="Filmler",Kung Fu Panda 1 2008
-https://vidmody.com/vs/tt0441773
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg" group-title="Filmler",Kung Fu Panda 2 2011
-https://vidmody.com/vs/tt1302011
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg" group-title="Filmler",Kung Fu Panda 3 2016
-https://vidmody.com/vs/tt2267968
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ewHfahsUgKtvYJwmwVuNsKwkc39.jpg" group-title="Filmler",Kung Fu Panda 4 2024
-https://vidmody.com/vs/tt21692408
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gAXJJggTZB322NwtwArdEC87zkj.jpg" group-title="Filmler",Kung Fu Panda: Öfkeli Beşli'nin Sırları 
-https://vidmody.com/vs/tt1287845
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xON7QZ6yHYt1S1Aji0wfGQ1a7ml.jpg" group-title="Filmler",Kung Fu Panda: Ustanın Sırları 
-https://vidmody.com/vs/tt1980162
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vJv3pI8pyS13rLjy0ok7a3BiE0a.jpg" group-title="Filmler",Kung Fu Panda Tatil
-https://vidmody.com/vs/tt1702433
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aa1EbBjzHHfUry3ymThTuP9BpQp.jpg" group-title="Filmler",Buz Devri 1 2002
-https://vidmody.com/vs/tt0268380
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qMA976CKnxCQRHy19MnZawjgfbB.jpg" group-title="Filmler",Buz Devri 2 2006
-https://vidmody.com/vs/tt0438097
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4yuACTdTILadeZloQJMAAO1O29s.jpg" group-title="Filmler",Buz Devri 3 2009
-https://vidmody.com/vs/tt1080016
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l2O2H18Ku2InlquBRQhOnUU0Nax.jpg" group-title="Filmler",Buz Devri 4 2012
-https://filmarsivi.yusufdkci1.workers.dev/?ID=buz-devri-4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WMxdb1nlATdmp1X1MhBh3MatLl.jpg" group-title="Filmler",Buz Devri 5 2016
-https://vidmody.com/vs/tt3416828
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ue5417HaDcvgMDusryenwwwZARq.jpg" group-title="Filmler",Buz Devri Bir Yılbaşı Macerası
-https://vidmody.com/vs/tt2100546
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lXoQcnuQeQdZ6H0Fex0Ru0fVXPJ.jpg" group-title="Filmler",Buz Devri: Buck Wild'ın Maceraları (2022)
-https://vidmody.com/vs/tt13634480
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/clOLrIzg5gvGJAeMXYCRIKJI4FZ.jpg" group-title="Filmler",Kartal Göz 2008 
+https://vidmody.com/vs/tt1059786
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hgcAwLWEHIoTyKbi9NkouPBijZc.jpg" group-title="Filmler",Kartal 2011
+https://vidmody.com/vs/tt1034389
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3PzmeohZ7EmXWx4SVDJFBxhJG7t.jpg" group-title="Filmler",Son Savaşçı Centurion 2010
+https://vidmody.com/vs/tt1020558
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mABw83OldY1LcwP3CH4KsTFlph8.jpg" group-title="Filmler",Star Wars: Klon Savaşları 
 https://vidmody.com/vs/tt1185834
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/s2V5cc7S1bun7pHXw48nWt4BAh1.jpg" group-title="Filmler",Yıldız Savaşları: Yeni Umut (1977) 
@@ -1443,10 +1406,6 @@ https://filmarsivi.yusufdkci1.workers.dev/?ID=mumya-2
 https://vidmody.com/vs/tt0120616
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3aSa1uIPYNrLnhFu4Ix1VCpNeI0.jpg" group-title="Filmler",Mumya Evi 2005
 https://vidmody.com/vs/tt0397065
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lYO0iRJIqRcqO7lWS5jYDc8mvLo.jpg" group-title="Filmler",inanılmaz aile 1 2004
-https://filmarsivi.yusufdkci1.workers.dev/?ID=inanilmaz-aile-1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Hxx811Z56FtBX2HW7FTQZzFxl2.jpg" group-title="Filmler",İnanılmaz Aile 2 2018 
-https://vidmody.com/vs/tt3606756
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ocTaizFzASVPClHsx6VRBi5yP9Z.jpg" group-title="Filmler",Parker 2013
 https://vidmody.com/vs/tt1904996
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wvSlt26YRNKsxenGGORwPT0rxzO.jpg" group-title="Filmler",Soğuk Ölüm Whiteout 2009
@@ -1463,10 +1422,14 @@ https://vidmody.com/vs/tt2245084
 https://vidmody.com/vs/tt1291150
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7mpjx5VZ2lOlxvPAoxn6YW5xUv2.jpg" group-title="Filmler",Ninja Kaplumbağalar 2016
 https://vidmody.com/vs/tt3949660
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gyIGxZu7l8cZ6JXpyzNQ74nX34h.jpg" group-title="Filmler",İşaretler 2002 
-https://vidmody.com/vs/tt0286106
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zD8AV1aA5aCKxvHMeSn7w3Ch0UP.jpg" group-title="Filmler",Vatansever 2000 
-https://vidmody.com/vs/tt0187393
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/shfAU6xIIEAEtsloIT3n9Fscz2E.jpg" group-title="Filmler",Ninja Kaplumbağalar (1990)
+https://vidmody.com/vs/tt0100758
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg" group-title="Filmler",Ninja Kaplumbağalar 2: Sızıntının Esrarı (1991)
+https://vidmody.com/vs/tt0103060
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fwX5RdPDBFsbEAXc46DrvRz5Bca.jpg" group-title="Filmler",Ninja Kaplumbağalar 3: Zamanda Yolculuk (1993)
+https://vidmody.com/vs/tt0108308
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6ZCWn7BGpDLBDigtdiuGyBdEqab.jpg" group-title="Filmler",Ninja Kaplumbağalar 4 (2007)
+https://vidmody.com/vs/tt0453556
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AwBJTSrB3JrX7sPI3AxIduwgbjx.jpg" group-title="Filmler",Alvin ve Sincaplar 1 2007 
 https://vidmody.com/vs/tt0952640
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/narwDmgEU0Uk6pbwR1Vz5KKhZEG.jpg" group-title="Filmler",Alvin ve Sincaplar 2 2009 
@@ -1475,30 +1438,12 @@ https://vidmody.com/vs/tt1231580
 https://vidmody.com/vs/tt1615918
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41Lmox8xgjrq4qQmkHqTib53Unr.jpg" group-title="Filmler",Alvin ve Sincaplar 4 2015 
 https://vidmody.com/vs/tt2974918
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5FGW46MSMZJ50cIfErFRWKaCMJD.jpg" group-title="Filmler",Şüphe 2007 
-https://vidmody.com/vs/tt0486822
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6gn9OrxZ94LuoxY9u3xZaFVzzC8.jpg" group-title="Filmler",Zafer Glory 1989 
-https://vidmody.com/vs/tt0097441
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cdQJNWgLmlYOC8vQEjVBpJBL6l7.jpg" group-title="Filmler",Hayatım Yalan 2011 
 https://vidmody.com/vs/tt1564367
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6qf5rkbrzkE13peHxB6ENH9nGMO.jpg" group-title="Filmler",Hayatım Yalan 2018 
 https://vidmody.com/vs/tt2126357
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8Co3DVfBQgVtm7nRalT1UNDU0uM.jpg" group-title="Filmler",Babamın Penguenleri 2011 
 https://vidmody.com/vs/tt1396218
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/clOLrIzg5gvGJAeMXYCRIKJI4FZ.jpg" group-title="Filmler",Kartal Göz 2008 
-https://vidmody.com/vs/tt1059786
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c5aEuJfVMoTzqdyz1gykBxEMlqt.jpg" group-title="Filmler",Kimlik - Idenity 2003 
-https://vidmody.com/vs/tt0309698
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2yHiW0RRwoMXkuI2bYIIoxNH93P.jpg" group-title="Filmler",madagaskar 1 2005
-https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jksxBK7oypUaMjq7QTQr2OtMplH.jpg" group-title="Filmler",Madagaskar 2 2008 
-https://vidmody.com/vs/tt0479952 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9dIGt1HZAd7P0UspptdoZVJ64AD.jpg" group-title="Filmler",Madagaskar 3 2012 
-https://vidmody.com/vs/tt1277953
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg" group-title="Filmler",Rio 1 2011 
-https://vidmody.com/vs/tt1436562
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/S27qVtJyUzPeMOVTE8rjTaIx4c.jpg" group-title="Filmler",Rio 2 2014 
-https://vidmody.com/vs/tt2357291
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qcbFf3Dts40S15sI2dXdaWFmjHh.jpg" group-title="Filmler",Tarzan Efsanesi 2016
 https://vidmody.com/vs/tt0918940
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wIg7TclH6PUcvTWFh0QdtU5Wcvt.jpg" group-title="Filmler",Tarzan 2013
@@ -1507,14 +1452,6 @@ https://vidmody.com/vs/tt1705952
 https://vidmody.com/vs/tt0313680
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg" group-title="Filmler",Tarzan 1999
 https://vidmody.com/vs/tt0120855
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2N8Atq2HqyaXzkyFBO0GPn2rMp.jpg" group-title="Filmler",Bitirim Karınca 2006 
-https://vidmody.com/vs/tt0429589 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qoRVVvE8EUq4HjxmCFkIshLvFf9.jpg" group-title="Filmler",Karınca Z 1998 
-https://vidmody.com/vs/tt0120587
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cL6gPwwhcYIGdrpj6vzIaKlb5zQ.jpg" group-title="Filmler",Zootropolis 1 2016
-https://vidmody.com/vs/tt2948356
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xdvMX5L7bdonl2geaXL3laTCSr2.jpg" group-title="Filmler",Zootropolis 2 2025
-https://vidmody.com/vs/tt26443597
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AhD3qVfVmxz5CXDxctXwK5nmrOp.jpg" group-title="Filmler",Ölüm Hattı 2004 
 https://vidmody.com/vs/tt0337921 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41rqc5t1Ye3k9iNey1pxYJQuooF.jpg" group-title="Filmler",Tetikçi Freelance 2023
@@ -1556,15 +1493,7 @@ https://vidmody.com/vs/tt1365519
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qbad0OQEG4QJcUmog3ON5ABrYps.jpg" group-title="Filmler",Lara Croft: Tomb Raider (2001) 
 https://vidmody.com/vs/tt0146316
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ylIEGeAr2ygSClK4FDj9mi2Ah22.jpg" group-title="Filmler",Lara Croft: Tomb Raider - Yaşamın Kaynağı (2003) 
-https://vidmody.com/vs/tt0325703
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4wPGVI6DpTju8vodJlnvS4oZAXm.jpg" group-title="Filmler",Çılgın dostlar open season 2006
-https://vidmody.com/vs/tt0400717 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pVygaB139fas4VOPPRb9aC7GiNT.jpg" group-title="Filmler",Çılgın dostlar 2 2008
-https://vidmody.com/vs/tt1107365 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xTR4TewCb2wwHOIZrwNMuXwRSoF.jpg" group-title="Filmler",Çılgın dostlar 3 2010
-https://vidmody.com/vs/tt1646926 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9VFauPfgRHi2zutzoFP3Uz7rVnW.jpg" group-title="Filmler",Ferdinand 2017
-https://vidmody.com/vs/tt3411444 
+https://vidmody.com/vs/tt0325703 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uw7C72BIViBMUzzXeSYkxhaOQUS.jpg" group-title="Filmler",Ip Man 1 2008
 https://vidmody.com/vs/tt1220719
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ipXpgtgbdxwVg5vMrlkUmC0uPh1.jpg" group-title="Filmler",Ip Man 2 2010
@@ -1651,8 +1580,6 @@ https://vidmody.com/vs/tt7338690
 https://vidmody.com/vs/tt0385752
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/43JwkwdYpH9ipKr05Cm8VijCTEN.jpg" group-title="Filmler",Altın şans 2008
 https://vidmody.com/vs/tt0770752
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h98Ml18umVRDuS9nLoJoLK7qIm8.jpg" group-title="Filmler",Cesur Yürek Braveheart 1995
-https://vidmody.com/vs/tt0112573
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2ymYXYQYpr6GnrwxRs4UjGHob0X.jpg" group-title="Filmler",Beyaz Diş 1991
 https://vidmody.com/vs/tt0103247
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",⚠️[X] Beyaz Diş_2 Kurt Efsanesi 1994
@@ -1685,6 +1612,10 @@ https://s5.imagebin.pics/mw/E3IupzEcLJ5mYz9zYaEbMF5ULJkurUxhZwNkAP5PoUIlLKxhZGN4
 https://vidmody.com/vs/tt3896198 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbK6py6t9ikhWbsz3tIeXgiBCCn.jpg" group-title="Filmler",Galaksinin Koruyucuları 3 (2023) 
 https://vidmody.com/vs/tt6791350
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7uxLx4Ec8RqVBoyBMFcm6PYpsWw.jpg" group-title="Filmler",Herkül: Efsane Başlıyor (2014) 
+https://vidmody.com/vs/tt1043726
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mIgUDBkAewVJXYjQLa15BJbBEJk.jpg" group-title="Filmler",Herkül: Özgürlük Savaşçısı (2014) 
+https://vidmody.com/vs/tt1267297
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1cnt5KeFv4KMYRb4aydhO9c8a4t.jpg" group-title="Filmler",Diş Perisi 
 https://vidmody.com/vs/tt0808510
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1DeCDSzwGDm0zSZSbgpztZLe7jv.jpg" group-title="Filmler",Yolun Sonu Walking Tall (2004)
@@ -1717,46 +1648,78 @@ https://vidmody.com/vs/tt4881806
 https://vidmody.com/vs/tt8041270 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4P5TT9IXEfhBqzcgmDonrvMgbMv.jpg" group-title="Filmler",Jurassic World 4 2025
 https://vidmody.com/vs/tt31036941
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg" group-title="Filmler",Fury 2014
-https://vidmody.com/vs/tt2713180
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c9HfIyBGUxhItJcsBp8HYdXGOLD.jpg" group-title="Filmler",Rüzgarla Konuşanlar 2002
-https://vidmody.com/vs/tt0245562 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rpAMFrHHqpRCPbrBvYV9HHaVNB8.jpg" group-title="Filmler",Bir Zamanlar Askerdik 2002
-https://vidmody.com/vs/tt0277434
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fWvUNtKwj8t9X71oXNiQGMVXZSM.jpg" group-title="Filmler",Müfreze 1986
-https://vidmody.com/vs/tt0091763
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jjzjM9tkfBnq8hu3IxaMXjTojaR.jpg" group-title="Filmler",Yakın Tehlike Danger Close 2019
-https://vidmody.com/vs/tt0441881 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8yzQPRWlZndo7npFaicsZ3GCazc.jpg" group-title="Filmler",Yakın Tehdit trespass 2011
-https://vidmody.com/vs/tt1674784 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/47wgelJLKEtGMvi0W8GPTW6R7Lh.jpg" group-title="Filmler",Son Kale 2001 
-https://vidmody.com/vs/tt0272020 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6XKK3auj2D3y1SqeHq5wld9PUe6.jpg" group-title="Filmler",Zor Saatler 2016
-https://vidmody.com/vs/tt2025690 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/peYpB3eRyrmVVvBCGOPr5Wdxx03.jpg" group-title="Filmler",Shazam 1 2019
-https://vidmody.com/vs/tt0448115
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sPJ561hs7GcV2Ebi3vgE9dtiMSQ.jpg" group-title="Filmler",Shazam 2 2023
-https://vidmody.com/vs/tt10151854
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nuBHGAMC61h9tb2pg6UGjn11svM.jpg" group-title="Filmler",Rampage: Büyük Yıkım (2018) 
-https://vidmody.com/vs/tt2231461
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg" group-title="Filmler",King Kong 2005
-https://vidmody.com/vs/tt0360717
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fnyjn9kGiaxgmHtGvTvXnCMxd6p.jpg" group-title="Filmler",King Kong: Kafatası Adası (2017) 
-https://vidmody.com/vs/tt3731562
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vYLyIZMj2mklDGDgutIm5dvML0X.jpg" group-title="Filmler",Koca Bebek Joe 1998
-https://vidmody.com/vs/tt0120751
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4fvCOntbgzZ9crbduTHRhgN8bgq.jpg" group-title="Filmler",Scooby Doo: Göl Canavarının Laneti (2010) 
-https://vidmody.com/vs/tt1618435
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Rafadan Tayfa Kapadokya
+https://vidmody.com/mm/tt35156304/main_1080/index-v1-a1.gif
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vurfC4fEqOw2lp6AESkbkIRcz9m.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 1 2010
+https://archive.org/download/filmarsivi/film1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vurfC4fEqOw2lp6AESkbkIRcz9m.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 1 2010 yedek
+https://ia601709.us.archive.org/2/items/filmarsivi/film1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xU92bgrpkTPuQ9A4C4vYSLVnOzj.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 2 2014
+https://vidrame.pro/vr/get/4713d96a/1080.txt
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9NCUFk0EucrVY7alet8rjjCEkN5.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 3 2019
+https://s3.imagebin.pics/mm/FT93YaEiYyElLJyhYyyiqKVhEUWuM29hYwZhZwNkBF4kZQtjYzE1LJjd0zxnJ1uM2IvnJ4hpTywpjs0xi3vr1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7boG6uqhMHNuAyYIiLCUgxFzZGJ.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 2025
+https://vidmody.com/vs/tt26743210
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tieHyFlHwnU4gdKY9vBNCW7U5iw.jpg" group-title="Filmler",Dragons: Gift of the Night Fury (2011) 
+https://vidmody.com/vs/tt2065968
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cVeJ2kQ9qZmpud57iSKsANyAsNp.jpg" group-title="Filmler",Shrek 1 2001
+https://vidrame.pro/vr/get/45ba91a9/1080.txt
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/s1ET30p6cf02yNvFcEYHqxKVwoA.jpg" group-title="Filmler",Shrek 2 2004
+https://vidmody.com/vs/tt0298148
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/757zlPtYNARFlEkQ7xGhP8CYzmN.jpg" group-title="Filmler",Shrek 3 2007
+https://filmarsivi.yusufdkci1.workers.dev/?ID=shrek-3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r51o1rUyPvR2bQFy09uItJrlNmd.jpg" group-title="Filmler",Shrek 4 2010
+https://vidrame.pro/vr/get/cc6feded/1080.txt
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/WALL-E_poster.jpg" group-title="Filmler",WALL·E
+https://vidrame.pro/vr/get/58390cad/1080.txt
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg" group-title="Filmler",Scooby-Doo (2002)
+https://vidmody.com/vs/tt0267913
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pGoN2NJCrVrbDlkY3rlpdIUwTD5.jpg" group-title="Filmler",Scooby-Doo 2: Canavarlar Kaçtı (2004)
+https://vidmody.com/vs/tt0331632
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fUbx2NFwRTmRMtwcTbzEd804WQj.jpg" group-title="Filmler",Scooby Doo Gizem Başlıyor (2009) 
 https://vidmody.com/vs/tt1258157
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4fvCOntbgzZ9crbduTHRhgN8bgq.jpg" group-title="Filmler",Scooby Doo: Göl Canavarının Laneti (2010) 
+https://vidmody.com/vs/tt1618435
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f5E440uHsNU9XTfyK8KXYbRJGVo.jpg" group-title="Filmler",Scooby Doo ve Uzaylı İstilacılar (2000) 
 https://vidmody.com/vs/tt0253658
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3WTLfks9F2ZEi2xLovpMUXZpLCX.jpg" group-title="Filmler",Büyükbaba İle Savaş 2020
-https://vidmody.com/vs/tt4532038
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cIQ2MCby9nTDmCg13RWizgQOhn6.jpg" group-title="Filmler",Stajyer 2015
-https://vidmody.com/vs/tt2361509
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/orY4PX3TNFdCbdVwhKY32UKMvoA.jpg" group-title="Filmler",Saklambaç 2005
-https://vidmody.com/vs/tt0382077
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7QdF1SKEIBtlkJZtkWM4qekwEtG.jpg" group-title="Filmler",Scooby-Doo!: Sihirli Hayalet (1999)
+https://vidmody.com/vs/tt0196931
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aoKL4Wpe4by9yhNhgWGpn2ORUGX.jpg" group-title="Filmler",Scooby-Doo ve Siber Takip (2001)
+https://vidmody.com/vs/tt0290057
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fv4e6pGhl4fDUdRt2WIDLDgEq7e.jpg" group-title="Filmler",Scooby-Doo! ve Meksika Canavarı (2003)
+https://vidmody.com/vs/tt0369903
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x8GJ7evV6YBISijuBuGLQjvckYA.jpg" group-title="Filmler",Scooby-Doo!: Vampir Efsanesi (2003)
+https://vidmody.com/vs/tt0357139
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hmeJnofknkSnczzN3J7Wvfn7OGI.jpg" group-title="Filmler",Scooby-Doo! ve Loch Ness Canavarı (2004)
+https://vidmody.com/vs/tt0418141
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kJNQ0X4xHQB6SYKSppfJ54tMHRV.jpg" group-title="Filmler",Hoş Geldin Scooby-Doo! (2005)
+https://vidmody.com/vs/tt0433771
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w9CpKZmgDfQvHe8WzFsvxxKCNyc.jpg" group-title="Filmler",Scooby-Doo: Mumyam Nerede? (2005) 
+https://vidmody.com/vs/tt0480461
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iZSLfiXv1e0szunp0CQY2yWwtHb.jpg" group-title="Filmler",Scooby-Doo! Korsanın sırrı (2006)
+https://vidmody.com/vs/tt0867418
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n1SgvnX4SJ6gZEpDSQEbcmQOslJ.jpg" group-title="Filmler",Scooby-Doo Buz Gibi (2007)
+https://vidmody.com/vs/tt1097636
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jscb7MiWTYBjKlAb9TuNnFMSR81.jpg" group-title="Filmler",Scooby-Doo ve Goblin Kral (2008)
+https://vidmody.com/vs/tt1295021
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zurVOCpOLwLTBknYlgcXHWE0xvu.jpg" group-title="Filmler",Scooby-Doo! Korkunç Kamp (2010)
+https://vidmody.com/vs/tt1731767
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zER4fuEw6qlMkC3mBGcht0r2Iqw.jpg" group-title="Filmler",Scooby Doo! Fantosaurus Efsanesi (2011)
+https://vidmody.com/vs/tt1777608
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qcSjTyzy1IOt2W7nR4X3uWUx2xj.jpg" group-title="Filmler",Scooby-Doo! Mavi Şahin'in Maskesi (2012)
+https://vidmody.com/vs/tt2586070
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pulFY8KAuF6BiySNkVHgAN7cI0H.jpg" group-title="Filmler",Scooby-Doo! Adventures: The Mystery Map (2013)
+https://vidmody.com/vs/tt3043386
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Ql1KEdLPr0bl5503qFiUscDT1q.jpg" group-title="Filmler",Scooby-Doo! Frankenstein Laneti (2014)
+https://vidmody.com/vs/tt3919322
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AtHngeqD4K1Oj01ulWc1aDJhU8H.jpg" group-title="Filmler",Scooby-Doo! ve Gurme Hayalet (2018)
+https://vidmody.com/vs/tt8660492
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hKxlzUtwyEMZDmj58ijQqr5PoZn.jpg" group-title="Filmler",Scooby-Doo ve On Üçüncü Hayaletin Laneti (2019)
+https://vidmody.com/vs/tt9260980
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sCoG0ibohbPrnyomtzegSuBL40L.jpg" group-title="Filmler",Scooby-Doo! Kılıç ve Scoob (2021)
+https://vidmody.com/vs/tt13676256
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t0DDWZVOyRjrpotc2qOvcFsRryp.jpg" group-title="Filmler",Scooby Goes Hollywood (1979)
+https://vidmody.com/vs/tt0191423
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oEyGH0QK8p3Sl5UtENKZRyCxqYl.jpg" group-title="Filmler",Orman Çetesi 2006
 https://vidmody.com/vs/tt0327084
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg" group-title="Filmler",Horton 2008
@@ -1781,12 +1744,130 @@ https://vidmody.com/vs/tt1059793
 https://vidmody.com/vs/tt1389762
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sf6i8gcZX69q7W3ErgJjAXucsSN.jpg" group-title="Filmler",Garfield 2024
 https://vidmody.com/vs/tt5779228
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8i2eQHH7Ruh0KduSIWT5lNlrrau.jpg" group-title="Filmler",Heidi (2025)
+https://vidmody.com/vs/tt14260876
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/azQLnrTMToqkAzIFtDgMB9jgKOI.jpg" group-title="Filmler",İyi Bir Dinozor (2015)
+https://vidmody.com/vs/tt1979388
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vz6BmebarfIsK1ZSzSXonZsuY3c.jpg" group-title="Filmler",Kayıp Balık Nemo (2003)
+https://vidmody.com/vs/tt0266543
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ntZQdEFnkZYvmtNHfRJ5LOY8qjU.jpg" group-title="Filmler",Kayıp Balık Dori (2016)
+https://vidmody.com/vs/tt2277860
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AvezEm0QCOEXeKZg6SCfV7pF8KN.jpg" group-title="Filmler",Neşeli Ayaklar 2006
+https://vidmody.com/vs/tt0366548
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6hM455b4t0nTY2Y1ol9pHlKBJMn.jpg" group-title="Filmler",Neşeli Dalgalar (2007)
+https://vidmody.com/vs/tt0423294
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d73cqN0EYzmIR66QISEfwZ1iAOc.jpg" group-title="Filmler",Baykuş Krallığı Efsanesi 2010
+https://vidmody.com/vs/tt1219342
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iRAJHQhSoR2DivY4P9xZeZ5SsHG.jpg" group-title="Filmler",Ayı Yogi (2010)
+https://vidmody.com/vs/tt1302067
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cvDzqJHBV4oM5WE6Vbdc7SwtB71.jpg" group-title="Filmler",Canavarlar Yaratıklara Karşı 2009
+https://vidmody.com/vs/tt0892782
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ost7ABvfjcDfVyBqd61uUXYokhP.jpg" group-title="Filmler",Sevimli Canavarlar Üniversitesi 2013
+https://vidmody.com/vs/tt1453405
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg" group-title="Filmler",Rango 2011
+https://vidmody.com/vs/tt1192628
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mn4Uc3HRnQNL8AiQTVZ6R9EPwri.jpg" group-title="Filmler",Arabalar Cars 2006
+https://vidmody.com/vs/tt0317219
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4wPGVI6DpTju8vodJlnvS4oZAXm.jpg" group-title="Filmler",Çılgın dostlar open season 2006
+https://vidmody.com/vs/tt0400717 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pVygaB139fas4VOPPRb9aC7GiNT.jpg" group-title="Filmler",Çılgın dostlar 2 2008
+https://vidmody.com/vs/tt1107365 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xTR4TewCb2wwHOIZrwNMuXwRSoF.jpg" group-title="Filmler",Çılgın dostlar 3 2010
+https://vidmody.com/vs/tt1646926 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9VFauPfgRHi2zutzoFP3Uz7rVnW.jpg" group-title="Filmler",Ferdinand 2017
+https://vidmody.com/vs/tt3411444
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2N8Atq2HqyaXzkyFBO0GPn2rMp.jpg" group-title="Filmler",Bitirim Karınca 2006 
+https://vidmody.com/vs/tt0429589 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qoRVVvE8EUq4HjxmCFkIshLvFf9.jpg" group-title="Filmler",Karınca Z 1998 
+https://vidmody.com/vs/tt0120587
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c9QLSX3qEW8FO7UgT2pyfC1LDzb.jpg" group-title="Filmler",Yukarı Bak 2009
+https://vidmody.com/vs/tt1049413
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1EPfG2nVMhF5CDcAK0IeSsnBsVw.jpg" group-title="Filmler",Inside Out 2015
+https://vidmody.com/vs/tt2096673
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxd7GCP/MG-7223.jpg" group-title="Filmler",Ters Yüz 1 2015
+https://s25.imglink.info/mk/ITIlpl5MqKbhFJ5mnJEyYx91qP4lZQR1YwRjBQOjYxE1LJjd0zxnJ1aoTyhnl5cozMis0xi25vr1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xYqeUheNCep7ll9AotOcclGhP0X.jpg" group-title="Filmler",Ters Yüz 2 2024
+https://vidrame.pro/vr/get/968e8cf1/1080.txt
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a7hjVvftDqdgqZidGyoDkpXWjtK.jpg" group-title="Filmler",Ratatuy 2007 - Ratatouille
+https://vidmody.com/vs/tt0382932
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cL6gPwwhcYIGdrpj6vzIaKlb5zQ.jpg" group-title="Filmler",Zootropolis 1 2016
+https://vidmody.com/vs/tt2948356
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xdvMX5L7bdonl2geaXL3laTCSr2.jpg" group-title="Filmler",Zootropolis 2 2025
+https://vidmody.com/vs/tt26443597
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2yHiW0RRwoMXkuI2bYIIoxNH93P.jpg" group-title="Filmler",madagaskar 1 2005
+https://filmarsivi.yusufdkci1.workers.dev/?ID=madagascar1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jksxBK7oypUaMjq7QTQr2OtMplH.jpg" group-title="Filmler",Madagaskar 2 2008 
+https://vidmody.com/vs/tt0479952 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9dIGt1HZAd7P0UspptdoZVJ64AD.jpg" group-title="Filmler",Madagaskar 3 2012 
+https://vidmody.com/vs/tt1277953
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg" group-title="Filmler",Rio 1 2011 
+https://vidmody.com/vs/tt1436562
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/S27qVtJyUzPeMOVTE8rjTaIx4c.jpg" group-title="Filmler",Rio 2 2014 
+https://vidmody.com/vs/tt2357291
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lYO0iRJIqRcqO7lWS5jYDc8mvLo.jpg" group-title="Filmler",inanılmaz aile 1 2004
+https://filmarsivi.yusufdkci1.workers.dev/?ID=inanilmaz-aile-1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Hxx811Z56FtBX2HW7FTQZzFxl2.jpg" group-title="Filmler",İnanılmaz Aile 2 2018 
+https://vidmody.com/vs/tt3606756
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ni4z0DOBm6padSbnqbps4hVYehK.jpg" group-title="Filmler",Kung Fu Panda 1 2008
+https://vidmody.com/vs/tt0441773
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg" group-title="Filmler",Kung Fu Panda 2 2011
+https://vidmody.com/vs/tt1302011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg" group-title="Filmler",Kung Fu Panda 3 2016
+https://vidmody.com/vs/tt2267968
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ewHfahsUgKtvYJwmwVuNsKwkc39.jpg" group-title="Filmler",Kung Fu Panda 4 2024
+https://vidmody.com/vs/tt21692408
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gAXJJggTZB322NwtwArdEC87zkj.jpg" group-title="Filmler",Kung Fu Panda: Öfkeli Beşli'nin Sırları 
+https://vidmody.com/vs/tt1287845
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xON7QZ6yHYt1S1Aji0wfGQ1a7ml.jpg" group-title="Filmler",Kung Fu Panda: Ustanın Sırları 
+https://vidmody.com/vs/tt1980162
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vJv3pI8pyS13rLjy0ok7a3BiE0a.jpg" group-title="Filmler",Kung Fu Panda Tatil
+https://vidmody.com/vs/tt1702433
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aa1EbBjzHHfUry3ymThTuP9BpQp.jpg" group-title="Filmler",Buz Devri 1 2002
+https://vidmody.com/vs/tt0268380
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qMA976CKnxCQRHy19MnZawjgfbB.jpg" group-title="Filmler",Buz Devri 2 2006
+https://vidmody.com/vs/tt0438097
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4yuACTdTILadeZloQJMAAO1O29s.jpg" group-title="Filmler",Buz Devri 3 2009
+https://vidmody.com/vs/tt1080016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l2O2H18Ku2InlquBRQhOnUU0Nax.jpg" group-title="Filmler",Buz Devri 4 2012
+https://filmarsivi.yusufdkci1.workers.dev/?ID=buz-devri-4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WMxdb1nlATdmp1X1MhBh3MatLl.jpg" group-title="Filmler",Buz Devri 5 2016
+https://vidmody.com/vs/tt3416828
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ue5417HaDcvgMDusryenwwwZARq.jpg" group-title="Filmler",Buz Devri Bir Yılbaşı Macerası
+https://vidmody.com/vs/tt2100546
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lXoQcnuQeQdZ6H0Fex0Ru0fVXPJ.jpg" group-title="Filmler",Buz Devri: Buck Wild'ın Maceraları (2022)
+https://vidmody.com/vs/tt13634480
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8HrGy5aPcOwqpykEFyDGegT4gsR.jpg" group-title="Filmler",Çizmeli Kedi: Son Dilek 2022
+https://vidmody.com/vs/tt3915174
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wIPEakWqEBfpqtw7dXaVUQ5Qz8E.jpg" group-title="Filmler",Vahşi Robot The Wild Robot 2024
+https://vidmody.com/vs/tt29623480
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lZWkv9hYJaxpo6OIAGb3SKY6L9w.jpg" group-title="Filmler",Deniz Canavarı 2022 
+https://vidmody.com/vs/tt9288046
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jfIzTv8mw5unW2znKbsHhMkueVu.jpg" group-title="Filmler",şirinler 1 2011
+https://filmarsivi.yusufdkci1.workers.dev/?ID=sirinler-1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sKqcPLFE9laozZvmsKMsUlNbMn5.jpg" group-title="Filmler",Şirinler 2 2013
+https://vidmody.com/vs/tt2017020
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o4cRCahieCvFFy5ROulqnPgGK3K.jpg" group-title="Filmler",Şirinler 3 Kayıp Köy 2017 
+https://vidmody.com/vs/tt2398241
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xKD6XFc83xLMRVUMPOyd4DEhABU.jpg" group-title="Filmler",Şirinler: Yeni Yıl Şarkısı (2011)
+https://vidmody.com/vs/tt2062677
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AgFkdZawIUFY20rLRX9ejQtn0q2.jpg" group-title="Filmler",Şirinler: Hayalet Şirin Efsanesi (2013)
+https://vidmody.com/vs/tt2958484
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3tRfPqv6QGkJre0FLdL1Qhv1ew0.jpg" group-title="Filmler",Red Kit: Batıya Hücum (2007) 
+https://vidmody.com/vs/tt0792992
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/orVp8956YsSBqFSxwxLtK0UbLly.jpg" group-title="Filmler",Büyük Oyun 2014
+https://vidmody.com/vs/tt2088003
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3WTLfks9F2ZEi2xLovpMUXZpLCX.jpg" group-title="Filmler",Büyükbaba İle Savaş 2020
+https://vidmody.com/vs/tt4532038
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cIQ2MCby9nTDmCg13RWizgQOhn6.jpg" group-title="Filmler",Stajyer 2015
+https://vidmody.com/vs/tt2361509
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/orY4PX3TNFdCbdVwhKY32UKMvoA.jpg" group-title="Filmler",Saklambaç 2005
+https://vidmody.com/vs/tt0382077
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg" group-title="Filmler",Av Mevsimi 2013
+https://vidmody.com/vs/tt1480295
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gB9yom8oS4YsJ6YZe1lkeFcsDgs.jpg" group-title="Filmler",Kral Arthur Kılıç Efsanesi 2017
 https://vidmody.com/vs/tt1972591
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3j9LwKmqDSA47v9zlWAjwfkwFRU.jpg" group-title="Filmler",Super 8 2011
 https://vidmody.com/vs/tt1650062
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3tRfPqv6QGkJre0FLdL1Qhv1ew0.jpg" group-title="Filmler",Red Kit: Batıya Hücum (2007) 
-https://vidmody.com/vs/tt0792992
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8a3I6CirbPiemdU2LPyOis51XU.jpg" group-title="Filmler",Terabithia köprüsü 2007
 https://vidmody.com/vs/tt0398808
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sADDvMNwjXYUKxsv6igD46w1Vo4.jpg" group-title="Filmler",Komando Dadı 2005
@@ -1801,8 +1882,6 @@ https://vidmody.com/vs/tt1509767
 https://vidmody.com/vs/tt0245844
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tSLWIX3NzqFPWNMNX7FfeExHCRk.jpg" group-title="Filmler",Demir Maskeli Adam 1998
 https://vidmody.com/vs/tt0120744
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AvezEm0QCOEXeKZg6SCfV7pF8KN.jpg" group-title="Filmler",Neşeli Ayaklar 2006
-https://vidmody.com/vs/tt0366548
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gJ5MsTlcWdn9TqdSdJ7PXU9taXX.jpg" group-title="Filmler",Hayvan bakıcısı 2011
 https://vidmody.com/vs/tt1222817
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o5GwcuiOyfEbtXkcQkl1kijzpxa.jpg" group-title="Filmler",Düşler Bahçesi 2011
@@ -1851,8 +1930,6 @@ https://vidmody.com/vs/tt0427392
 https://vidmody.com/vs/tt2782844
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kdFs83qjgBlqRVrEFii9C5pzWaG.jpg" group-title="Filmler",Çılgın Joe 2013
 https://vidmody.com/vs/tt1893256
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9FN5n8wGYrfSJaKGF9uObdKimIh.jpg" group-title="Filmler",Güvenlik 2017
-https://vidmody.com/vs/tt3501112
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3hV9oRsONpg4FCsVrLjtJsu9BS9.jpg" group-title="Filmler",Banka İşi 2008
 https://vidmody.com/vs/tt0200465
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jOGOfdl8DToXFoGrtVe9mdsy0sW.jpg" group-title="Filmler",İtalyan işi 2003
@@ -1887,6 +1964,10 @@ https://vidmody.com/vs/tt0450232
 https://vidmody.com/vs/tt2106361
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ldFgXGdioAwmQgfxTc4pecbbnqC.jpg" group-title="Filmler",Uzay Yolcuları 2016
 https://vidmody.com/vs/tt1355644
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8Mvue0WIqWABfVvO1GcRN7hgvtO.jpg" group-title="Filmler",Muhteşem Yedili 2016
+https://vidmody.com/vs/tt2404435
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/31wgXG6OxDaXbp5IzyNoUJdVS5e.jpg" group-title="Filmler",Haydutlar Bandidas (2006)
+https://vidmody.com/vs/tt0416496
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r6OOHSheg3cKP217nsHx5tkRa6W.jpg" group-title="Filmler",A Takımı 2010
 https://vidmody.com/vs/tt0429493
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oOtrXHNyDMRczaRdak2gff9kB1f.jpg" group-title="Filmler",Crawl Ölümcül Sular 2019
@@ -1929,14 +2010,8 @@ https://vidmody.com/vs/tt4123430
 https://vidmody.com/vs/tt4123432
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hAKCuWPePWyHDeF7XcpVHKRw7Q6.jpg" group-title="Filmler",Çılgın Baskın (2017)
 https://vidmody.com/vs/tt5736696
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8i2eQHH7Ruh0KduSIWT5lNlrrau.jpg" group-title="Filmler",Heidi (2025)
-https://vidmody.com/vs/tt14260876
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vhNoXDpc7T5OdmAuu8DMHLB39uo.jpg" group-title="Filmler",Macera Adası (2008)
 https://vidmody.com/vs/tt0410377
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg" group-title="Filmler",Şafak Harekatı 2006
-https://vidmody.com/vs/tt0462504
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/azQLnrTMToqkAzIFtDgMB9jgKOI.jpg" group-title="Filmler",İyi Bir Dinozor (2015)
-https://vidmody.com/vs/tt1979388
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/amo3OtwQQl0N3uZ1b5xtLG7nMQj.jpg" group-title="Filmler",96 Saat Taken 2008
 https://vidmody.com/vs/tt0936501
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41kHO2uL1b9EIvp7NCEM2LW5cxT.jpg" group-title="Filmler",88 dakika 2007
@@ -1975,42 +2050,20 @@ https://vidmody.com/vs/tt1854564
 https://vidmody.com/vs/tt1428538
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/soDo366iXt77z6DJxXcJlwCr9IY.jpg" group-title="Filmler",Kanlı Elmas 2006
 https://vidmody.com/vs/tt0450259
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vz6BmebarfIsK1ZSzSXonZsuY3c.jpg" group-title="Filmler",Kayıp Balık Nemo (2003)
-https://vidmody.com/vs/tt0266543
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ntZQdEFnkZYvmtNHfRJ5LOY8qjU.jpg" group-title="Filmler",Kayıp Balık Dori (2016)
-https://vidmody.com/vs/tt2277860
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6hM455b4t0nTY2Y1ol9pHlKBJMn.jpg" group-title="Filmler",Neşeli Dalgalar (2007)
-https://vidmody.com/vs/tt0423294
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1DrVQuAGTnrWeyZOjYw9BW3BJ8J.jpg" group-title="Filmler",Next 2007
-https://vidmody.com/vs/tt0435705
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fwKewZWEUWaI8hfQg8NMTr0s88R.jpg" group-title="Filmler",Otoban Collide 2016
 https://vidmody.com/vs/tt2126235
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cFBYZux3hkA6AjhLHZDyvF6RK91.jpg" group-title="Filmler",Ölümcül Oyuncaklar 2013
 https://vidmody.com/vs/tt1538403
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kQB0uxR3RDS2tGTZtBuFow9SF1T.jpg" group-title="Filmler",Kanun Benim Appaloosa 2008
 https://vidmody.com/vs/tt0800308
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bn9e6EfQfNEUl15rPY6otvrvHnr.jpg" group-title="Filmler",Kovboylar ve Uzaylılar (2011)
-https://vidmody.com/vs/tt0409847
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dxxM3lLDjGRC50i5rhvfQziskAN.jpg" group-title="Filmler",Pompeii 2014
 https://vidmody.com/vs/tt1921064
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8Mvue0WIqWABfVvO1GcRN7hgvtO.jpg" group-title="Filmler",Muhteşem Yedili 2016
-https://vidmody.com/vs/tt2404435
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sQMucYJYJLJHNJSVVwVdgfKpwHg.jpg" group-title="Filmler",Dev Avcısı Jack 2013
 https://vidmody.com/vs/tt1351685
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d73cqN0EYzmIR66QISEfwZ1iAOc.jpg" group-title="Filmler",Baykuş Krallığı Efsanesi 2010
-https://vidmody.com/vs/tt1219342
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iRAJHQhSoR2DivY4P9xZeZ5SsHG.jpg" group-title="Filmler",Ayı Yogi (2010)
-https://vidmody.com/vs/tt1302067
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cvDzqJHBV4oM5WE6Vbdc7SwtB71.jpg" group-title="Filmler",Canavarlar Yaratıklara Karşı 2009
-https://vidmody.com/vs/tt0892782
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ost7ABvfjcDfVyBqd61uUXYokhP.jpg" group-title="Filmler",Sevimli Canavarlar Üniversitesi 2013
-https://vidmody.com/vs/tt1453405
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9bpMNsWNouFdHAl25Bm8J3wy9jC.jpg" group-title="Filmler",The Thing Şey 1982
 https://vidmody.com/vs/tt0084787
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q9Mvu1t63tOtnj96TKFHU42V0N7.jpg" group-title="Filmler",The Thing Şey 2011
 https://vidmody.com/vs/tt0905372
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/31wgXG6OxDaXbp5IzyNoUJdVS5e.jpg" group-title="Filmler",Haydutlar Bandidas (2006)
-https://vidmody.com/vs/tt0416496
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8eZs5SiPj5KDII4DTorXmBcrzE7.jpg" group-title="Filmler",Cennet'in Krallığı (2005)
 https://vidmody.com/vs/tt0320661
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg" group-title="Filmler",Superman 1 1978
@@ -2025,14 +2078,8 @@ https://vidmody.com/vs/tt0094074
 https://vidmody.com/vs/tt0348150
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bhk5K2DRlc5zLtu0iwHqcJcm0ci.jpg" group-title="Filmler",Çelik Adam (2013) 
 https://vidmody.com/vs/tt0770828
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hkmz9rxgcweizXNElozGeKwmAJE.jpg" group-title="Filmler",Vahşiler Firarda 2016
-https://vidmody.com/vs/tt4698684
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l6rn8sMGG71tPnQr6Tq9GshLUi.jpg" group-title="Filmler",Zamanda Aşk about time 2013
 https://vidmody.com/vs/tt2194499
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg" group-title="Filmler",Rango 2011
-https://vidmody.com/vs/tt1192628
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mn4Uc3HRnQNL8AiQTVZ6R9EPwri.jpg" group-title="Filmler",Arabalar Cars 2006
-https://vidmody.com/vs/tt0317219
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nv1l1k6Yjddeor8IIRhMlKxIyXn.jpg" group-title="Filmler",Frozen (2010)
 https://vidmody.com/vs/tt1323045
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pONyvBJwHNg5CWu7mtsv4qaq75C.jpg" group-title="Filmler",Denizci 1 The Marine 2006
