@@ -83,14 +83,14 @@ https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3
 #EXTINF:-1 tvg-id="24.TV.tr" tvg-name="24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20091218163738%21Kanal_24.png" group-title="GENEL",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",minika go
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Minika Go
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",minika go
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",minika go
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Minika Go
 https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Minika Go
+http://umperisn.mywire.org/index.php?id=591397&token=DeaTHLesS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3yTxm9YZ/bulundu-trt-gen-logo-ve-varyasyonlar-v0-9exzpjy9qk1g1.jpg" group-title="GENEL",TRT genç
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
@@ -104,8 +104,6 @@ https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6skm73ev5hwn&app=ed3904e8-7
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?sig=015f7390da20e094a49822dbd38c8b28&sid=6s9hpg4oux50&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-logo="https://vimg.ipko.tv/logo/color/trt1.png" group-title="YEDEKLER",TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://vimg.ipko.tv/logo/color/trt1.png" group-title="YEDEKLER",TRT1
-http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83724_dark_360w_270h.png" group-title="YEDEKLER",TRT1
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83724_dark_360w_270h.png" group-title="YEDEKLER",TRT1 test
@@ -120,8 +118,6 @@ https://ornek1.m3u8
 https://ornek2.m3u8
 #EXTINF:-1 tvg-id="TRT ÇOCUK" tvg-name="TRT ÇOCUK" tvg-logo="https://yt3.ggpht.com/6_jhTr2aolmOP8qNq24ReRalaiu8LNSX-OD4fh9wWcIALv67la_kYKHDe-2QjmGJ3GqH8UULVQ" group-title="YEDEKLER",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT ÇOCUK" tvg-name="TRT ÇOCUK" tvg-logo="https://yt3.ggpht.com/6_jhTr2aolmOP8qNq24ReRalaiu8LNSX-OD4fh9wWcIALv67la_kYKHDe-2QjmGJ3GqH8UULVQ" group-title="YEDEKLER",TRT ÇOCUK
-https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/6_jhTr2aolmOP8qNq24ReRalaiu8LNSX-OD4fh9wWcIALv67la_kYKHDe-2QjmGJ3GqH8UULVQ" group-title="YEDEKLER",TRT Çocuk
 https://streams.uzunmuhalefet.com/stream/6ad16f63-33f5-45bd-9742-1b98a71ce6ed.m3u8
 #EXTINF:-1 tvg-id="TRT SPOR" tvg-name="TRT SPOR" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="YEDEKLER",TRT SPOR
@@ -132,8 +128,6 @@ https://trt.daioncdn.net/trtspor/master_720p.m3u8?platform=trtspor&sig=15dd874bb
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/20770/logo_256_1699963394.png" group-title="YEDEKLER",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/33860/logo_256.png" group-title="YEDEKLER",A Spor
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
 #EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="YEDEKLER",A Spor Yedek
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8" group-title="YEDEKLER",A Spor
@@ -144,19 +138,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/33860/logo_256.png" group-title="YEDEKLER",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/33860/logo_256.png" group-title="YEDEKLER",A Spor ydk
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/33860/logo_256.png" group-title="YEDEKLER",A Spor
 http://46.32.176.50/aspor/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="YEDEKLER",bein haber test
-https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="YEDEKLER",tivibu test
-https://trn03.tulix.tv/gt-tivibuspor1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="YEDEKLER",tivibu spor 1 test
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="https://i.hizliresim.com/4jlqmv0.png" group-title="YEDEKLER",Dmax
-http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s160-c-k-c0x00ffffff-no-rj" group-title="YEDEKLER",Dmax ydk
+#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s160-c-k-c0x00ffffff-no-rj" group-title="YEDEKLER",Dmax
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.hizliresim.com/o6w42nk.png" group-title="YEDEKLER",TLC
 http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
@@ -165,17 +149,11 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="YEDEKLER",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="YEDEKLER",Atv
-http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="YEDEKLER",Atv
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="YEDEKLER",Atv
-http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="YEDEKLER",Atv
 https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="YEDEKLER",Atv
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="YEDEKLER",Atv
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/kanal_d_logo.png" group-title="YEDEKLER",Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/kanal_d_logo.png" group-title="YEDEKLER",Kanal D
@@ -192,8 +170,6 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?sig=0109cd30b0ab671366995a8fd
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="YEDEKLER",tv8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?sig=9a72d1716d1a0f0d17fc09ee7671a7ab&sid=7ukpe2oj02fk&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="YEDEKLER",tv8
-http://149.13.0.66:4002/tv8hd
 #EXTINF:-1 tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="YEDEKLER",Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="A2 | C" tvg-name="A2 | C" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="YEDEKLER",A2 | B
@@ -204,10 +180,6 @@ https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?sig=3ad73b092a22ec5c3b7c71a79ff49cd7&token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=7umf0dkeejjq&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://yt3.ggpht.com/PUOG4AugF5attdcdO6O1sOIkFykoEJBTKF0d6hLlzAj_VCPD3MUyMOZTiwyfs-NbqL7qLNJuRw" group-title="YEDEKLER",NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdzKYB1c/MG-6446.jpg" group-title="YEDEKLER",CNN TÜRK ydk
-https://yt3.ggpht.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdzKYB1c/MG-6446.jpg" group-title="YEDEKLER",CNN TÜRK ydk
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="YEDEKLER",A HABER
 http://46.32.176.50/ahaber/playlist.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="YEDEKLER",24
@@ -273,18 +245,6 @@ https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
 https://streams.uzunmuhalefet.com/stream/e3d3b3f7-7276-4768-9673-388e462401e2.m3u8
 #EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SİNEMALAR",Sinema 1
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Play TV" tvg-name="Play TV" tvg-logo="https://r.resimlink.com/JhZ4a.png" group-title="SİNEMALAR",Play TV
-https://streams.uzunmuhalefet.com/stream/5e98fbc1-ddd0-4c55-a6fa-f2e2dec6687c.m3u8
-#EXTINF:-1 tvg-id="Play Sinema" tvg-name="Play Sinema" tvg-logo="https://r.resimlink.com/JhZ4a.png" group-title="SİNEMALAR",Play Sinema
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",play tv test
-https://cdn.theoplayer.com/demos/iframe/theoplayer.html?autoplay=false&muted=false&preload=none&src=https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",play tv test
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",F Çocuk test 1
-https://catcast.ismailturret.workers.dev/50822.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",F Çocuk test 2
-https://catcast.ismailturret.workers.dev/50659.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Grand Cinema
@@ -293,287 +253,120 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 https://catcast.ismailturret.workers.dev/playercinema-premium 1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SALON PREMIUM 2
 https://catcast.ismailturret.workers.dev/playercinema-premium2.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",TELEON
-http://teleontvstreams.supersatadmin.workers.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",EURO 90 CH
 http://euro90ch.streams-supersatforum.workers.dev/index.m3u8
 
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV
+http://umperisn.mywire.org/index.php?id=591410&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV Komedi
+http://umperisn.mywire.org/index.php?id=591411&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV Komedi 2
+http://umperisn.mywire.org/index.php?id=591412&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV Komedi 2
+http://umperisn.mywire.org/index.php?id=591413&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV
+http://umperisn.mywire.org/index.php?id=591414&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV
+http://umperisn.mywire.org/index.php?id=591415&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV Aksion 2
+http://umperisn.mywire.org/index.php?id=591416&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV Aksiyon
+http://umperisn.mywire.org/index.php?id=591417&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV
+http://umperisn.mywire.org/index.php?id=591418&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV Aksiyon 2
+http://umperisn.mywire.org/index.php?id=591419&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV Aile
+http://umperisn.mywire.org/index.php?id=591420&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV Aile
+http://umperisn.mywire.org/index.php?id=591421&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,sinema TV aile 2
+http://umperisn.mywire.org/index.php?id=591422&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV Aile 2
+http://umperisn.mywire.org/index.php?id=591423&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV 1002
+http://umperisn.mywire.org/index.php?id=591424&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV 1002
+http://umperisn.mywire.org/index.php?id=591425&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV 1001
+http://umperisn.mywire.org/index.php?id=591426&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV 1001
+http://umperisn.mywire.org/index.php?id=591427&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,Sinema TV 2
+http://umperisn.mywire.org/index.php?id=591428&token=DeaTHLesS
+
+#EXTINF:-1 group-title="SİNEMALAR" ,Smart BOX Action
+http://umperisn.mywire.org/index.php?id=591398&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Box Office 3
+http://umperisn.mywire.org/index.php?id=591400&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Box Office 3
+http://umperisn.mywire.org/index.php?id=591401&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Box Office 2
+http://umperisn.mywire.org/index.php?id=591402&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Box Office 2
+http://umperisn.mywire.org/index.php?id=591403&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Box Office 1
+http://umperisn.mywire.org/index.php?id=591404&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Box Office 1
+http://umperisn.mywire.org/index.php?id=591405&token=DeaTHLesS
+
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Movies star
+http://umperisn.mywire.org/index.php?id=591390&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Movies Star
+http://umperisn.mywire.org/index.php?id=591391&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Movies 
+http://umperisn.mywire.org/index.php?id=591392&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Movies Premiere
+http://umperisn.mywire.org/index.php?id=591393&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Movies Premiere 2
+http://umperisn.mywire.org/index.php?id=591394&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Movies Premiere 2
+http://umperisn.mywire.org/index.php?id=591395&token=DeaTHLesS
+
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Series 4
+http://umperisn.mywire.org/index.php?id=591380&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Series 4
+http://umperisn.mywire.org/index.php?id=591381&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Series 3
+http://umperisn.mywire.org/index.php?id=591382&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Series 3
+http://umperisn.mywire.org/index.php?id=591383&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Series 2
+http://umperisn.mywire.org/index.php?id=591384&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Series 2
+http://umperisn.mywire.org/index.php?id=591385&token=DeaTHLesS
+#EXTINF:-1 group-title="SİNEMALAR" ,beIN Series 1
+http://umperisn.mywire.org/index.php?id=591386&token=DeaTHLesS
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",SPOR
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",beİN Spor
-http://65.108.239.207/bm1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",beİN Spor
-http://65.108.239.207/bm2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",beİN Spor
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",Tivibu Spor
 https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",Tivibu Spor
-https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="SPOR",Tivibu Spor 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://65.108.239.207/t1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="SPOR",Tivibu Spor 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://65.108.239.207/t2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="SPOR",Tivibu Spor 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://65.108.239.207/t3/index.m3u8
-
-
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="SPOR",BeIN Sports 1
-#EXT-X-KANAL-TIPI:AUTO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="SPOR",BeIN Sports 2
-#EXT-X-KANAL-TIPI:AUTO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
-
-#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="SPOR",BeIN Sports 3
-#EXT-X-KANAL-TIPI:AUTO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",Bein Sports
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",Web BeIN Sports+++
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR",TrGoals Yayını1 
+#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR",TrGoals Yayını kapalı
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1514.xyz
 https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test3 Spor Kanalı
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test1 Spor Kanalı kapalı
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1514.xyz
 https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test2 Spor Kanalı
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test2 Spor Kanalı kapalı
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1514.xyz
 https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test1 Spor Kanalı
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test3 Spor Kanalı kapalı
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://site-adresi.com/
 #EXTVLCOPT:http-origin=https://site-adresi.com
 https://api.codetabs.com/v1/proxy/?quest=https://yayin-linki.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",BeIN Sports 4K vpn
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://bs.arectv31.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",BeIN Sports FHD 1 vpn
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://bs.arectv31.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",Bein Sports vpn
-http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/14795.ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",Bein Sports vpn
-http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/111898.ts
-
-#EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR",VPN BeINSport Haber UHD
-http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48894.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BeIN Sports FEED1
-http://medotv.nl:8000/live/besho1990/mLKFJqVKKejc/14795.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BeIN Sports+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49219.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BeIN Sports++
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BeIN Sport 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-origin=https://bilyonersport1.com
-#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
-https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5zu8a0z.jpeg" group-title="SPOR",VPN Selçuk-Sports1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://bosssports294.com
-#EXTVLCOPT:http-referrer=https://bosssports294.com/
-https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/3apwt19.jpeg" group-title="SPOR",VPN VARSPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://cdn.datapack.xyz
-#EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
-http://izipizi1.info:80/live/ItcElekt90dnzR/ItcElekt90dftjc/39895.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/95fovn8.png" group-title="SPOR",VPN JUSTINSPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/115033.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BEIN SPORTS 4K (REAL 4K)
-http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/14795
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BEİNSPORTS 1 FHD
-http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/115033
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",VPN BEINSPORTS 1 HD
-http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/111898
-
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN Sport SD
-https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORT 1 480P
-https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN Sport 1 720P (O)
-https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 720P (V)
-https://goldvod.org/live/hpgdiscoo/123456/141.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 FEED (V)
-https://goldvod.org/live/hpgdiscoo/123456/142.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 8K FEED
-https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 720P FEED
-https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 H265
-https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 + D (V)
-https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 LIVE (V)
-https://goldvod.org/live/hpgdiscoo/123456/143.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 50FPS (V)
-https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 HD
-https://goldvod.org/live/hpgdiscoo/123456/148.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="SPOR",VPN beIN SPORTS 1 HD TURKEY
-https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/tom_and_jerry.png" group-title="VPN",Test VPN Tom and Jerry
-https://goldvod.org/live/hpgdiscoo/123456/10499.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN OSCAR ÇÖLLERDE
-https://goldvod.org/live/hpgdiscoo/123456/424.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f2/Heidi_tvseries.jpg" group-title="VPN",Test VPN HEIDI TV
-https://goldvod.org/live/hpgdiscoo/123456/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN MAYMUNLAR KRALI KONG
-https://goldvod.org/live/hpgdiscoo/123456/420.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cezQyM5cO454vUdLiLOkv78K64D.jpg" group-title="VPN",Test VPN ŞİRİNLER TV
-https://goldvod.org/live/hpgdiscoo/123456/434.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="VPN",Test VPN CAILLOU TV
-https://goldvod.org/live/hpgdiscoo/123456/360.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-ZxaiaRpQZT-sczoNJNP2OoEm0pxOIxgcq5kSXMmhBGlw_g8yzyxv06EMVcieuYMzBE=w480-h960" group-title="VPN",Test VPN DISCOVERY CHANNEL ID
-https://goldvod.org/live/hpgdiscoo/123456/371.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/belgesel.png" group-title="VPN",Test VPN Belgesel TV
-https://goldvod.org/live/hpgdiscoo/123456/103.m3u8
-#EXTINF:-1 tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/31/0937564329435eb88428_op_0_XL.webp" group-title="VPN",Test VPN LOVE NATURE
-https://goldvod.org/live/hpgdiscoo/123456/157.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN DİNAMİK TV ANİMASYON
-https://goldvod.org/live/hpgdiscoo/123456/366.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN Yabancı Sinema
-https://goldvod.org/live/hpgdiscoo/123456/183.m3u8
-#EXTINF:-1 tvg-logo="https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png" group-title="VPN",Test VPN SINEMA TV AKSIYON 1
-https://goldvod.org/live/hpgdiscoo/123456/312.m3u8
-#EXTINF:-1 tvg-logo="https://aksiyon2.sinematv.com.tr/content/logo/SINEMATV-AKSIYON-2-GRI.png" group-title="VPN",Test VPN SİNEMA TV AKSİYON 2
-https://goldvod.org/live/hpgdiscoo/123456/309.m3u8
-#EXTINF:-1 tvg-logo="https://www.sinematv.com.tr/content/logo/SINEMATV.png" group-title="VPN",Test VPN SINEMA TV
-https://goldvod.org/live/hpgdiscoo/123456/313.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="VPN",Test VPN beIN MOVIES STARS
-https://goldvod.org/live/hpgdiscoo/123456/346.m3u8
-#EXTINF:-1 tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/salon1.png" group-title="VPN",Test VPN SALON TV 1
-https://goldvod.org/live/hpgdiscoo/123456/431.m3u8
-#EXTINF:-1 tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/salon2.png" group-title="VPN",Test VPN SALON TV 2
-https://goldvod.org/live/hpgdiscoo/123456/432.m3u8
-#EXTINF:-1 tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/84/0954337290115eb8f42a_op_0_XL.webp" group-title="VPN",Test VPN SİNEMA TV AİLE 1 FHD
-https://goldvod.org/live/hpgdiscoo/123456/308.m3u8
-#EXTINF:-1 tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/84/0954337290115eb8f42a_op_0_XL.webp" group-title="VPN",Test VPN SINEMA TV AILE 1
-https://goldvod.org/live/hpgdiscoo/123456/176.m3u8
-#EXTINF:-1 tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/11/0955122162395eb7f426_op_0_XL.webp" group-title="VPN",Test VPN SİNEMA TV AİLE 2
-https://goldvod.org/live/hpgdiscoo/123456/177.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN FIX SINEMA ACTION
-https://goldvod.org/live/hpgdiscoo/123456/316.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN FIX CINEMA BİLİM KURGU
-https://goldvod.org/live/hpgdiscoo/123456/317.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN DİNAMİK TV BILIMKURGU
-https://goldvod.org/live/hpgdiscoo/123456/367.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN ENO TV WESTERN
-https://goldvod.org/live/hpgdiscoo/123456/390.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN FIX CINEMA FANTASTIC
-https://goldvod.org/live/hpgdiscoo/123456/320.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN FIX CINEMA COMEDY
-https://goldvod.org/live/hpgdiscoo/123456/318.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN FIX CINEMA MACERA
-https://goldvod.org/live/hpgdiscoo/123456/322.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN SİNEMA FAMILY
-https://goldvod.org/live/hpgdiscoo/123456/327.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJr1Rpwto0PfTfi8dcUEgvM1HKs6Cv4wPspjsG4RxJp7Riu55Gli3BDGZ&s=10" group-title="VPN",Test VPN REDBOX ANİMASYON
-https://goldvod.org/live/hpgdiscoo/123456/342.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJr1Rpwto0PfTfi8dcUEgvM1HKs6Cv4wPspjsG4RxJp7Riu55Gli3BDGZ&s=10" group-title="VPN",Test VPN REDBOX ANİMASYON 2
-https://goldvod.org/live/hpgdiscoo/123456/344.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN ENO TV AKSİYON
-https://goldvod.org/live/hpgdiscoo/123456/374.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJr1Rpwto0PfTfi8dcUEgvM1HKs6Cv4wPspjsG4RxJp7Riu55Gli3BDGZ&s=10" group-title="VPN",Test VPN ENO TV ANİMASYON
-https://goldvod.org/live/hpgdiscoo/123456/375.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN MAX TV AKSİYON 2
-https://goldvod.org/live/hpgdiscoo/123456/411.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3z2xZqEPi_p2gMEuCWsfpoLSqX_DEw7mYiXmURbMp0W8zssCVl4YZCs&s=10" group-title="VPN",Test VPN MAX TV ANİMASYON 1
-https://goldvod.org/live/hpgdiscoo/123456/412.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuV1ooKvaPJSW5vrJeP6qdbbpmyu47ipQsxn2N0Icu-kAUmX93ERchg159&s=10" group-title="VPN",Test VPN ÇOCUK TV 2
-https://goldvod.org/live/hpgdiscoo/123456/363.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlVno63hsSt8hNpoX3CB9h2-NC9Q--3li5_rhqAMFVe0MNG-pW8YtIUOAy&s=10" group-title="VPN",Test VPN ÇOCUK TV 1
-https://goldvod.org/live/hpgdiscoo/123456/362.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN MAX TV GOLD
-https://goldvod.org/live/hpgdiscoo/123456/413.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN MAX TV PREMIER
-https://goldvod.org/live/hpgdiscoo/123456/414.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN MAX TV VİZYON 1
-https://goldvod.org/live/hpgdiscoo/123456/416.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN MAX TV VİZYON 2
-https://goldvod.org/live/hpgdiscoo/123456/417.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN MAX TV VİZYON 3
-https://goldvod.org/live/hpgdiscoo/123456/418.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN MAX TV VİZYON 4
-https://goldvod.org/live/hpgdiscoo/123456/419.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN GLOBAL BOX VIZYON
-https://goldvod.org/live/hpgdiscoo/123456/338.m3u8
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="VPN",Test VPN GLOBAL BOX FANTASTIC
-https://goldvod.org/live/hpgdiscoo/123456/335.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 1
-https://goldvod.org/live/hpgdiscoo/123456/376.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 2
-https://goldvod.org/live/hpgdiscoo/123456/377.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 3
-https://goldvod.org/live/hpgdiscoo/123456/378.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 4
-https://goldvod.org/live/hpgdiscoo/123456/379.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 5
-https://goldvod.org/live/hpgdiscoo/123456/380.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 6
-https://goldvod.org/live/hpgdiscoo/123456/381.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 7
-https://goldvod.org/live/hpgdiscoo/123456/382.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 8
-https://goldvod.org/live/hpgdiscoo/123456/383.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 9
-https://goldvod.org/live/hpgdiscoo/123456/384.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 10
-https://goldvod.org/live/hpgdiscoo/123456/385.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 11
-https://goldvod.org/live/hpgdiscoo/123456/386.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 12
-https://goldvod.org/live/hpgdiscoo/123456/387.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 13
-https://goldvod.org/live/hpgdiscoo/123456/388.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="VPN",Test VPN ENO TV VİZYON 14
-https://goldvod.org/live/hpgdiscoo/123456/389.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",🍿🎬Filmler🍿🎬
@@ -2204,90 +1997,6 @@ https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 https://drive.google.com/uc?id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
 
-
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV ?
-http://umperisn.mywire.org/index.php?id=591410&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Komedi
-http://umperisn.mywire.org/index.php?id=591411&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Komedi 2
-http://umperisn.mywire.org/index.php?id=591412&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Komedi 2
-http://umperisn.mywire.org/index.php?id=591413&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV
-http://umperisn.mywire.org/index.php?id=591414&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV
-http://umperisn.mywire.org/index.php?id=591415&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aksion 2
-http://umperisn.mywire.org/index.php?id=591416&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aksiyon
-http://umperisn.mywire.org/index.php?id=591417&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV
-http://umperisn.mywire.org/index.php?id=591418&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aksiyon 2
-http://umperisn.mywire.org/index.php?id=591419&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aile
-http://umperisn.mywire.org/index.php?id=591420&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aile
-http://umperisn.mywire.org/index.php?id=591421&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,sinema TV aile 2
-http://umperisn.mywire.org/index.php?id=591422&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV Aile 2
-http://umperisn.mywire.org/index.php?id=591423&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV 1002
-http://umperisn.mywire.org/index.php?id=591424&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV 1002
-http://umperisn.mywire.org/index.php?id=591425&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV 1001
-http://umperisn.mywire.org/index.php?id=591426&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV 1001
-http://umperisn.mywire.org/index.php?id=591427&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Sinema TV 2
-http://umperisn.mywire.org/index.php?id=591428&token=DeaTHLesS
-
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Minika Go
-http://umperisn.mywire.org/index.php?id=591397&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,Smart BOX Action
-http://umperisn.mywire.org/index.php?id=591398&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 3
-http://umperisn.mywire.org/index.php?id=591400&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 3
-http://umperisn.mywire.org/index.php?id=591401&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 2
-http://umperisn.mywire.org/index.php?id=591402&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 2
-http://umperisn.mywire.org/index.php?id=591403&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 1
-http://umperisn.mywire.org/index.php?id=591404&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Box Office 1
-http://umperisn.mywire.org/index.php?id=591405&token=DeaTHLesS
-
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies star
-http://umperisn.mywire.org/index.php?id=591390&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies Star
-http://umperisn.mywire.org/index.php?id=591391&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies 
-http://umperisn.mywire.org/index.php?id=591392&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies Premiere
-http://umperisn.mywire.org/index.php?id=591393&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies Premiere 2
-http://umperisn.mywire.org/index.php?id=591394&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Movies Premiere 2
-http://umperisn.mywire.org/index.php?id=591395&token=DeaTHLesS
-
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 4
-http://umperisn.mywire.org/index.php?id=591380&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 4
-http://umperisn.mywire.org/index.php?id=591381&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 3
-http://umperisn.mywire.org/index.php?id=591382&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 3
-http://umperisn.mywire.org/index.php?id=591383&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 2
-http://umperisn.mywire.org/index.php?id=591384&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 2
-http://umperisn.mywire.org/index.php?id=591385&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,beIN Series 1
-http://umperisn.mywire.org/index.php?id=591386&token=DeaTHLesS
 
 
 
