@@ -1819,10 +1819,6 @@ https://vidmody.com/vs/tt1270797
 https://vidrame.pro/vr/get/2e79093d/1080.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ia0Q1KKvSWwYbywWcm49uXIZCZ3.jpg" group-title="Filmler",Venom 2 2021
 https://vidmody.com/vs/tt7097896
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5FyIHcUTLFNSk4D5rfsGRTkSwie.jpg" group-title="Filmler",spiderman
-https://vidrame.pro/vr/get/6bc60fee/720.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5FyIHcUTLFNSk4D5rfsGRTkSwie.jpg" group-title="Filmler",spiderman
-https://vidrame.pro/vr/get/b550b4ac/720.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5FyIHcUTLFNSk4D5rfsGRTkSwie.jpg" group-title="Filmler",Spider Man 1 2002
 https://vidmody.com/vs/tt0145487
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/up4mcu95N91I7SnylVCIIMTWZYq.jpg" group-title="Filmler",Örümcek Adam 2 2004
@@ -1831,8 +1827,12 @@ https://vidmody.com/vs/tt0316654
 https://vidmody.com/vs/tt0413300
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/YoNuu4xeGIBTLAPse6RdWgV51t.jpg" group-title="Filmler",İnanılmaz Örümcek Adam 2012
 https://vidmody.com/vs/tt0948470
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/YoNuu4xeGIBTLAPse6RdWgV51t.jpg" group-title="Filmler",İnanılmaz Örümcek Adam 2012 ydk
+https://vidrame.pro/vr/get/b550b4ac/720.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/82bZ816lXLqAVPp0wsvE5S2SuGu.jpg" group-title="Filmler",İnanılmaz Örümcek Adam 2014
 https://vidmody.com/vs/tt1872181
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/82bZ816lXLqAVPp0wsvE5S2SuGu.jpg" group-title="Filmler",İnanılmaz Örümcek Adam 2014 ydk
+https://vidrame.pro/vr/get/6bc60fee/720.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7KQ8dSUHk1yDpiBfOQ4hqMLAqrX.jpg" group-title="Filmler",Örümcek-Adam: Eve Dönüş (Spider-Man: Homecoming - 2017)
 https://vidmody.com/vs/tt2250912
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7KQ8dSUHk1yDpiBfOQ4hqMLAqrX.jpg" group-title="Filmler",Örümcek-Adam: Eve Dönüş (Spider-Man: Homecoming - 2017)
