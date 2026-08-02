@@ -105,7 +105,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83724_dark_360w_270h.png" group-title="YEDEKLER",TRT1 test
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83724_dark_360w_270h.png" group-title="YEDEKLER",TRT1 test
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" group-title="YEDEKLER",TRT1 test
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7lt9umlk1uqx&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-id="TRT BELGESEL" tvg-name="TRT BELGESEL" tvg-logo="https://cdn.technettv.com/channel/20609/logo_256_1699961655.png" group-title="YEDEKLER",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
@@ -236,8 +236,14 @@ https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
 https://streams.uzunmuhalefet.com/stream/e3d3b3f7-7276-4768-9673-388e462401e2.m3u8
 #EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SİNEMALAR",Sinema 1
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Deniz Sinema
+#EXTINF:-1 tvg-logo="http://imgss.ct.ws/denizpostasi.png" group-title="SİNEMALAR",Deniz Postası 
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="SİNEMALAR",Deniz Postası
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="SİNEMALAR",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://imgss.ct.ws/tivi6.png" group-title="SİNEMALAR",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SALON PREMIUM 1
@@ -381,6 +387,8 @@ https://vidmody.com/vs/tt0272020
 https://vidmody.com/vs/tt0486822
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c5aEuJfVMoTzqdyz1gykBxEMlqt.jpg" group-title="Filmler",Kimlik - Idenity 2003 
 https://vidmody.com/vs/tt0309698
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sU2yzV3T1LetBdQPAeBRDb4YwLo.jpg" group-title="Filmler",Kontrat 2006
+https://vidmody.com/vs/tt0445946
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3PFAwjZEys8QYbENNMWjCIhWsF9.jpg" group-title="Filmler",The Equalizer 1 2014
 https://filmarsivi.yusufdkci1.workers.dev/?ID=adalet-1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xNcm0kmMOmE5lxRiDaA6bmx4unH.jpg" group-title="Filmler",The Equalizer 2 2018
@@ -447,6 +455,8 @@ https://vidmody.com/vs/tt1286126
 https://pixeldrain.com/api/file/RA34BkX8?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bxHULJqeW1GlPWr7uvRoWQWsDIe.jpg" group-title="Filmler",GORA 2004 ydk
 https://vidmody.com/vs/tt0384116
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ggtQgembIFKJcSSeuxJocOklasp.jpg" group-title="Filmler",Ayla (2017)
+https://vidmody.com/vs/tt6316138
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjsvHSLW/MG-7007.jpg" group-title="Filmler",Yol Arkadaşım 1 2016
 https://ia601707.us.archive.org/24/items/yol-arkadasim/Yol%20Arkada%C5%9F%C4%B1m.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mAaT4gqrvwGpvZ29dvpgkb8esTf.jpg" group-title="Filmler",Yol Arkadaşım 2 2018
@@ -747,6 +757,8 @@ https://vidmody.com/vs/tt1078912
 https://vidmody.com/vs/tt2692250
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qm1BZxpc35Xope13bdzaLegKHYN.jpg" group-title="Filmler",Müzede Bir Gece 2022
 https://vidmody.com/vs/tt13623880
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k6AYkSNH6MulBlRq1Vvlx1SIqNd.jpg" group-title="Filmler",Gulliver'in Gezileri (2010)
+https://vidmody.com/vs/tt1320261
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hkmz9rxgcweizXNElozGeKwmAJE.jpg" group-title="Filmler",Vahşiler Firarda 2016
 https://vidmody.com/vs/tt4698684
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pv8Whxtaw53cVhlfXA22HLKky67.jpg" group-title="Filmler",Vahşi Vahşi Batı
@@ -1205,6 +1217,8 @@ https://vidmody.com/vs/tt1601913
 https://vidmody.com/vs/tt4844148
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6wk5oAjiqqBv75KprTSEay3i8l0.jpg" group-title="Filmler",Kurt ve Aslan (2021)
 https://vidmody.com/vs/tt10945288
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yVFAemSNEc0hxFQKde1ksZbA6VS.jpg" group-title="Filmler",Sadık Dostum 2019
+https://vidmody.com/vs/tt7616798
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zsrFE6DzUtCmOv1ye4thiicv9EN.jpg" group-title="Filmler",Yolcu The Commuter 2018
 https://vidmody.com/vs/tt1590193
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mN6DNT1wCzDhd8n5ds4qhfzazjD.jpg" group-title="Filmler",Kimliksiz Unknown (2011) 
@@ -1693,6 +1707,8 @@ https://vidmody.com/vs/tt2958484
 https://vidmody.com/vs/tt0792992
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/504WVhBDkrerv2u58gaHtCjKxc9.jpg" group-title="Filmler",Aslan Kral 2019
 https://vidmody.com/vs/tt6105098
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k3ISNO0IWe1Hv8l77pojyIGOw95.jpg" group-title="Filmler",Raya ve Son Ejderha 2021
+https://vidmody.com/vs/tt5109280
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l6rn8sMGG71tPnQr6Tq9GshLUi.jpg" group-title="Filmler",Zamanda Aşk about time 2013
 https://vidmody.com/vs/tt2194499
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aVUcTdVaw7kqwjlMjHO7itgVIbC.jpg" group-title="Filmler",Cennete Bilet 2022
