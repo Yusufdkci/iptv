@@ -368,6 +368,8 @@ https://api.codetabs.com/v1/proxy/?quest=https://yayin-linki.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",🍿🎬Filmler🍿🎬
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Filmler",Filmler
+https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/95ceYgbL0MtuEMUwTHVf2XoKzl1.jpg" group-title="Filmler",Karate Kid 2010
 https://vidmody.com/vs/tt1155076
@@ -1087,6 +1089,8 @@ https://vidmody.com/vs/tt1705952
 https://vidmody.com/vs/tt0313680
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg" group-title="Filmler",Tarzan 1999
 https://vidmody.com/vs/tt0120855
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/55Zyp26dYeEz2Bav4m8Y38EJ2eT.jpg" group-title="Filmler",Orman Çocuğu (2016)
+https://vidmody.com/vs/tt3040964
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AhD3qVfVmxz5CXDxctXwK5nmrOp.jpg" group-title="Filmler",Ölüm Hattı 2004 
 https://vidmody.com/vs/tt0337921 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ocTaizFzASVPClHsx6VRBi5yP9Z.jpg" group-title="Filmler",Parker 2013
@@ -1711,6 +1715,18 @@ https://vidmody.com/vs/tt0792992
 https://vidmody.com/vs/tt6105098
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k3ISNO0IWe1Hv8l77pojyIGOw95.jpg" group-title="Filmler",Raya ve Son Ejderha 2021
 https://vidmody.com/vs/tt5109280
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg" group-title="Filmler",Peter Pan (1953)
+https://vidmody.com/vs/tt0046183
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hgJbjdz50ju50XoFuX9vMeepNgj.jpg" group-title="Filmler",Peter Pan Varolmayan Ülke'de (2002)
+https://vidmody.com/vs/tt0280030
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg" group-title="Filmler",Lilo ve Stiç (2002)
+https://vidmody.com/vs/tt0275847
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cFzVXR8GLeUivgVaQFGbOMuxzOX.jpg" group-title="Filmler",Stitch'in Filmi (2003)
+https://vidmody.com/vs/tt0348124
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/stBL1VlbKHAwquInq7hL5ptzHfa.jpg" group-title="Filmler",Lilo ve Stiç 2: Stiç Zor Durumda (2005)
+https://vidmody.com/vs/tt0457993
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1LCfRArffse3PnqkACooOHkWcry.jpg" group-title="Filmler",Leroy ve Stiç (2006)
+https://vidmody.com/vs/tt0486761
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l6rn8sMGG71tPnQr6Tq9GshLUi.jpg" group-title="Filmler",Zamanda Aşk about time 2013
 https://vidmody.com/vs/tt2194499
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aVUcTdVaw7kqwjlMjHO7itgVIbC.jpg" group-title="Filmler",Cennete Bilet 2022
@@ -1929,7 +1945,7 @@ https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mp
 https://vidmody.com/vs/tt2387433
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Köpek Firarda 2008
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Marley ve Ben
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Marley ve Ben Gençlik Yılları 2011
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Ejder Avcıları 2008
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
@@ -2006,10 +2022,10 @@ https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",🚨🚨deneme🔴🔴
 https://drive.google.com/uc?id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) Flyboys
 https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0454824
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) flyboys
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) Flyboys
 https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) deneme6
