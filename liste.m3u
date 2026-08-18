@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://www.open-epg.com/files/turkey3.xml.gz,https://www.open-epg.com/files/turkey1.xml.gz,https://www.open-epg.com/files/turkey2.xml.gz,https://www.open-epg.com/files/turkey5.xml.gz,https://iptv-epg.org/files/epg-tr.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",🌿GENEL🌿
-https://ornek.m3u8
+https://vidmody.com/vs/tt
 
 #EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="TRT 1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="GENEL",TRT1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
@@ -890,7 +890,7 @@ https://vidmody.com/vs/tt0099785
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7YY9olih5CJEqNoTxLF3Fsjjbu4.jpg" group-title="Filmler",Evde Tek Başına 2 1992
 https://filmarsivi.yusufdkci1.workers.dev/?ID=homealone2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7YY9olih5CJEqNoTxLF3Fsjjbu4.jpg" group-title="Filmler",ydk evde tek başına 2
-https://filmarsivi.yusufdkci1.workers.dev/?ID=ydkhomealone2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0104431
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gL34FKe3ii7g9cNkNtWQVOT67vb.jpg" group-title="Filmler",Evde Tek Başına 3 1997 
 https://vidmody.com/vs/tt0119303
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8koEfsOsg8Me80gQnEM9RxinS7V.jpg" group-title="Filmler",Evde Tek Başına 4 2002
@@ -908,9 +908,9 @@ https://vidmody.com/vs/tt0133385
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2lC9lzozlzVxCsSgPjRz5AWcz00.jpg" group-title="Filmler",asteriks ve oburiks 2 2002
 https://filmarsivi.yusufdkci1.workers.dev/?ID=asteriks-ve-oburiks-2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2lC9lzozlzVxCsSgPjRz5AWcz00.jpg" group-title="Filmler",v1asteriks ve oburiks 2 2002
-https://filmarsivi.yusufdkci1.workers.dev/?ID=v1asteriks-ve-oburiks-2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0250223
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2lC9lzozlzVxCsSgPjRz5AWcz00.jpg" group-title="Filmler",v2asteriks ve oburiks 2 2002
-https://filmarsivi.yusufdkci1.workers.dev/?ID=v2asteriks-ve-oburiks-2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=yedektt0250223
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eZw4CmBDfTqhQ2wJniq1QU5a4tl.jpg" group-title="Filmler",asteriks ve oburiks 3 2008
 https://vidmody.com/vs/tt0463872
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gf9Nbc0d/MG-2945.jpg" group-title="Filmler",Asteriks ve Oburiks 4 Gizli Görevde 2012 
@@ -1684,9 +1684,9 @@ https://vidmody.com/vs/tt9288046
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8DhD5SdoiWwPJKwGTMnMHWkij4.jpg" group-title="Filmler",Ailem Robotlara Karşı 2021
 https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8DhD5SdoiWwPJKwGTMnMHWkij4.jpg" group-title="Filmler",ailem robotlara karşı ydk5 hdfilmizle 2021
-https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi-ydk5
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tt7979580
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8DhD5SdoiWwPJKwGTMnMHWkij4.jpg" group-title="Filmler",ailem robotlara karşı ydk6 hdfilmizle 2021
-https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi-ydk6
+https://filmarsivi.yusufdkci1.workers.dev/?ID=yedektt7979580
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AwBJTSrB3JrX7sPI3AxIduwgbjx.jpg" group-title="Filmler",Alvin ve Sincaplar 1 2007 
 https://vidmody.com/vs/tt0952640
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/narwDmgEU0Uk6pbwR1Vz5KKhZEG.jpg" group-title="Filmler",Alvin ve Sincaplar 2 2009 
@@ -2006,6 +2006,41 @@ https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",🚨🚨deneme🔴🔴
 https://drive.google.com/uc?id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006)
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0454824
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) flyboys
+https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) deneme6
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme6
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) deneme7
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme7
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) deneme8
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) deneme9
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme9
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) deneme10
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme10
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Kahraman pilotlar(2006) deneme11
+https://filmarsivi.yusufdkci1.workers.dev/?ID=deneme11
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",okru
+https://filmarsivi.yusufdkci1.workers.dev/?ID=okru
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",okru2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=okru2
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Lost s1e1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0411008
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",Lost s1e1 test1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0411008test1
 
 
 
