@@ -338,9 +338,6 @@ http://umperisn.mywire.org/index.php?id=591386&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",SPOR
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",Tivibu Spor
-https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR",TrGoals Yayını kapalı
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
@@ -2043,15 +2040,6 @@ https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg" group-title="test",Kahraman pilotlar test4
 https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aiW8TWjIuFveTcA5BCU7KMjPaaW.jpg" group-title="test",paulie1
-https://filmarsivi.yusufdkci1.workers.dev/?ID=paulie1
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aiW8TWjIuFveTcA5BCU7KMjPaaW.jpg" group-title="test",paulie2
-https://filmarsivi.yusufdkci1.workers.dev/?ID=paulie2
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aiW8TWjIuFveTcA5BCU7KMjPaaW.jpg" group-title="test",paulie3
-https://filmarsivi.yusufdkci1.workers.dev/?ID=paulie3
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4mQCF7U07cFkHwG3GKzpbnB8DHS.jpg" group-title="test",Marley ve Ben Gençlik Yılları
 https://filmarsivi.yusufdkci1.workers.dev/?ID=test12
