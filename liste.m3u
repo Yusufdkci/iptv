@@ -423,7 +423,7 @@ https://vidmody.com/vs/tt2713180
 https://vidmody.com/vs/tt6924650
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/udySr2TNzk5W7Q7pvWSwCNLSv2u.jpg" group-title="Filmler",Korkusuzlar: Midway Savaşı (2019) 
 https://vidmody.com/vs/tt8685520
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg" group-title="Filmler",Kahraman pilotlar(2006) Flyboys
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg" group-title="Filmler",Kahraman pilotlar(2006) Flyboys
 https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0454824
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jjzjM9tkfBnq8hu3IxaMXjTojaR.jpg" group-title="Filmler",Yakın Tehlike Danger Close 2019
 https://vidmody.com/vs/tt0441881 
@@ -1737,6 +1737,8 @@ https://vidmody.com/vs/tt0457993
 https://vidmody.com/vs/tt0486761
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cTcyzuv1O7ufAwopfcTAan7Njwk.jpg" group-title="Filmler",Moana 2016
 https://vidmody.com/vs/tt3521164
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3C9jcjZSwRVDk83VgBK7WU5qVQ8.jpg" group-title="Filmler",Moana 2 (2024)
+https://vidmody.com/vs/tt13622970
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l6rn8sMGG71tPnQr6Tq9GshLUi.jpg" group-title="Filmler",Zamanda Aşk about time 2013
 https://vidmody.com/vs/tt2194499
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aVUcTdVaw7kqwjlMjHO7itgVIbC.jpg" group-title="Filmler",Cennete Bilet 2022
@@ -2027,11 +2029,29 @@ https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",🚨🚨deneme🔴🔴
 https://drive.google.com/uc?id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500_and_h900_face/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg" group-title="test",Kahraman pilotlar(2006) Flyboys
+#EXTINF:-1 tvg-logo="https://turkcealtyazi.org/resimler/film/0454824/l-flyboys-fdfe3e66.jpg" group-title="test",Kahraman pilotlar(2006) Flyboys
+https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5CL0VXKhhQnzyUGJdmCzbFpRMG0.jpg" group-title="test",Kahraman pilotlar test1
+https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bI2pLczw1iwp4Rk8eVnMeqNi5qQ.jpg" group-title="test",Kahraman pilotlar test2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg" group-title="test",Kahraman pilotlar test3
+https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg" group-title="test",Kahraman pilotlar test4
 https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aiW8TWjIuFveTcA5BCU7KMjPaaW.jpg" group-title="test",paulie1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=paulie1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aiW8TWjIuFveTcA5BCU7KMjPaaW.jpg" group-title="test",paulie2
+https://filmarsivi.yusufdkci1.workers.dev/?ID=paulie2
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aiW8TWjIuFveTcA5BCU7KMjPaaW.jpg" group-title="test",paulie3
+https://filmarsivi.yusufdkci1.workers.dev/?ID=paulie3
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4mQCF7U07cFkHwG3GKzpbnB8DHS.jpg" group-title="test",Marley ve Ben Gençlik Yılları
 https://filmarsivi.yusufdkci1.workers.dev/?ID=test12
