@@ -630,14 +630,14 @@ https://vidmody.com/vs/tt31227572
 https://vidmody.com/vs/tt0955308
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oJTFVHLD8xSqXUrsFzv59GwYUSb.jpg" group-title="Filmler",Taşıyıcı Son Hız 2015
 https://vidmody.com/vs/tt2938956
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oJTFVHLD8xSqXUrsFzv59GwYUSb.jpg" group-title="Filmler",Taşıyıcı Son Hız 2015 ydk
+https://pixeldrain.com/api/file/2D9iza35?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g7unUAXXZQf8nsLmKOItJbnUJVM.jpg" group-title="Filmler",Taşıyıcı 1 2002 [JS]
 https://pixeldrain.com/api/file/gCX8vGqZ?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ivB9XX1QEZ1DO3wQDuIKaSMkyNO.jpg" group-title="Filmler",Taşıyıcı 2 2005 [JS]
 https://pixeldrain.com/api/file/aYC3hY5Y?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wy7fIzjCNeyJIJezQSTEstTYeCs.jpg" group-title="Filmler",taşıyıcı 3
 https://filmarsivi.yusufdkci1.workers.dev/?ID=tasiyici-3
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oJTFVHLD8xSqXUrsFzv59GwYUSb.jpg" group-title="Filmler",Taşıyıcı 4 2015
-https://pixeldrain.com/api/file/2D9iza35?=.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/97VCRty5c2OrpOWTMKEsk6rtZlT.jpg" group-title="Filmler",Soldier Asker 1998
 https://vidmody.com/vs/tt0120157
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qer4dQQATYs5vHxpU8LFOsbY1L8.jpg" group-title="Filmler",Evrenin Askerleri 1992
@@ -908,9 +908,9 @@ https://vidmody.com/vs/tt3759416
 https://vidmody.com/vs/tt0133385
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2lC9lzozlzVxCsSgPjRz5AWcz00.jpg" group-title="Filmler",asteriks ve oburiks 2 2002
 https://filmarsivi.yusufdkci1.workers.dev/?ID=asteriks-ve-oburiks-2
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2lC9lzozlzVxCsSgPjRz5AWcz00.jpg" group-title="Filmler",v1asteriks ve oburiks 2 2002
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2lC9lzozlzVxCsSgPjRz5AWcz00.jpg" group-title="Filmler",asteriks ve oburiks 2 2002 ydk1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0250223
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2lC9lzozlzVxCsSgPjRz5AWcz00.jpg" group-title="Filmler",v2asteriks ve oburiks 2 2002
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2lC9lzozlzVxCsSgPjRz5AWcz00.jpg" group-title="Filmler",v2asteriks ve oburiks 2 2002 ydk2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=yedektt0250223
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eZw4CmBDfTqhQ2wJniq1QU5a4tl.jpg" group-title="Filmler",asteriks ve oburiks 3 2008
 https://vidmody.com/vs/tt0463872
@@ -978,8 +978,8 @@ https://vidmody.com/vs/tt0100507
 https://vidmody.com/vs/tt0479143
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wFC24MdTuEij74xwRFHrCUWJicW.jpg" group-title="Filmler",Tango ve Cash 1989
 https://vidmody.com/vs/tt0098439
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4W9DwWojdsuouDc9QlplAjxsPb1.jpg" group-title="Filmler",Rambo: İlk Kan 1 (1982) worker ekle
-https://filmarsivi.yusufdkci1.workers.dev/?ID=rambo1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4W9DwWojdsuouDc9QlplAjxsPb1.jpg" group-title="Filmler",Rambo: İlk Kan 1 (1982)
+https://vidmody.com/vs/tt0083944
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dz7PpKgAL6ZMjHuuxqLV5Il3fK8.jpg" group-title="Filmler",Rambo: İlk Kan 2 (1985) 
 https://vidmody.com/vs/tt0089880
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2GKrbHwwWZBhDnk7k2WGU79COP1.jpg" group-title="Filmler",Rambo 3 (1988)
@@ -1204,12 +1204,6 @@ https://vidmody.com/vs/tt1876277
 https://vidmody.com/vs/tt0277296
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lxIvE2sdCs19A4GpVLuyW6W4Xus.jpg" group-title="Filmler",Akrep Kral 2 2008
 https://vidmody.com/vs/tt1104123
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9BpYX5pWY4OMajsG6xNloZvDN9S.jpg" group-title="Filmler",Akrep Kral 3 2012
-https://vidmody.com/vs/tt1781896
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2s69P0aW8u27nibMUSlDakwMZj7.jpg" group-title="Filmler",Akrep Kral 4 2015
-https://vidmody.com/vs/tt3086386
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4uk6QhcCHmJbn8SD0o7utUFrHeK.jpg" group-title="Filmler",Akrep Kral 5 2018
-https://vidmody.com/vs/tt7338690
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2ymYXYQYpr6GnrwxRs4UjGHob0X.jpg" group-title="Filmler",Beyaz Diş 1991
 https://vidmody.com/vs/tt0103247
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9yVjR8m7p8z7nKjOxOcBAUDXpuQ.jpg" group-title="Filmler",⚠️[X] Beyaz Diş_2 Kurt Efsanesi 1994
@@ -1692,9 +1686,9 @@ https://vidmody.com/vs/tt29623480
 https://vidmody.com/vs/tt9288046
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8DhD5SdoiWwPJKwGTMnMHWkij4.jpg" group-title="Filmler",Ailem Robotlara Karşı 2021
 https://filmarsivi.yusufdkci1.workers.dev/?ID=ailem-robotlara-karsi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8DhD5SdoiWwPJKwGTMnMHWkij4.jpg" group-title="Filmler",ailem robotlara karşı ydk5 hdfilmizle 2021
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8DhD5SdoiWwPJKwGTMnMHWkij4.jpg" group-title="Filmler",ailem robotlara karşı ydk1
 https://filmarsivi.yusufdkci1.workers.dev/?ID=tt7979580
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8DhD5SdoiWwPJKwGTMnMHWkij4.jpg" group-title="Filmler",ailem robotlara karşı ydk6 hdfilmizle 2021
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8DhD5SdoiWwPJKwGTMnMHWkij4.jpg" group-title="Filmler",ailem robotlara karşı ydk2
 https://filmarsivi.yusufdkci1.workers.dev/?ID=yedektt7979580
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AwBJTSrB3JrX7sPI3AxIduwgbjx.jpg" group-title="Filmler",Alvin ve Sincaplar 1 2007 
 https://vidmody.com/vs/tt0952640
@@ -2036,9 +2030,6 @@ https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
 https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg" group-title="test",Kahraman pilotlar test3
-https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg" group-title="test",Kahraman pilotlar test4
 https://filmarsivi.yusufdkci1.workers.dev/?ID=flyboys
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4mQCF7U07cFkHwG3GKzpbnB8DHS.jpg" group-title="test",Marley ve Ben Gençlik Yılları
