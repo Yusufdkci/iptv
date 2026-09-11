@@ -316,10 +316,6 @@ http://umperisn.mywire.org/index.php?id=594676&token=DeaTHLesS
 http://82.70.45.131/Uyan.php?ID=Belgesel%20TV
 
 #EXTINF:-1 tvg-id="BBC.EARTH.tr" tvg-name="BBC EARTH" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="Belgesel",BBC EARTH HD
-#EXT-X-KANAL-TIPI:AUTO
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3H98G67KZ9HAS9/6854/index.m3u8
-
-#EXTINF:-1 tvg-id="BBC.EARTH.tr" tvg-name="BBC EARTH" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="Belgesel",BBC EARTH HD
 http://umperisn.mywire.org/index.php?id=594660&token=DeaTHLesS
 
 #EXTINF:-1 tvg-id="DISCOVERY.CHANNEL.tr" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838478.png" group-title="Belgesel",Dıscovery Channel DISCOVERY
@@ -357,8 +353,6 @@ http://umperisn.mywire.org/index.php?id=591434&token=DeaTHLesS
 http://umperisn.mywire.org/index.php?id=591429&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" group-title="SİNEMALAR",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
-#EXTINF:-1 tvg-id="SDM Sinema Keyfi" tvg-name="SDM Sinema Keyfi" tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" group-title="SİNEMALAR",SDM Sinema Keyfi
-https://streams.uzunmuhalefet.com/stream/e3d3b3f7-7276-4768-9673-388e462401e2.m3u8
 #EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SİNEMALAR",Sinema 1
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgss.ct.ws/denizpostasi.png" group-title="SİNEMALAR",Deniz Postası 
@@ -371,14 +365,10 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="SİNEMALAR",Yabancı Sinema
 http://82.70.45.131/Uyan.php?ID=Yabanc%C4%B1%20Sinema
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SİNEMALAR",Grand Cinema
-https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SİNEMALAR",SALON PREMIUM 1
 https://catcast.ismailturret.workers.dev/playercinema-premium 1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SİNEMALAR",SALON PREMIUM 2
 https://catcast.ismailturret.workers.dev/playercinema-premium2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SİNEMALAR",EURO 90 CH
-http://euro90ch.streams-supersatforum.workers.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n1X_u4aeXduTFxX5lrcQDfFQ4X-UI5RbaFJukkRtOOYg" group-title="SİNEMALAR",beIN MOVIES PREMIERE VPN
 http://82.70.45.131/Spor.php?ID=942987224639af4d0df89
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n1X_u4aeXduTFxX5lrcQDfFQ4X-UI5RbaFJukkRtOOYg" group-title="SİNEMALAR",beIN MOVIES PREMIERE 2 VPN
@@ -1826,7 +1816,7 @@ https://vidmody.com/vs/tt0320661
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJhevZm9ZMbBizFoWuqReoQhq2M.jpg" group-title="Filmler",Titanların Öfkesi 2012
 https://filmarsivi.yusufdkci1.workers.dev/?ID=tt1646987
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBo2rcQhQdPqalHry9bZTYiC8Yb.jpg" group-title="Filmler",Titanların Savaşı 2010
-tt0800320
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0800320
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9ajbORY7zQrdxlMF2QPfIqTLfg7.jpg" group-title="Filmler",Wanted 2008
 https://vidmody.com/vs/tt0493464
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bRDAc4GogyS9ci3ow7UnInOcriN.jpg" group-title="Filmler",X men 2000 
@@ -1884,9 +1874,7 @@ https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0371746
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vzsdbpqOImEg8njfvK5kLLpUgsW.jpg" group-title="Filmler",ıron man 2 2010
 https://vidmody.com/vs/tt1228705
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wpW7k3TYS3WG89vPiRQr4peEcFO.jpg" group-title="Filmler",ıron man 3 2013
-https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wpW7k3TYS3WG89vPiRQr4peEcFO.jpg" group-title="Filmler",ıron man 3 yedek 2013
-https://vidmody.com/vs/tt1300854
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tt1300854
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jN9CTWJjL1j1F0OokhnyiRGYFu4.jpg" group-title="Filmler",Kaptan Amerika 1 İlk Yenilmez 2011
 https://vidmody.com/vs/tt0458339
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dgqEHkpBLa1JhN1QtdIyrqFmDWE.jpg" group-title="Filmler",Kaptan Amerika 2 2014 
@@ -2058,20 +2046,7 @@ http://iptv.prosto.tv:7000/ch312/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="7/24 Yayın",Лес
 http://iptv.prosto.tv:7000/ch330/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",###deneme### 
-https://p3.photomag.biz/v/cs2mjom2vf0t/1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",---deneme---
-https://imgsapi.pro/eDxFljgFxjeFfkA1piWGRhgXn4jePxcZGF2gQD0ZX4cXnbkfGNNNN
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",•••deneme•••
-https://ornek.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",☢️☢️deneme⚠️⚠️
-https://drive.google.com/uc?export=download&id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="test",🚨🚨deneme🔴🔴
-https://drive.google.com/uc?id=1xmWSqemUQoMI_nGqC2DFUPPg02DhkChO
 
 
 
