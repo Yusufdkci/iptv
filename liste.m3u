@@ -122,7 +122,6 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png" group-title="GENEL",SAT 7 TÜRK
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 
-==========================================##########################################==========================================
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="YEDEKLER",@@@ YEDEKLER @@@
 https://videos.pexels.com/video-files/17275616/17275616-uhd_1440_2560_30fps.mp4?=.mpg
@@ -302,7 +301,6 @@ https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://yt3.ggpht.com/gWxG3v8R74BMB5GWgX0v9HoFKmKLtTl533CgLfoHcRfRXQPTTcAYgvrnplkwqOmq4GZnmOLkbw" group-title="YEDEKLER",24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 
-==========================================##########################################==========================================
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",🍀☘️Belgeseller🍀☘️
 https://videos.pexels.com/video-files/31091800/13285423_1920_1080_30fps.mp4?=.mpg
@@ -341,7 +339,6 @@ http://umperisn.mywire.org/index.php?id=594672&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Belgesel",Ed Stafford
 https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
 
-==========================================##########################################==========================================
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SİNEMALAR",SİNEMALAR 🎥 🌟⚡️✨
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
@@ -461,7 +458,6 @@ http://umperisn.mywire.org/index.php?id=591385&token=DeaTHLesS
 #EXTINF:-1 group-title="SİNEMALAR" ,beIN Series 1
 http://umperisn.mywire.org/index.php?id=591386&token=DeaTHLesS
 
-==========================================##########################################==========================================
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="SPOR",SPOR⚽️⚽️
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
@@ -526,7 +522,6 @@ http://82.70.45.131/Spor.php?ID=593493860189d11f7fa05
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/smartwebos/TV/refs/heads/main/beINSPORTSHD1.png" group-title="SPOR",beIN SPORTS HD1 vpn
 http://82.70.45.131/Spor.php?ID=6621796209b1d59f3eb10
 
-==========================================##########################################==========================================
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/yabanci_sinema.png" group-title="Filmler",🍿🎬Filmler🍿🎬
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
@@ -1260,7 +1255,7 @@ https://filmarsivi.yusufdkci1.workers.dev/?ID=paulie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2ymYXYQYpr6GnrwxRs4UjGHob0X.jpg" group-title="Filmler",Beyaz Diş 1991
 https://vidmody.com/vs/tt0103247
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9yVjR8m7p8z7nKjOxOcBAUDXpuQ.jpg" group-title="Filmler",⚠️[X] Beyaz Diş_2 Kurt Efsanesi 1994
-http://movie.okru.workers.dev/?ID=7326013729160
+https://filmarsivi.yusufdkci1.workers.dev/?ID=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oCBp1457TrTXkKVZSRzsD5uBHGX.jpg" group-title="Filmler",Beyaz Diş 2018
 https://vidmody.com/vs/tt5222768
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cbLh0tVqjqcDnob7w79XkIQ7gGI.jpg" group-title="Filmler",Kırmızı Köpek 2011
@@ -1962,22 +1957,21 @@ https://vidmody.com/vs/tt7668724
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1MhCLk4TzLAQmj7SfUWO7X2iWQP.jpg" group-title="Filmler",Gökyüzünde Dehşet Altitude 2010
 https://filmarsivi.yusufdkci1.workers.dev/?ID=gokyuzundedehsetaltitude
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yHBeLWuTLozNLAXFnbeG0P89h0.jpg" group-title="Filmler",⚠️[X] Geri Sayım (Ticking Clock) 2011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yHBeLWuTLozNLAXFnbeG0P89h0.jpg" group-title="Filmler",⚠️[X] Geri Sayım 2011 Ticking Clock
 https://filmarsivi.yusufdkci1.workers.dev/?ID=gerisayimtickingclock
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/quRhjnXAuIn04VmgM84nmKzt79J.jpg" group-title="Filmler",⚠️[X] Yakın Tehdit Domestic Disturbance 2001
-https://filmarsivi.yusufdkci1.workers.dev/?ID=yakintehditdomesticdisturbance2001
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tt0249478
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uo3MBDwn3o32GJzFyClm7r1ierb.jpg" group-title="Filmler",Wasabi Asabi Polis 2001
 https://vs3.photour.org/v/az3664215h9p/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/842XoZJ50pu3ODqJuFsL7jKPZWU.jpg" group-title="Filmler",⚠️[X] Sokağın Sonundaki Ev 2012
-https://vidmody.com/vs/
+https://filmarsivi.yusufdkci1.workers.dev/?ID=tt1582507
 #EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/210/084/21008429_20130527110516408.jpg" group-title="Filmler",Karanlıktan Gelen 2013
 https://vidmody.com/vs/tt2387433
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1ndojRuuCbKfqt9YgHotJ8aP4gP.jpg" group-title="Filmler",⚠️[X] Köpek Firarda 2008
-https://vidmody.com/vs/
+https://filmarsivi.yusufdkci1.workers.dev/?ID=kopekfirarda
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pwwfSOoPNfzE4dM7JALiVBPdzGA.jpg" group-title="Filmler",⚠️[X] Ejder Avcıları 2008
-https://vidmody.com/vs/
+https://filmarsivi.yusufdkci1.workers.dev/?ID=ejderavcilari
 
-==========================================##########################################==========================================
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="7/24 Yayın",❄️🦋7/24 Yayın❄️🦋
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
