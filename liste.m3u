@@ -462,19 +462,19 @@ https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1514.xyz
-https://pixeldrain.com/api/file/wuAQBfXP?fn=video.mp4
+https://pixeldrain.com/api/file/wuAQBfXP
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test1 Spor Kanalı kapalı
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1514.xyz
-https://pixeldrain.com/api/file/wuAQBfXP?fn=video.mp4
+https://pixeldrain.com/api/file/wuAQBfXP?download
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test2 Spor Kanalı kapalı
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1514.xyz
-https://pixeldrain.com/api/file/wuAQBfXP?fn=video.mp4
+https://pixeldrain.com/api/file/wuAQBfXP?download
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR",test3 Spor Kanalı kapalı
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
